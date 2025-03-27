@@ -229,7 +229,10 @@ An email I got afterwards:
 ```text
 Dear Richel,
 
-Thanks for the wonderful course. I, unfortunately, have to attend another meeting in the later half of the day and cannot continue to attend the course session. I will fill out the evaluation form.
+Thanks for the wonderful course. I, unfortunately,
+have to attend another meeting in the later half of the day
+and cannot continue to attend the course session.
+I will fill out the evaluation form.
 
 Thank you and best wishes, 
 [name of learner]
