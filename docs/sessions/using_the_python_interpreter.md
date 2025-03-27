@@ -191,7 +191,7 @@ Then answer these questions:
     Alvis      |[here](https://www.c3se.chalmers.se/)
     Bianca     |[here](https://docs.uppmax.uu.se)
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/)
-    Dardel     |[here](https://support.pdc.kth.se/doc/support)
+    Dardel     |[here](https://support.pdc.kth.se/doc/contact/contact_support/)
     Kebnekaise |[here](https://docs.hpc2n.umu.se)
     LUMI       |[here](https://docs.lumi-supercomputer.eu/)
     Rackham    |[here](https://docs.uppmax.uu.se)
@@ -207,7 +207,7 @@ Then answer these questions:
     Alvis      |[here](https://www.c3se.chalmers.se/documentation/for_users/getting_started/how_to_login_to_alvis/)
     Bianca     |[here](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/support/)
+    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)
     Kebnekaise |[here](https://docs.hpc2n.umu.se/documentation/access/#login__and__file__transfer)
     LUMI       |[here](https://docs.lumi-supercomputer.eu/firststeps/loggingin/) and [here](https://docs.lumi-supercomputer.eu/firststeps/loggingin-webui/)
     Rackham    |[here](http://docs.uppmax.uu.se/getting_started/login_rackham/)
@@ -238,7 +238,7 @@ and load a Python software module.
     Alvis      |:warning: None, closest is [here](https://www.c3se.chalmers.se/documentation/applications/modules/)|`module load Python/3.12.3-GCCcore-13.3.0`
     Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`module load python/3.11.4`
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)          |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/support/)                                          |`module load bioinfo-tools python/3.11.4`
+    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)                                          |`module load bioinfo-tools python/3.11.4`
     Kebnekaise |[here](https://docs.hpc2n.umu.se/tutorials/userinstalls/#python__packages)                         |`module load GCC/12.3.0 Python/3.11.3`
     LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |Unknown
     Rackham    |[here](http://docs.uppmax.uu.se/software/python/)                                                  |`module load python`
@@ -269,7 +269,7 @@ and start the Python interpreter.
     Alvis      |:warning: [here](https://www.c3se.chalmers.se/documentation/applications/python/)                  |`python`
     Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
     COSMOS     |:warning: [here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)|`python`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/support/)                                          |`python`
+    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)                                          |`python`
     Kebnekaise |:warning: [here](https://docs.hpc2n.umu.se/tutorials/userinstalls/#python__packages)               |`python`
     LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |Probably: `python`
     Rackham    |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
