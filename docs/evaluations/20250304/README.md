@@ -1,5 +1,9 @@
 # Evaluation 2025-03-04
 
+- Number of registrations: 67
+- Number of participants: 16 (24% show-up rate)
+- Number of evaluations:  15 (94% survey response)
+
 ## Results
 
 - [anonymous_evaluations.txt](anonymous_evaluations.txt)
