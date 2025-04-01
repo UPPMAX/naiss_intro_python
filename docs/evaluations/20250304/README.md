@@ -3,6 +3,7 @@
 - Number of registrations: 67
 - Number of participants: 16 (24% show-up rate)
 - Number of evaluations:  15 (94% survey response)
+- [Reflection](../../reflections/20250304/README.md)
 
 ## Results
 
