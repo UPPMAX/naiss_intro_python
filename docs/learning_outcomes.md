@@ -6,7 +6,7 @@ The course is learner-centered ([why?](faq.md#why-is-the-course-learner-centered
 hence the pace is determined be the learners (i.e. not by the clock).
 
 
-You can be reasonably sure you'll do this:
+You can be reasonably sure you'll achieve this:
 
 - I am comfortable using the documentation of my HPC center
 - I am comfortable using the Python book
