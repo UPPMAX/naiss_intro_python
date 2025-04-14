@@ -252,13 +252,6 @@ Because NAISS does not have a GitHub owner page yet.
 This repository will be transferred to a NAISS GitHub owner
 page when it exists.
 
-### Why is the repository name `naiss_intro_python` instead of `naiss_intro_python`?
-
-Because the first name was used in a (rushed!) newsletter.
-
-The name of this repository will be changed to `naiss_intro_python`
-after its first iteration.
-
 ### Why don't you just publish the Zoom room on the website?
 
 As this course follow [Zoom's recommended practices](https://www.zoom.com/en/products/virtual-meetings/resources/securing-your-meetings/).
