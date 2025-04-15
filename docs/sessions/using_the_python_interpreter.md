@@ -197,7 +197,8 @@ Then answer these questions:
     Rackham    |[here](https://docs.uppmax.uu.se)
     Tetralith  |[here](https://www.nsc.liu.se/support/systems/tetralith-getting-started/)
 
-    From there, searching for, for example, 'login' or 'connecting', you will find information
+    From there, searching for, for example,
+    'login' or 'connecting', you will find information
     on how to do so.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
