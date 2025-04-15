@@ -78,11 +78,15 @@ when you leave early :-)
 
 See [prerequisites](prereqs/README.md).
 
-### Why are there so many prerequisites?
-
-Because the newsletter was rushed :-)
-
 ### How can I check if I have registered?
+
+This course is used in multiple contexts:
+
+- When this course is part of
+  [the HPC Python course](https://www.hpc2n.umu.se/events/courses/2025/spring/hpc-python),
+  you'll get an email within a couple of days
+- When this course is stand-alone,
+  see the procedure below
 
 ???- question "Prefer a video?"
 
