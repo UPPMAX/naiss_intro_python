@@ -1,5 +1,8 @@
 # Lesson plan
 
+- [Lesson plan](../../lesson_plan/20240118/README.md)
+- [Evaluation](../../evaluation/20240118/README.md)
+- [Reflection](../../reflections/20240118/README.md)
 - Intro to Python, day 4 of the 'Intro to UPPMAX' course
 - Teacher: Richel
 - Day: Thursday 2024-01-18

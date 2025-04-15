@@ -1,6 +1,8 @@
 # 2024 January
 
-- [Reflection](../../reflections/202540118/README.md)
+- [Lesson plan](../../lesson_plan/20240118/README.md)
+- [Evaluation](../../evaluation/20240118/README.md)
+- [Reflection](../../reflections/20240118/README.md)
 
 In this course's iteration, it was part of the 'UPPMAX Intro course'.
 Due to this, the evaluation results were directed to this course
