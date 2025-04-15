@@ -3,8 +3,8 @@
 - Date of teaching: 2023-01-18
 - Reflection date: 2023-01-18
 - Teacher: Richel
-- [Lesson plan](../../lesson_plan/20240118/README.md)
-- [Evaluation](../../evaluation/20240118/README.md)
+- [Lesson plan](../../lesson_plans/20240118/README.md)
+- [Evaluation](../../evaluations/20240118/README.md)
 - [Reflection](../../reflections/20240118/README.md)
 
 ## Before the lesson
