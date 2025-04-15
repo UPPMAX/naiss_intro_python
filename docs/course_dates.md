@@ -19,8 +19,7 @@ tags:
 
 Week|Date                     |Times     |Registration closes|Remarks
 ----|-------------------------|----------|-------------------|------------------
-10  |Tuesday March 4th 2025   |9:00-16:00|2025-03-03         |.
-17  |Thursday April 24th 2025 |9:00-16:00|?                  |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
+17  |Thursday April 24th 2025 |9:00-16:00|Closed             |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
 42  |Tuesday October 14th 2025|9:00-16:00|2025-10-09         |.
 
 <!-- markdownlint-enable MD013 -->
