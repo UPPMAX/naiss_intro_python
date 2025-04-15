@@ -197,14 +197,14 @@ Then answer these questions:
     Rackham    |[here](https://docs.uppmax.uu.se)
     Tetralith  |[here](https://www.nsc.liu.se/support/systems/tetralith-getting-started/)
 
-    From there, searching for, for example, 'login', you will find information
+    From there, searching for, for example, 'login' or 'connecting', you will find information
     on how to do so.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
     HPC Cluster|Link to documentation
     -----------|------------------------------------------------------
-    Alvis      |[here](https://www.c3se.chalmers.se/documentation/for_users/getting_started/how_to_login_to_alvis/)
+    Alvis      |[here](https://www.c3se.chalmers.se/documentation/connecting/)
     Bianca     |[here](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)
     Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)
@@ -235,19 +235,21 @@ and load a Python software module.
 
     HPC Cluster|Link to documentation                                                                              |Solution
     -----------|---------------------------------------------------------------------------------------------------|------------------------------------------------------
-    Alvis      |:warning: None, closest is [here](https://www.c3se.chalmers.se/documentation/applications/modules/)|`module load Python/3.12.3-GCCcore-13.3.0`
+    Alvis      |[short](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long](https://www.c3se.chalmers.se/documentation/module_system/modules/) |`module load Python/3.12.3-GCCcore-13.3.0`
     Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`module load python/3.11.4`
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)          |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)                                          |`module load bioinfo-tools python/3.11.4`
-    Kebnekaise |[here](https://docs.hpc2n.umu.se/tutorials/userinstalls/#python__packages)                         |`module load GCC/12.3.0 Python/3.11.3`
+    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/software/module/) and [here](https://support.pdc.kth.se/doc/applications/python/)    |`module load bioinfo-tools python/3.11.4`
+    Kebnekaise |[here](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                          |`module load GCC/12.3.0 Python/3.11.3`
     LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |Unknown
     Rackham    |[here](http://docs.uppmax.uu.se/software/python/)                                                  |`module load python`
     Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                    |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
-    - :warning: means that there is either no direct to the documentation
-      and/or the documentation present is incomplete.
+    - :warning: means that the documentation does not clearly answer
+      this question.
+      You may find that you can piece it together easily enough or
+      you may find that you cannot.
       You are encouraged
       to contact your HPC center to help them help you better
 
@@ -260,32 +262,33 @@ and start the Python interpreter.
 
     From the documentation of your center, searching for, for example,
     'Python' or 'Python interpreter',
-    you will find information on how to start the Python interpreter.
+    you may find information on how to start the Python interpreter.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
     HPC Cluster|Link to documentation                                                                              |Solution
     -----------|---------------------------------------------------------------------------------------------------|------------------------------------------------------
-    Alvis      |:warning: [here](https://www.c3se.chalmers.se/documentation/applications/python/)                  |`python`
+    Alvis      |:warning:                                                                                          |`python`
     Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
-    COSMOS     |:warning: [here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)|`python`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)                                          |`python`
-    Kebnekaise |:warning: [here](https://docs.hpc2n.umu.se/tutorials/userinstalls/#python__packages)               |`python`
+    COSMOS     |:warning:                                                                                          |`python`
+    Dardel     |:warning:                                                                                          |`python`
+    Kebnekaise |:warning:                                                                                          |`python`
     LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |Probably: `python`
     Rackham    |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
     Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                    |`python`
 
     <!-- markdownlint-enable MD013 -->
 
-    - :warning: means that there is either no direct to the documentation
-      and/or the documentation present is incomplete.
+    - :warning: for this specific question means that the documentation
+      does not answer this.
+      You may find this an acceptable omission or you may not.
       You are encouraged
       to contact your HPC center to help them help you better
 
 ???- question "Cannot get this to work?"
 
     If there is no time to get this fixed during the course,
-    you are also use Python on your local computer.
+    you can also use Python on your local computer.
 
 ### Exercise 4: run a 'Hello world' program
 
