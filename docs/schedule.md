@@ -18,6 +18,8 @@ tags:
 
     See [the course dates](course_dates.md).
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Time        | Topic                                                                                                  |Teacher(s)
 ------------|--------------------------------------------------------------------------------------------------------|----------
 09:00-10:00 | [Using the Python interpreter](sessions/using_the_python_interpreter.md)                               |Richèl
@@ -31,7 +33,9 @@ Time        | Topic                                                             
 14:15-15:00 | [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md) |Richèl
 15:00-15:15 | Break                                                                                                  |.
 15:15-15:45 | [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md)|Richèl
-15:45-16:00 | [Evaluation](evaluation.md)
+15:45-16:00 | [Evaluation](evaluation.md)                                                                            |Richèl
+
+<!-- markdownlint-enable MD013 -->
 
 - [Modules and Python packages](sessions/hello_little_turtles.md)
 - [File IO](sessions/files.md)
