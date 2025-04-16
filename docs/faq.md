@@ -119,7 +119,7 @@ This course is used in multiple contexts:
 Besides that, you should have gotten a welcome email within a couple
 of days.
 
-When it doubt, send an email to `richel.bilderbeek@uppmax.uu.se` :-)
+When it doubt, [contact the main teacher](contact_us.md).
 
 ### How can I check if I have a user account on a Swedish academic HPC cluster?
 
@@ -143,6 +143,8 @@ Register at [https://supr.naiss.se/person/register/](https://supr.naiss.se/perso
 
 There are the HPC clusters that have worked-out answers to the exercises:
 
+<!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
+
 HPC cluster name|Description
 ----------------|------------------------------------------------------------
 Alvis           |AI focussed, uses SSH keys for authentication
@@ -150,8 +152,11 @@ Bianca          |Sensitive data, uses passwords and two-factor authentication
 COSMOS          |General-purpose, Lund university staff only
 Dardel          |General-purpose, uses SSH keys for authentication
 Kebnekaise      |General-purpose, Umeå university staff only
+LUMI            |General-purpose for heavy calculations, uses SSH keys for authentication, use containers to make software available
 Rackham         |General-purpose, Uppsala university staff only
 Tetralith       |General-purpose, uses passwords for authentication
+
+<!-- markdownlint-enable MD013 -->
 
 Without any additional information, Tetralith is recommended.
 
@@ -272,7 +277,7 @@ Preferably:
 
 Else:
 
-- Send an email to `richel.bilderbeek@uppmax.uu.se`.
+- [Send an email to the main teacher](contact_us.md).
   There is no guarantee on a quick reply here.
 
 ## References
