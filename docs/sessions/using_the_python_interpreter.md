@@ -73,6 +73,7 @@ Alvis           |Yes      |No            |No       |Minimal      |Medium
 Bianca          |Yes      |No            |Yes      |Excellent    |Medium
 COSMOS          |No       |No            |Yes      |Good         |Easy
 Dardel          |No       |Yes           |No       |Minimal      |Medium
+LUMI            |No       |Yes           |No       |?            |?
 Kebnekaise      |No       |No            |No       |Good         |Easy
 Rackham         |No       |No            |No       |Excellent    |Easy
 Tetralith       |No       |No            |Yes      |Good         |Easy
@@ -164,8 +165,9 @@ Bianca          |Room 2
 COSMOS          |Room 3
 Dardel          |Room 4
 Kebnekaise      |Room 5
-Rackham         |Room 6
-Tetralith       |Room 7
+LUMI            |Room 6
+Rackham         |Room 7
+Tetralith       |Room 8
 
 - When the main breakout room reaches 4 learners, decide upon 2 to
   move to a free breakout room. Repeat until the group size is below 4.
@@ -224,7 +226,20 @@ Then answer these questions:
 ### Exercise 2: load the Python module
 
 Go to the documentation of your HPC cluster
-and load a Python software module.
+and load a Python software module of the version indicated in the
+table below.
+
+HPC Cluster|Python version
+-----------|--------------
+Alvis      |`3.12.3`
+Bianca     |`3.11.4`
+COSMOS     |`3.11.5`
+Dardel     |`3.11.4`
+Kebnekaise |`3.11.3`
+LUMI       |`3.11.7`
+Rackham    |`3.12.7`
+Tetralith  |`3.10.4`
+
 
 ???- question "Answer"
 
@@ -234,16 +249,16 @@ and load a Python software module.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Link to documentation                                                                              |Solution
-    -----------|---------------------------------------------------------------------------------------------------|------------------------------------------------------
+    HPC Cluster|Link to documentation                                                                                                                                          |Solution
+    -----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
     Alvis      |[short](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long](https://www.c3se.chalmers.se/documentation/module_system/modules/) |`module load Python/3.12.3-GCCcore-13.3.0`
-    Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`module load python/3.11.4`
-    COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)          |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/software/module/) and [here](https://support.pdc.kth.se/doc/applications/python/)    |`module load bioinfo-tools python/3.11.4`
-    Kebnekaise |[here](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                          |`module load GCC/12.3.0 Python/3.11.3`
-    LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |Unknown
-    Rackham    |[here](http://docs.uppmax.uu.se/software/python/)                                                  |`module load python`
-    Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                    |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
+    Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                                                                              |`module load python/3.11.4`
+    COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                      |`module load GCCcore/13.2.0 Python/3.11.5`
+    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/software/module/) and [here](https://support.pdc.kth.se/doc/applications/python/)                              |`module load bioinfo-tools python/3.11.4`
+    Kebnekaise |[here](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                      |`module load GCC/12.3.0 Python/3.11.3`
+    LUMI       |[here](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                              |`module load cray-python/3.11.7`
+    Rackham    |[here](http://docs.uppmax.uu.se/software/python/)                                                                                                              |`module load python/3.12.7`
+    Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                                                                                |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -268,13 +283,13 @@ and start the Python interpreter.
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
     HPC Cluster|Link to documentation                                                                              |Solution
-    -----------|---------------------------------------------------------------------------------------------------|------------------------------------------------------
+    -----------|---------------------------------------------------------------------------------------------------|--------
     Alvis      |:warning:                                                                                          |`python`
     Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
     COSMOS     |:warning:                                                                                          |`python`
     Dardel     |:warning:                                                                                          |`python`
     Kebnekaise |:warning:                                                                                          |`python`
-    LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |Probably: `python`
+    LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |`python`
     Rackham    |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
     Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                    |`python`
 
