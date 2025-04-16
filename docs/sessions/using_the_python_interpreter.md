@@ -73,7 +73,7 @@ Alvis           |Yes      |No            |No       |Minimal      |Medium
 Bianca          |Yes      |No            |Yes      |Excellent    |Medium
 COSMOS          |No       |No            |Yes      |Good         |Easy
 Dardel          |No       |Yes           |No       |Minimal      |Medium
-LUMI            |No       |Yes           |No       |?            |?
+LUMI            |No       |Yes           |No       |Reasonable   |Medium
 Kebnekaise      |No       |No            |No       |Good         |Easy
 Rackham         |No       |No            |No       |Excellent    |Easy
 Tetralith       |No       |No            |Yes      |Good         |Easy
@@ -146,6 +146,7 @@ Tetralith       |No       |No            |Yes      |Good         |Easy
     COSMOS     |SSH         |[here](https://youtu.be/aqqHUvvolds)
     Dardel     |SSH         |[here](https://youtu.be/BAD6y_a5xBQ)
     Kebnekaise |SSH         |[here](https://youtu.be/DpnKUEOcIdE)
+    LUMI       |SSH         |.
     Rackham    |SSH         |[here](https://youtu.be/S6pYTqRmI7U)
     Tetralith  |SSH         |[here](https://youtu.be/OBT9XuVktwg)
 
