@@ -57,7 +57,7 @@ for some good reason. Here we do so!
 To develop code in Python on your HPC clusters, one needs to:
 
 - Login to that HPC cluster, to be able to work on it
-- Load the Python module, to be able to use a modern Python interpreter
+- Load the Python module, to be using the right Python interpreter and environment
 - Use the Python interpreter, to run Python code
 
 Luckily, the documentation of your HPC center
