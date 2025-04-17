@@ -174,7 +174,7 @@ Tetralith       |Room 8
   move to a free breakout room. Repeat until the group size is below 4.
 - When you are the only one in your main breakout room,
   the teachers will let you decide to either work in silence or
-  to join another group. You will be takes care of well :-)
+  to join another group. You will be taken care of well :-)
 
 ### Exercise 1: login to your HPC cluster
 
@@ -183,18 +183,18 @@ and search for the login procedure(s).
 
 Then answer these questions:
 
-- Login to your HPC cluster in any way
+- Login to an interactive session on your HPC cluster
 
 ???- question "Answer"
 
-    The documentation for the your HPC cluster can be found at:
+    The documentation for your HPC cluster can be found at:
 
     HPC Cluster|Link to documentation
     -----------|------------------------------------------------------
     Alvis      |[here](https://www.c3se.chalmers.se/)
     Bianca     |[here](https://docs.uppmax.uu.se)
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/)
-    Dardel     |[here](https://support.pdc.kth.se/doc/contact/contact_support/)
+    Dardel     |[here](https://support.pdc.kth.se/doc/)
     Kebnekaise |[here](https://docs.hpc2n.umu.se)
     LUMI       |[here](https://docs.lumi-supercomputer.eu/)
     Rackham    |[here](https://docs.uppmax.uu.se)
@@ -211,18 +211,13 @@ Then answer these questions:
     Alvis      |[here](https://www.c3se.chalmers.se/documentation/connecting/)
     Bianca     |[here](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)
     COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/contact/contact_support/)
+    Dardel     |[here](https://support.pdc.kth.se/doc/basics/quickstart/)
     Kebnekaise |[here](https://docs.hpc2n.umu.se/documentation/access/#login__and__file__transfer)
     LUMI       |[here](https://docs.lumi-supercomputer.eu/firststeps/loggingin/) and [here](https://docs.lumi-supercomputer.eu/firststeps/loggingin-webui/)
     Rackham    |[here](http://docs.uppmax.uu.se/getting_started/login_rackham/)
     Tetralith  |[here](https://www.nsc.liu.se/support/getting-started/)
 
     <!-- markdownlint-enable MD013 -->
-
-    - :warning: means that there is either no direct to the documentation
-      and/or the documentation present is incomplete.
-      You are encouraged
-      to contact your HPC center to help them help you better
 
 ### Exercise 2: load the Python module
 
@@ -288,7 +283,7 @@ and start the Python interpreter.
     Alvis      |:warning:                                                                                          |`python`
     Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
     COSMOS     |:warning:                                                                                          |`python`
-    Dardel     |:warning:                                                                                          |`python`
+    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/applications/python/)                              |`python`
     Kebnekaise |:warning:                                                                                          |`python`
     LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |`python`
     Rackham    |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
@@ -296,8 +291,8 @@ and start the Python interpreter.
 
     <!-- markdownlint-enable MD013 -->
 
-    - :warning: for this specific question means that the documentation
-      does not answer this.
+    - :warning: for this specific question means that the documentation does
+      not answer this (or the answer is hiding in more complicated examples).
       You may find this an acceptable omission or you may not.
       You are encouraged
       to contact your HPC center to help them help you better
@@ -321,7 +316,7 @@ How does that look like?
 
 ???- question "Answer"
 
-    You output will look similar to this:
+    Your output will look similar to this:
 
     ```python
     $ python
