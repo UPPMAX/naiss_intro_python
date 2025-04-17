@@ -183,7 +183,8 @@ Then in section 2.14, do exercises 1 to and including 4.
 
 !!! question "2.14.3"
 
-    Place a comment before a line of code that previously worked,
+    Place a comment before a line of code
+    in a script that previously worked,
     and record what happens when you rerun the program.
 
 ???- question "Answer"
