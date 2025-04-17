@@ -23,8 +23,8 @@
     - Learners understand the purpose of variables
     - Learners have obtained the data type of a variable
     - Learners have heard about what a data type is
-    - Learners have practiced convert an equation and a text question to Python
-    - Learners have read on operators
+    - Learners have practiced converting an equation and a text question to Python
+    - Learners have read about operators
     - Learners have worked with the modulo operator
     - Learners have written code that asked for user input
 
@@ -45,7 +45,7 @@
 ## Overview
 
 In any non-trivial calculation, we want to let our computer remember
-things, such as the content of a data file, or the parameters/settings
+things, such as the content of a data file or the parameters/settings
 we use in our program. Variables allows one to make a computer
 store ('remember') information. Here we use our first simple variables.
 
@@ -92,12 +92,12 @@ flowchart TD
     style sub_naiss fill:#fcc,color:#000,stroke:#fcc
 
     python --> |is a| programming_language
-    python --> |is a| interpreted_language
+    python --> |is an| interpreted_language
     python --> |is a| scripting_language
 
     programming_language --> |uses| text_files
-    interpreted_language --> |has a| interpreter
-    scripting_language --> |is|interpreted_language
+    interpreted_language --> |has an| interpreter
+    scripting_language --> |is an| interpreted_language
     scripting_language --> |runs| scripts
     scripts --> |are| text_files
     %% scripts --> |can use| command_line_arguments
