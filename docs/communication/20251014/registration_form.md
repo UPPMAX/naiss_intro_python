@@ -24,4 +24,3 @@ This is the registration form for the UPPMAX course 'Intro to Python',
 - LUMI
 - Rackham
 
-
