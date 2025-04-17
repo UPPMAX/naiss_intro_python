@@ -183,7 +183,7 @@ and search for the login procedure(s).
 
 Then answer these questions:
 
-- Login to an interactive session on your HPC cluster
+- Login to an interactive session (e.g. SSH) on your HPC cluster
 
 ???- question "Answer"
 
