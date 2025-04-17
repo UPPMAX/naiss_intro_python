@@ -10,7 +10,7 @@
     - Get a first idea of what a program is
     - Hear about the three types of errors
     - Build up experience with the Python interpreter
-    - Use a text editor on a your HPC cluster
+    - Use a text editor on your HPC cluster
     - Create a Python script
     - Run a Python script
 
@@ -19,7 +19,7 @@
     Teaching goals are:
 
     - Learners have a general idea about what the Python programming language is
-    - Learners have used the word 'Python interpreter'
+    - Learners have used the phrase 'Python interpreter'
     - Learners have a general idea about what a program is
     - Learners have used the terms syntax error, runtime error and semantic error
     - Learners have run code in the Python interpreter
@@ -52,7 +52,7 @@ What is Python? What is a programming language?
 What type of errors will I write when programming?
 How do I write code in Python?
 
-These fundamental question are discussed and practiced in this session.
+These fundamental questions are discussed and practiced in this session.
 
 ```mermaid
 flowchart TD
@@ -83,12 +83,12 @@ flowchart TD
     style sub_naiss fill:#fcc,color:#000,stroke:#fcc
 
     python --> |is a| programming_language
-    python --> |is a| interpreted_language
+    python --> |is an| interpreted_language
     python --> |is a| scripting_language
 
     programming_language --> |uses| text_files
-    interpreted_language --> |has a| interpreter
-    scripting_language --> |is a|interpreted_language
+    interpreted_language --> |has an| interpreter
+    scripting_language --> |is an|interpreted_language
     scripting_language --> |runs| scripts
     scripts --> |are| text_files
     %% scripts --> |can use| command_line_arguments
@@ -133,7 +133,7 @@ Read the following sections of
 - 1.6. Semantic errors
 - 1.9. The first program
 
-Then in section 1.12, do exercises 1 to and including 5.
+Then in section 1.12, do exercises 1 up to and including 5.
 For your convenience,
 the questions are copy-pasted below:
 
@@ -327,7 +327,7 @@ is not defined. If you don't know what that means yet, you will soon.
 
 Here we continue with
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
-chapter 1. In section 1.12, we'll do exercises 6.
+chapter 1. In section 1.12, we'll do exercise 6.
 For your convenience, the question is split into pieces
 and is copy-pasted below.
 
