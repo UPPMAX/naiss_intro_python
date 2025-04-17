@@ -43,7 +43,7 @@ was typed in into the Python interpreter. Such text files
 that run (interpreted) code are called 'scripts'.
 
 In this session, we practice to create and run some simple Python scripts,
-now -unlike the previous chapter- without new theory.
+now&mdash;unlike the previous chapter&mdash;without new theory.
 
 ```mermaid
 flowchart TD
@@ -72,12 +72,12 @@ flowchart TD
     style sub_naiss fill:#fcc,color:#000,stroke:#fcc
 
     python --> |is a| programming_language
-    python --> |is a| interpreted_language
+    python --> |is an| interpreted_language
     python --> |is a| scripting_language
 
     programming_language --> |uses| text_files
-    interpreted_language --> |has a| interpreter
-    scripting_language --> |is a|interpreted_language
+    interpreted_language --> |has an| interpreter
+    scripting_language --> |is an|interpreted_language
     scripting_language --> |runs| scripts
     scripts --> |are| text_files
     %% scripts --> |can use| command_line_arguments
@@ -98,14 +98,14 @@ flowchart TD
 ## Exercises
 
 This is a partial repeat of the previous session,
-however with a different focus.
+but with a different focus.
 
 The goal is to practice the fundamental skills of creating
 and running a script.
 
 ### Exercise 1: create a Python script
 
-Go to the documentation of the documentation of your HPC cluster,
+Go to the documentation of your HPC cluster,
 then answer the questions below. If you cannot find any helpful
 information, use
 [the UPPMAX documentation about `nano`](https://docs.uppmax.uu.se/software/nano/)
@@ -157,7 +157,7 @@ print('Hello, world!')
 
 ### Exercise 2: run a Python script
 
-Go to the documentation of the documentation of your HPC cluster,
+Go to the documentation of your HPC cluster,
 then answer the questions below. If you cannot find any helpful
 information, use
 [the UPPMAX documentation about how to run a Python script](http://docs.uppmax.uu.se/software/python/#running-python).
