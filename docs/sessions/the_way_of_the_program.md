@@ -39,7 +39,7 @@
     Prior questions:
 
     - What types of programming errors exist?
-    - Can you name of types of programming bugs?
+    - Can you name a few types of programming bugs?
     - What is a script?
     - Can you name a text editor?
 
