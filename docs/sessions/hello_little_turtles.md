@@ -37,8 +37,7 @@
 
     - What are features of the Python programming language?
     - What are problems you may face when running someone else's Python code?
-    - Trick question: what is module?
-    - What is a module?
+    - Trick question: what is a module?
     - Which problem do modules solve?
     - What is a Python module/package?
     - Which problem do Python modules/packages solve?
@@ -46,11 +45,11 @@
 
 ## Overview
 
-Sometime you need to get 'stuff to work', for example,
+Sometimes you need to get 'stuff to work', for example,
 code written by someone else.
 In this session, we practice this,
 going through the problems and errors that occur
-when you want to 'just want to run the stupid code'.
+when you 'just want to run the stupid code'.
 
 ```mermaid
 flowchart TD
