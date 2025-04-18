@@ -69,10 +69,10 @@ The difficulty of these exercises depends on your HPC cluster:
 
 HPC cluster name|Need VPN?|Need SSH keys?|Need 2FA?|Documentation|Difficulty
 ----------------|---------|--------------|---------|-------------|----------
-Alvis           |Yes      |No            |No       |Minimal      |Medium
+Alvis           |Yes      |No            |No       |Good         |Medium
 Bianca          |Yes      |No            |Yes      |Excellent    |Medium
 COSMOS          |No       |No            |Yes      |Good         |Easy
-Dardel          |No       |Yes           |No       |Minimal      |Medium
+Dardel          |No       |Yes           |No       |Good         |Medium
 LUMI            |No       |Yes           |No       |Reasonable   |Medium
 Kebnekaise      |No       |No            |No       |Good         |Easy
 Rackham         |No       |No            |No       |Excellent    |Easy
