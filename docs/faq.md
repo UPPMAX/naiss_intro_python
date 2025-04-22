@@ -185,7 +185,7 @@ COSMOS     |SSH                  |[here](https://youtu.be/sMsenzWERTg)
 Dardel     |SSH                  |[here](https://youtu.be/I8cNqiYuA-4)
 Kebnekaise |SSH                  |[here](https://youtu.be/pIiKOKBHIeY)
 Kebnekaise |Website              |[here](https://youtu.be/_O4dQn8zPaw)
-LUMI       |SSH                  |None yet
+LUMI       |SSH                  |[here](https://youtu.be/bPdvn2gajgU)
 Rackham    |Local ThinLinc client|[here](https://youtu.be/PqEpsn74l0g)
 Rackham    |SSH                  |[here](https://youtu.be/TSVGSKyt2bQ)
 Rackham    |Website              |[here](https://youtu.be/HQ2iuKRPabc)
