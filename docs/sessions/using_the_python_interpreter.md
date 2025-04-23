@@ -141,14 +141,14 @@ Tetralith       |No       |No            |Yes      |Good         |Easy
 
     HPC Cluster|Login method|Link to video
     -----------|------------|------------------------------------
-    Alvis      |SSH         |[here](https://youtu.be/R_RxKo-Vma4)
-    Bianca     |SSH         |[here](https://youtu.be/80AG-4niBgk)
-    COSMOS     |SSH         |[here](https://youtu.be/aqqHUvvolds)
-    Dardel     |SSH         |[here](https://youtu.be/BAD6y_a5xBQ)
-    Kebnekaise |SSH         |[here](https://youtu.be/DpnKUEOcIdE)
-    LUMI       |SSH         |.
-    Rackham    |SSH         |[here](https://youtu.be/S6pYTqRmI7U)
-    Tetralith  |SSH         |[here](https://youtu.be/OBT9XuVktwg)
+    Alvis      |SSH         |[Here](https://youtu.be/R_RxKo-Vma4)
+    Bianca     |SSH         |[Here](https://youtu.be/80AG-4niBgk)
+    COSMOS     |SSH         |[Here](https://youtu.be/aqqHUvvolds)
+    Dardel     |SSH         |[Here](https://youtu.be/BAD6y_a5xBQ)
+    Kebnekaise |SSH         |[Here](https://youtu.be/DpnKUEOcIdE)
+    LUMI       |SSH         |[Here](https://youtu.be/bPdvn2gajgU)
+    Rackham    |SSH         |[Here](https://youtu.be/S6pYTqRmI7U)
+    Tetralith  |SSH         |[Here](https://youtu.be/OBT9XuVktwg)
 
 ### Exercise 0: pick a Zoom room
 
