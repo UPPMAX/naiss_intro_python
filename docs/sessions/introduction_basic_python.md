@@ -8,9 +8,9 @@ This module introduces the fundamentals of Python programming language.
       environment. It focuses on the basics and can be taken by someone
       without any prior Python experience.
     - You will learn:
-        - :heavy_check_mark: How to load and use different versions
+        - How to load and use different versions
           of Python on our clusters
-        - :heavy_check_mark: How to create and run a Python script
+        - How to create and run a Python script
         - How to work with basic builtin data types
         - How to use modules to load a Python package
         - How to read from files
