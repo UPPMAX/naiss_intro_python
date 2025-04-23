@@ -2,6 +2,10 @@
 
 - [Lesson plan](../../lesson_plans/20250304/README.md)
 - [Evaluation results](../../evaluations/20250304/README.md)
+- [Reflection](../../reflections/20250304/README.md)
+- Number of registrations: 63
+- Number of learners: 32 learners (50% show-up rate)
+
 
 ## Schedule
 
