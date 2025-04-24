@@ -73,7 +73,7 @@ plot_histrogram(t_post)
 
 mean_pre <- mean(t[t$when == "pre", ]$answer, na.rm = TRUE)
 mean_post <- mean(t[t$when == "post", ]$answer, na.rm = TRUE)
-ks_test <- ks.test(t[t$when == "pre", ]$answer, t[t$when == "post", ]$answer)
+ks_test <- wilcox.test(t[t$when == "pre", ]$answer, t[t$when == "post", ]$answer)
 ks_test_p_value <- ks_test$p.value
 ks_test_is_different <- ks_test$p.value < alpha_value
 
@@ -142,9 +142,9 @@ t_stats <- tibble::tibble(question = unique(t$question), mean_pre = NA, mean_pos
 for (question in unique(t$question)) {
   pre_values <- t[t$question == question & t$when == "pre", ]$answer
   post_values <- t[t$question == question & t$when == "post", ]$answer
-  p <- ks.test(pre_values, post_values)
-  t_stats[t_stats$question == question, ]$mean_pre <- mean(pre_values)
-  t_stats[t_stats$question == question, ]$mean_post <- mean(post_values)
+  p <- wilcox.test(pre_values, post_values)
+  t_stats[t_stats$question == question, ]$mean_pre <- mean(pre_values, na.rm = TRUE)
+  t_stats[t_stats$question == question, ]$mean_post <- mean(post_values, na.rm = TRUE)
   t_stats[t_stats$question == question, ]$p_value <- p$p.value
   t_stats[t_stats$question == question, ]$different <- p$p.value < alpha_value
 }
