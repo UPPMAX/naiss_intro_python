@@ -13,6 +13,7 @@ This module introduces the fundamentals of Python programming language.
 ???- question "For teachers: Lesson plan"
 
     Prior questions:
+
     - What is Pyton?
     - What are features of the Python language?
 
