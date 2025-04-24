@@ -51,6 +51,12 @@
 
 ## Why?
 
+```mermaid
+flowchart TD
+  talk[A letter to do something] --> human[Employee] --> your_order[Something is done]
+  code[Code] --> interpreter[Interpreter] --> machine_code[Machine code]
+```
+
 You want to make a computer run Python code,
 for some good reason. Here we do so!
 
