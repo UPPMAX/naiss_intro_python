@@ -14,6 +14,7 @@ This module introduces the fundamentals of Python programming language.
 
     Prior questions:
     - What is Pyton?
+    - What are features of the Python language?
 
 ???- question "Overview of these sessions as a concept map"
 
@@ -97,11 +98,15 @@ This module introduces the fundamentals of Python programming language.
 ## Why is this course important?
 
 Python, according to [the TIOBE index](https://www.tiobe.com/tiobe-index/)
-is one of the most used programming languages used today.
+is one of the most used programming languages at this day.
 
 Running Python on an HPC cluster allows scientists to
 run their code that needs either (1) massive computation,
 (2) massive storage space, and/or (3) storage of sensitive data.
+
+This course allows you to do your analysis, in one of the
+most used programming languages at this day,
+using some of the most advanced hardware we have at this day.
 
 ## Sessions
 
