@@ -13,7 +13,7 @@
 - [survey_end_text_question.txt](survey_end_text_question.txt)
 - [success_score.txt](success_score.txt): 92%
 
-## Analysis
+## Analysis, only end
 
 - script used: [analyse.R](analyse.R)
 - [average_confidences.csv](average_confidences.csv)
@@ -25,3 +25,16 @@
 
 ![Confidences per question](confidences_per_question.png)
 
+## Analysis, pre and post
+
+
+- [analyse_pre_post.R](analyse_pre_post.R)
+- [stats.md](stats.md)
+	
+![All confidences](all_confidences_pre_post.png)
+
+![Average confidence per questopm](average_confidences_per_question_pre_post.png)
+
+![Confidence per question as boxplot](confidences_per_question_boxplot_pre_post.png)
+
+![Confidence per question](confidences_per_question_pre_post.png)
