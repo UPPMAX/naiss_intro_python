@@ -53,8 +53,15 @@
 
 ```mermaid
 flowchart TD
-  talk[A letter to do something] --> human[Employee] --> your_order[Something is done]
-  code[Code] --> interpreter[Interpreter] --> machine_code[Machine code]
+  a_letter[A letter to do something]
+  employee[Employee]
+  something_done[Something is done]
+  a_letter --> employee --> something_done
+
+  code[Code] 
+  interpreter[Interpreter]
+  machine_code[Machine code]
+  code --> interpreter --> machine_code
 ```
 
 You want to make a computer run Python code,
