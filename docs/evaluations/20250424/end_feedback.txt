@@ -1,5 +1,33 @@
-Great energy from the teacher! It did feel though that the course could be split between pure Python basics and what is the correct way to set up and use it in the HPC cluster. Maybe that is in fact the case, but it was not clear to me. Giving the option to sign up to only specific days after checkign the content of each one could be an idea for better organization.
-Very useful lesson, it was a bit difficult at the beginning to log into the cluster, but then I could follow up easily because the website is well done
+Very good tutor, both engaging and good at explaining. Keep up the good work! :)
 I really liked the setup of the lectures, going through the exercises in breakout rooms was very helpful and I learned a lot from the other people on the course. Thank you for a great course!
-Very good tutor,  both engaging and good at explaining. Keep up the good work! :) 
+Great course, I love the energy which was really motivating and helped maintaining morale and interest. I liked the exercises, I liked that you direct us to the book and gets us used to 'googling' it rather than you presenting, great idea to make study groups, and have someone to bounce ideas with. I would recommend this to anyone that is interested in learning Python.
 
+It was very helpful that we already had access to the terminal, and we were ready to go. For someone that is their first time in the interface, have no idea of basic Linux commands and how to use the terminal, would be substantially harder. For more feedback:
+
+Using the Python interpreter - Exercise 3:
+
+I was uncertain what is an interpreter, which interpreter to use, what did it mean, and how you would run python and the file you wanted. I 'm still not sure btw. In my mind I was thinking 'Pytorch', 'Notepad++'. So what's the difference with a text editor?
+
+________________________________________________________________________________________
+
+Variables, expressions and statements: user input - Exercise 1:
+
+It was a bit confusing what we were to read and what we were to apply. Maybe stress that we focus on the function input() ? Maybe have a skeleton key here for guidance?
+
+________________________________________________________________________________________
+
+Files - Exercise 2
+
+your answer says xs = reversed(xs)
+
+the manual gives xs.sort() which I 've changed to xs.reverse() before checking your answer. Maybe add this as a note somewhere?
+
+__________________________________________________________________________________________
+
+Command-line arguments - Exercise 1
+
+I was NOT getting what's the point of sys.argv even after reading the documentation, asking Copilot the following: 'The list of command line arguments passed to a Python script. argv[0] is the script name (it is operating system dependent whether this is a full pathname or not). If the command was executed using the -c command line option to the interpreter, argv[0] is set to the string '-c'. If no script name was passed to the Python interpreter, argv[0] is the empty string.
+
+To loop over the standard input, or the list of files given on the command line, see the fileinput module. <- explain to me what does that do as if I 'm 12 years old'
+
+and talking with my collague. The coin dropped only after seeing this in a different example. Maybe you could add an extra example here? Maybe with a math equation where you see the outcome a bit more in your face?
