@@ -75,7 +75,7 @@ Then do:
 
 !!! question "13.11.1"
 
-    Write a program that reads a file and writes out a new file
+    Create a script that reads a file and writes out a new file
     with the lines in reversed order
     (i.e. the first line in the old file becomes the last one in the new file.)
 
