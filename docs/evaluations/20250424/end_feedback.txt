@@ -1,0 +1,5 @@
+Great energy from the teacher! It did feel though that the course could be split between pure Python basics and what is the correct way to set up and use it in the HPC cluster. Maybe that is in fact the case, but it was not clear to me. Giving the option to sign up to only specific days after checkign the content of each one could be an idea for better organization.
+Very useful lesson, it was a bit difficult at the beginning to log into the cluster, but then I could follow up easily because the website is well done
+I really liked the setup of the lectures, going through the exercises in breakout rooms was very helpful and I learned a lot from the other people on the course. Thank you for a great course!
+Very good tutor,  both engaging and good at explaining. Keep up the good work! :) 
+
