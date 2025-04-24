@@ -8,7 +8,9 @@
 
 - I had one colleague that I said to treat as a regular learner, but I
   failed: I did treat him like something between TA and learner
-- I missed being helped the first hour, because I felt I talked too much
+- I missed being helped the first hour, although there were some colleagues
+  available. I did not ask for help, because I felt I had talked too much:
+  it was at 9:17 that we started doing exercises
 - One group of 3 ended up in, indeed,
   2 people being active and 1 being passive :-)
 - Also I cannot keep up a full day. And I think that helps us understand
