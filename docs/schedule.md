@@ -37,9 +37,9 @@ Time        | Topic                                                             
 
 <!-- markdownlint-enable MD013 -->
 
-- [Modules and Python packages](sessions/hello_little_turtles.md)
+<!-- - [Modules and Python packages](sessions/hello_little_turtles.md) -->
 - [File IO](sessions/files.md)
 - [Command line arguments](sessions/command_line_arguments.md)
-- [Graphics](sessions/graphics.md)
+<!-- - [Graphics](sessions/graphics.md) -->
 - [Functions](sessions/functions.md)
 - [Further learning](further_learning.md)
