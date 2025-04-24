@@ -5,8 +5,8 @@
 From [the past course iteration's reflection](../../reflections/20250304/README.md):
 
 - [x] Create an exercise at the start of the LOs
-- [ ] Add an image to show what an interpreter does
-- [ ] Remove the mermaid plots
+- [x] Add an image to show what an interpreter does
+- [x] Remove the mermaid plots
 - [ ] Add a 'Further learning' session
 - [x] Merge 'The way of the program' and 'Working with Python scripts'
     - [ ] Do so next iteration

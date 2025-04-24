@@ -54,58 +54,6 @@ How do I write code in Python?
 
 These fundamental questions are discussed and practiced in this session.
 
-```mermaid
-flowchart TD
-    python[[Python]]
-
-    %% Give a white background to all nodes, instead of a transparent one
-    classDef node fill:#fff,color:#000,stroke:#000
-
-    subgraph sub_programming_language[Python as a language]
-      interpreted_language[Interpreted language]
-      programming_language[Programming language]
-      scripting_language[Scripting language]
-      interpreter[Interpreter]
-      scripts[Scripts]
-      text_files[Text files]
-    end
-    style sub_programming_language fill:#ccf,color:#000,stroke:#fcc
-
-
-    subgraph sub_naiss[NAISS]
-      your_hpc_center[Your HPC center]
-      your_hpc_cluster[Your HPC cluster]
-      modules[software modules]
-      text_editors[Text editors]
-      %%x_forwarding[X-forwarding]
-      %%remote_desktop[Remote desktop]
-    end
-    style sub_naiss fill:#fcc,color:#000,stroke:#fcc
-
-    python --> |is a| programming_language
-    python --> |is an| interpreted_language
-    python --> |is a| scripting_language
-
-    programming_language --> |uses| text_files
-    interpreted_language --> |has an| interpreter
-    scripting_language --> |is an|interpreted_language
-    scripting_language --> |runs| scripts
-    scripts --> |are| text_files
-    %% scripts --> |can use| command_line_arguments
-
-    your_hpc_center --> |has| your_hpc_cluster
-    your_hpc_cluster --> |has| modules
-    your_hpc_cluster --> |has| text_editors
-    modules --> |allow the use of| interpreter
-
-    text_editors --> |work on|text_files
-    %%x_forwarding --> |allows|graphics
-    %%remote_desktop --> |allows|graphics
-
-    %% variables ~~~ your_hpc_center
-```
-
-
 ## Exercises
 
 ???- question "Enjoy a video?"
