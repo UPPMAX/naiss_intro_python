@@ -18,3 +18,10 @@
 - script used: [analyse.R](analyse.R)
 - [average_confidences.csv](average_confidences.csv)
 - [success_score.txt](success_score.txt)
+
+![All confidences](all_confidences.png)
+
+![Average confidence per question](average_confidences_per_question.png)
+
+![Confidences per question](confidences_per_question.png)
+
