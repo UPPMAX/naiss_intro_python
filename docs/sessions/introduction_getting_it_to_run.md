@@ -1,24 +1,20 @@
-# Getting it to run
+# Introduction 'Getting it to run'
 
 ![Python logo from https://www.python.org/community/logos/](python_logo.png)
 
 This module introduces the fundamentals of Python programming language.
 
-!!!- info "Learning outcomes"
+!!! info "Learning outcomes"
 
-    - Practice using the documentation of your HPC cluster
-    - Practice using the Python book
-      [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
-    - Get Python code to run on your HPC cluster
-    - Develop Python code on your HPC cluster
-    - Understand the minimum of Python
+    - Learners have read what they will learn
+    - Learners can find how to download and extract the exercises
+    - Learners understand how this day is organized
 
-??? info "For teachers"
+???- question "For teachers: Lesson plan"
 
-    Classic-style lecture and exercises can be found at:
+    Prior questions:
+    - What is Pyton?
 
-    - [../classic_sessions/morning_lecture.md](../classic_sessions/morning_lecture.md)
-    - [../classic_sessions/morning_exercise.md](../classic_sessions/morning_exercise.md)
 
 ```mermaid
 flowchart TD
@@ -97,6 +93,60 @@ flowchart TD
     variables ~~~ your_hpc_center
 ```
 
+## Why is this course important?
+
+Python, according to [the TIOBE index](https://www.tiobe.com/tiobe-index/)
+is one of the most used programming languages used today.
+
+Running Python on an HPC cluster allows scientists to
+run their code that needs either (1) massive computation,
+(2) massive storage space, and/or (3) storage of sensitive data.
+
+## Overview
+
 - [Using the Python interpreter](using_the_python_interpreter.md)
 - [The way of the program](the_way_of_the_program.md)
 - [Working with Python scripts](working_with_python_scripts.md)
+
+## Exercises
+
+### Exercise 1: the learning outcomes of today
+
+The goal of this exercise is to find out
+what you will learn today.
+
+- Go to [this form](https://docs.google.com/forms/d/e/1FAIpQLSekGQ-9RIVX4eASeZzjblehtFMvbM-xoDI6AUtWyL-kNA6qvQ/viewform?usp=header)
+  and fill it in
+
+???- question "For teachers: what is in that form?"
+
+    With this exercise, we'll discover what we'll learn today.
+
+    Give you confidence levels of the following statements,
+    using this scale:
+
+    - 0: I don't know even what this is about ...?
+    - 1: I have no confidence I can do this
+    - 2: I have low confidence I can do this
+    - 3: I have some confidence I can do this
+    - 4: I have good confidence I can do this
+    - 5: I absolutely can do this!
+
+    Give you confidence levels of the following statements below:
+
+    - I am comfortable using the documentation of my HPC center
+    - I am comfortable using a Python book
+    - I am comfortable learning Python
+    - I can login to my HPC cluster
+    - I can load a Python version on my HPC cluster
+    - I can describe what the Python programming language is
+    - I can describe what the Python interpreter is
+    - I can use a text editor on my HPC cluster
+    - I can create a Python script
+    - I can run a Python script
+    - In Python, I can create a variable
+    - In Python, I can use a variable
+    - I can convert a simple equation to Python code
+    - In Python, I can find and use the operator for exponentiation
+    - In Python, I know what the modulo operator is and when to use it
+    - I can convert a simple text question to Python code
