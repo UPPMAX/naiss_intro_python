@@ -14,4 +14,4 @@ From [the past course iteration's reflection](../../reflections/20250304/README.
 
 Also:
 
-- Create an exercise at the start of the LOs
+- [x] Create an exercise at the start of the LOs
