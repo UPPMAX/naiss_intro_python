@@ -13,7 +13,7 @@ This is the page for evaluating the current iteration of the course.
 
 ## Evaluation forms
 
-- Any feedback during the day: [here](https://docs.google.com/forms/d/e/1FAIpQLSfQDog2-eevjpkvS_PqKi2-H8hYlpNFP32LBlCKUCSIImL5Jw/viewform?usp=header)
+- Any feedback during the day: [here](https://docs.google.com/forms/d/e/1FAIpQLSfbktlbxLER-KvZvZ8pdlDXiyZQxaDmEGSiKKS2kBRZ-lXCyw/viewform?usp=header)
 
 ???- question "For teachers: what is in that form?"
 
@@ -23,7 +23,7 @@ This is the page for evaluating the current iteration of the course.
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
-- Evaluation questions: [here](https://docs.google.com/forms/d/e/1FAIpQLScuQDpmnXfxXtzz9ssu1IY6g2SQGJecSddYYUaUDoXL8J9eiQ/viewform?usp=header)
+- Evaluation questions: [here](https://docs.google.com/forms/d/e/1FAIpQLSdz9rFKg1I15rfNucsUS8cF4PXFjnch9NNqHXc4oTqbbKl5rQ/viewform?usp=header)
 
 ???- question "For teachers: what is in that form?"
 
@@ -66,7 +66,8 @@ This is the page for evaluating the current iteration of the course.
     [Empty paragraph]
     ```
 
-    Thanks for your feedback.
+    Thanks for your feedback!
+
     This feedback will be published as-is at the end of the day,
     if and only if there are no personal details (email, address, etc.)
     in the feedback. Do mention the teachers, assistants, etc by name!
