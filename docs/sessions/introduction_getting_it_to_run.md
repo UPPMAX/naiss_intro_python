@@ -16,6 +16,9 @@ This module introduces the fundamentals of Python programming language.
 
     - What is Pyton?
     - What are features of the Python language?
+    - In the term 'HPC cluster', what does 'cluster' mean?
+    - In the term 'HPC cluster', what does 'HPC' mean?
+    - What are features of HPC clusters?
 
 ???- question "Overview of these sessions as a concept map"
 

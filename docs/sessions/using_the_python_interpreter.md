@@ -25,31 +25,25 @@
 
     Prior and feedback question:
 
-    - What is Python?
-    - What are features of the Python language?
-    - What is an interpreted language?
-    - What is a scripting language?
+    - On an HPC cluster, what are software modules?
+    - On an HPC cluster, which problem do software modules solve?
+    - On an HPC cluster, why don't we let users install all software themselves?
+    - What does it mean that Python is an interpreted language?
     - What is an interpreter?
-    - What is an HPC cluster?
-    - What are features of your HPC cluster?
-    - What is a login node?
-    - What is the rule on what to run on a login node?
-    - How to run heavy Python calculations on your HPC cluster?
-    - How to make your Python scripts reproducible?
-
-    Lesson plan:
-
-    - 5 mins: prior knowledge
-    - 5 mins: presentation
-    - 15 mins: challenge
-    - 5 mins: feedback
 
     Notes:
 
     - For those that use Bianca, it may take some time to get a login node.
       Encourage those to try Rackham while waiting
 
-## Why?
+
+## Why software modules are important
+
+Software modules allows users of any HPC cluster
+to activate their favorite software of any version.
+This helps to assure reproducible research.
+
+## Why the Python interpreter is important
 
 ```mermaid
 flowchart TD
@@ -64,8 +58,26 @@ flowchart TD
   code --> interpreter --> machine_code
 ```
 
-You want to make a computer run Python code,
-for some good reason. Here we do so!
+The Python interpreter is the program that lets your Python code
+do something. It is at the heart of using Python: without it,
+you cannot do Python programming.
+
+## Exercises
+
+???- question "Enjoy a video?"
+
+    You can find a video with solutions to these exercises:
+
+    HPC Cluster|Login method|Link to video
+    -----------|------------|------------------------------------
+    Alvis      |SSH         |[Here](https://youtu.be/R_RxKo-Vma4)
+    Bianca     |SSH         |[Here](https://youtu.be/80AG-4niBgk)
+    COSMOS     |SSH         |[Here](https://youtu.be/aqqHUvvolds)
+    Dardel     |SSH         |[Here](https://youtu.be/BAD6y_a5xBQ)
+    Kebnekaise |SSH         |[Here](https://youtu.be/DpnKUEOcIdE)
+    LUMI       |SSH         |[Here](https://youtu.be/bPdvn2gajgU)
+    Rackham    |SSH         |[Here](https://youtu.be/S6pYTqRmI7U)
+    Tetralith  |SSH         |[Here](https://youtu.be/OBT9XuVktwg)
 
 To develop code in Python on your HPC clusters, one needs to:
 
@@ -90,23 +102,6 @@ LUMI            |No       |Yes           |No       |Reasonable   |Medium
 Kebnekaise      |No       |No            |No       |Good         |Easy
 Rackham         |No       |No            |No       |Excellent    |Easy
 Tetralith       |No       |No            |Yes      |Good         |Easy
-
-## Exercises
-
-???- question "Enjoy a video?"
-
-    You can find a video with solutions to these exercises:
-
-    HPC Cluster|Login method|Link to video
-    -----------|------------|------------------------------------
-    Alvis      |SSH         |[Here](https://youtu.be/R_RxKo-Vma4)
-    Bianca     |SSH         |[Here](https://youtu.be/80AG-4niBgk)
-    COSMOS     |SSH         |[Here](https://youtu.be/aqqHUvvolds)
-    Dardel     |SSH         |[Here](https://youtu.be/BAD6y_a5xBQ)
-    Kebnekaise |SSH         |[Here](https://youtu.be/DpnKUEOcIdE)
-    LUMI       |SSH         |[Here](https://youtu.be/bPdvn2gajgU)
-    Rackham    |SSH         |[Here](https://youtu.be/S6pYTqRmI7U)
-    Tetralith  |SSH         |[Here](https://youtu.be/OBT9XuVktwg)
 
 ### Exercise 0: pick a Zoom room
 
