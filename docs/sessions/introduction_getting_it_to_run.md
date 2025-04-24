@@ -160,3 +160,11 @@ what you will learn today.
     - In Python, I can find and use the operator for exponentiation
     - In Python, I know what the modulo operator is and when to use it
     - I can convert a simple text question to Python code
+
+When done: explore the website of the course. Where you can you find
+the things below?
+
+- The schedule
+- Further learning
+- The frequently asked questions
+- Earlier evaluation results
