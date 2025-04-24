@@ -42,3 +42,4 @@ Time        | Topic                                                             
 - [Command line arguments](sessions/command_line_arguments.md)
 - [Graphics](sessions/graphics.md)
 - [Functions](sessions/functions.md)
+- [Further learning](further_learning.md)
