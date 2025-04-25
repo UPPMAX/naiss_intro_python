@@ -33,7 +33,7 @@
 
 ![All confidences](all_confidences_pre_post.png)
 
-![Average confidence per questopm](average_confidences_per_question_pre_post.png)
+![Average confidence per question](average_confidences_per_question_pre_post.png)
 
 ![Confidence per question as boxplot](confidences_per_question_boxplot_pre_post.png)
 

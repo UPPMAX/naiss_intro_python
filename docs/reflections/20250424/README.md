@@ -20,7 +20,7 @@ I missed being helped the first hour, although there were some colleagues
 available. I did not ask for help, because I felt I had talked too much:
 it was at 9:17 that we started doing exercises. At 9:17,
 I could have set them to work, but I did not feel the need either.
-Next time, encourage them to be absent. Ssure, they are
+Next time, encourage them to be absent. Sure, they are
 always welcome, but I will manage :-)
 
 - [ ] Encourage colleagues to be absent
@@ -33,7 +33,7 @@ find such a group. One reason is that I did not know
 which HPC cluster the learner used.
 
 - [ ] Let learners add the cluster name to their Zoom name,
-  else write it dowm
+  else write it down
 
 I cannot keep up a full day. And I think that helps us understand
 what the learners feel. But, I did feel uncomfortable with
