@@ -20,17 +20,9 @@ This module introduces the fundamentals of Python programming language.
         - How to draw a plot (i.e. an x-y line plot)
         - How to bundle code into reusable functions
 
-??? info "For teachers"
-
-    Classic-style lecture and exercises can be found at:
-
-    - [../classic_sessions/afternoon_lecture.md](../classic_sessions/afternoon_lecture.md)
-    - [../classic_sessions/afternoon_exercise.md](../classic_sessions/afternoon_exercise.md)
-
 ```mermaid
 flowchart TD
   python[[Python]]
-
 
   user_input[User input]
   file_io[File I/O]
