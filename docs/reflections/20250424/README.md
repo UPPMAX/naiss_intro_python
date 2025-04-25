@@ -12,7 +12,7 @@ We were productive. We even had some fun.
 I had one colleague that I said to treat as a regular learner, but I
 failed: I did treat him like something between TA and learner.
 At the end of the day (see below), we discussed this. We
-both failed and agreed: I treated him as an in-between learner-and-TA, 
+both failed and agreed: I treated him as an in-between learner-and-TA,
 and he behaved as an in-between learner-and-TA. We also agreed
 that this was the right call.
 
@@ -68,7 +68,7 @@ this: learners can change their name themselves.
   cluster
 
 - [ ] Add Python package modules
-    
+
 ## Feedback Linus
 
 - What went well?
@@ -92,12 +92,4 @@ this: learners can change their name themselves.
       the course material.
         - RB: agree: remove the mention of the exercises in the book
           and sent them to the exercises in the course material (only)
-
-
-
-
-
-
-
-
 

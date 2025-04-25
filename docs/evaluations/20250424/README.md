@@ -30,7 +30,7 @@
 
 - [analyse_pre_post.R](analyse_pre_post.R)
 - [stats.md](stats.md)
-	
+
 ![All confidences](all_confidences_pre_post.png)
 
 ![Average confidence per questopm](average_confidences_per_question_pre_post.png)
