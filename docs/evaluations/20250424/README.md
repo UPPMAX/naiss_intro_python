@@ -13,6 +13,16 @@
 - [survey_end_text_question.txt](survey_end_text_question.txt)
 - [success_score.txt](success_score.txt): 92%
 
+## [anonymous_feedback.txt](anonymous_feedback.txt)
+
+- The first day of the course was interactive, fun, and really engaging.
+  The teacher was very involved and did a great job keeping everyone
+  interested and participating. The material is well-structured,
+  and the session felt productive from start to finish. Looking forward to more!
+- Hello, I will need to leave in half an hour for a doctor's appointment.
+  Will that be possible? I think I could keep hearing through my phone.
+- Fundamental intro to basics Python are always a good refreshing operation
+
 ## Analysis, only end
 
 - script used: [analyse.R](analyse.R)
@@ -25,8 +35,8 @@
 
 ![Confidences per question](confidences_per_question.png)
 
-## Analysis, pre and post
 
+## Analysis, pre and post
 
 - [analyse_pre_post.R](analyse_pre_post.R)
 - [stats.md](stats.md)
