@@ -1,4 +1,4 @@
-# Intro to Python
+# Intro to Python for HPC
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
