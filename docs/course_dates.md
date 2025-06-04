@@ -17,9 +17,9 @@ tags:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Week|Date                     |Times     |Registration closes|Remarks
-----|-------------------------|----------|-------------------|------------------
-17  |Thursday April 24th 2025 |9:00-16:00|Closed             |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
-42  |Tuesday October 14th 2025|9:00-16:00|2025-10-09         |.
+Week    |Date                     |Times     |Registration closes|Remarks
+--------|-------------------------|----------|-------------------|------------------
+42      |Tuesday October 14th 2025|9:00-16:00|2025-10-09         |.
+48      |Monday November 24th 2025|9:00-16:00|TBA                |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
 
 <!-- markdownlint-enable MD013 -->
