@@ -125,8 +125,7 @@ using some of the most advanced hardware we have at this day.
 The goal of this exercise is to find out
 what you will learn today.
 
-- Go to [this form](https://docs.google.com/forms/d/e/1FAIpQLSekGQ-9RIVX4eASeZzjblehtFMvbM-xoDI6AUtWyL-kNA6qvQ/viewform?usp=header)
-  and fill it in
+- Go to this form and fill it in
 
 ???- question "For teachers: what is in that form?"
 

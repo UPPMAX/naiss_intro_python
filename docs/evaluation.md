@@ -13,7 +13,7 @@ This is the page for evaluating the current iteration of the course.
 
 ## Evaluation forms
 
-- [Form for any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLSfbktlbxLER-KvZvZ8pdlDXiyZQxaDmEGSiKKS2kBRZ-lXCyw/viewform?usp=header)
+- Form for any feedback during the day
 
 ???- question "For teachers: what is in that form?"
 
@@ -23,7 +23,7 @@ This is the page for evaluating the current iteration of the course.
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
-- [Form with evaluation questions](https://docs.google.com/forms/d/e/1FAIpQLSdz9rFKg1I15rfNucsUS8cF4PXFjnch9NNqHXc4oTqbbKl5rQ/viewform?usp=header)
+- Form with evaluation questions
 
 ???- question "For teachers: what is in that form?"
 
