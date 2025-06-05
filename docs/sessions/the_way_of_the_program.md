@@ -58,8 +58,8 @@ These fundamental questions are discussed and practiced in this session.
 
 ???- question "Enjoy a video?"
 
-    You can find a video with solutions to these exercises
-    [here](https://youtu.be/r-4-vAO-uac)
+    You can watch
+    [a video with solutions to these exercises](https://youtu.be/r-4-vAO-uac)
 
 ### Exercise 1: Python and the Python interpreter
 
@@ -107,14 +107,15 @@ but has semantic errors.
     A semantic error is also called a logic error,
     hence a sentence with correct syntax and semantic errors is:
 
-    From [here](https://english.stackexchange.com/a/29521), where the sentence
+    From [this Stack Exhange post](https://english.stackexchange.com/a/29521),
+    where the sentence
     is attributed to Noam Chomsky:
 
     ```text
     Colorless green ideas sleep furiously
     ```
 
-    From [here](https://english.stackexchange.com/a/29509):
+    From [this Stack Exchange post](https://english.stackexchange.com/a/29509):
 
     ```text
     My mother's white cat is black.
