@@ -49,7 +49,8 @@ when you want to 'just want to run the stupid code'.
     - Rehearse creating a script
     - Read the command-line arguments
 
-Read the official Python documentation about `sys.argv` [here](https://docs.python.org/3/library/sys.html#sys.argv).
+Read
+[the official Python documentation about `sys.argv`](https://docs.python.org/3/library/sys.html#sys.argv).
 
 Create a script with the following text:
 

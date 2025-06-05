@@ -176,20 +176,20 @@ See the documentation of your HPC cluster.
 
 Also, these videos may be useful:
 
-HPC cluster|Login method         |Video
------------|---------------------|---------------------------------------------------------------
-Alvis      |SSH                  |[here](https://youtu.be/PJZ3W907qCU)
-Bianca     |Website              |[here](https://youtu.be/Ni9nyCf7me8)
-Bianca     |SSH                  |[here](https://youtu.be/7mKDxnXqi_M)
-COSMOS     |SSH                  |[here](https://youtu.be/sMsenzWERTg)
-Dardel     |SSH                  |[here](https://youtu.be/I8cNqiYuA-4)
-Kebnekaise |SSH                  |[here](https://youtu.be/pIiKOKBHIeY)
-Kebnekaise |Website              |[here](https://youtu.be/_O4dQn8zPaw)
-LUMI       |SSH                  |[here](https://youtu.be/bPdvn2gajgU)
-Rackham    |Local ThinLinc client|[here](https://youtu.be/PqEpsn74l0g)
-Rackham    |SSH                  |[here](https://youtu.be/TSVGSKyt2bQ)
-Rackham    |Website              |[here](https://youtu.be/HQ2iuKRPabc)
-Tetralith  |SSH                  |[here](https://youtu.be/wtGIzSBiulY)
+HPC cluster|Login method         |Videos
+-----------|---------------------|-------------------------------------
+Alvis      |SSH                  |[Video](https://youtu.be/PJZ3W907qCU)
+Bianca     |Website              |[Video](https://youtu.be/Ni9nyCf7me8)
+Bianca     |SSH                  |[Video](https://youtu.be/7mKDxnXqi_M)
+COSMOS     |SSH                  |[Video](https://youtu.be/sMsenzWERTg)
+Dardel     |SSH                  |[Video](https://youtu.be/I8cNqiYuA-4)
+Kebnekaise |SSH                  |[Video](https://youtu.be/pIiKOKBHIeY)
+Kebnekaise |Website              |[Video](https://youtu.be/_O4dQn8zPaw)
+LUMI       |SSH                  |[Video](https://youtu.be/bPdvn2gajgU)
+Rackham    |Local ThinLinc client|[Video](https://youtu.be/PqEpsn74l0g)
+Rackham    |SSH                  |[Video](https://youtu.be/TSVGSKyt2bQ)
+Rackham    |Website              |[Video](https://youtu.be/HQ2iuKRPabc)
+Tetralith  |SSH                  |[Video](https://youtu.be/wtGIzSBiulY)
 
 ### Is it OK if I can login to an HPC cluster using other methods?
 

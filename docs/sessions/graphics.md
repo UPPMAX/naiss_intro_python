@@ -43,7 +43,7 @@ Here we experience how easy/hard it is to use Matplotlib on Rackham.
     - Rehearse running a script that uses an import
     - Rehearse that graphics need X-forwarding
 
-Read matplotlib's 'Pyplot tutorial' [here](https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py).
+Read [matplotlib's 'Pyplot tutorial'](https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py).
 
 Copy-paste the first script on that page to a script and get it to work.
 Do you expect this to be easy?

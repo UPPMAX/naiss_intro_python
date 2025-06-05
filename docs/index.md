@@ -10,7 +10,7 @@
 > A learner from this course ([source](https://uppmax.github.io/naiss_intro_python/evaluations/20240830/))
 
 This course introduces the foundations of the Python programming language
-on the NAISS HPC clusters. 
+on the NAISS HPC clusters.
 
 <!-- markdownlint-disable MD013 --><!-- Buttons cannot be split up over lines, hence will break 80 characters per line -->
 
