@@ -15,6 +15,7 @@ on the NAISS HPC clusters.
 <!-- markdownlint-disable MD013 --><!-- Buttons cannot be split up over lines, hence will break 80 characters per line -->
 
 [Prerequisites](prereqs/README.md){ .md-button .md-button--primary }
+[Learning outcomes](learning_outcomes/README.md){ .md-button .md-button--primary }
 [Course dates](course_dates.md){ .md-button .md-button--primary }
 [Schedule](schedule.md){ .md-button .md-button--primary }
 [Getting it to run](sessions/introduction_getting_it_to_run.md){ .md-button .md-button--primary }
