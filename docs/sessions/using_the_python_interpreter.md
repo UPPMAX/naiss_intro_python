@@ -68,16 +68,16 @@ you cannot do Python programming.
 
     You can find a video with solutions to these exercises:
 
-    HPC Cluster|Login method|Link to video
-    -----------|------------|------------------------------------
-    Alvis      |SSH         |[Here](https://youtu.be/R_RxKo-Vma4)
-    Bianca     |SSH         |[Here](https://youtu.be/80AG-4niBgk)
-    COSMOS     |SSH         |[Here](https://youtu.be/aqqHUvvolds)
-    Dardel     |SSH         |[Here](https://youtu.be/BAD6y_a5xBQ)
-    Kebnekaise |SSH         |[Here](https://youtu.be/DpnKUEOcIdE)
-    LUMI       |SSH         |[Here](https://youtu.be/bPdvn2gajgU)
-    Rackham    |SSH         |[Here](https://youtu.be/S6pYTqRmI7U)
-    Tetralith  |SSH         |[Here](https://youtu.be/OBT9XuVktwg)
+    HPC Cluster|Login method|Videos
+    -----------|------------|-------------------------------------
+    Alvis      |SSH         |[Video](https://youtu.be/R_RxKo-Vma4)
+    Bianca     |SSH         |[Video](https://youtu.be/80AG-4niBgk)
+    COSMOS     |SSH         |[Video](https://youtu.be/aqqHUvvolds)
+    Dardel     |SSH         |[Video](https://youtu.be/BAD6y_a5xBQ)
+    Kebnekaise |SSH         |[Video](https://youtu.be/DpnKUEOcIdE)
+    LUMI       |SSH         |[Video](https://youtu.be/bPdvn2gajgU)
+    Rackham    |SSH         |[Video](https://youtu.be/S6pYTqRmI7U)
+    Tetralith  |SSH         |[Video](https://youtu.be/OBT9XuVktwg)
 
 To develop code in Python on your HPC clusters, one needs to:
 
@@ -142,16 +142,16 @@ Then answer these questions:
 
     The documentation for your HPC cluster can be found at:
 
-    HPC Cluster|Link to documentation
+    HPC Cluster|Documentation
     -----------|------------------------------------------------------
-    Alvis      |[here](https://www.c3se.chalmers.se/)
-    Bianca     |[here](https://docs.uppmax.uu.se)
-    COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/)
-    Dardel     |[here](https://support.pdc.kth.se/doc/)
-    Kebnekaise |[here](https://docs.hpc2n.umu.se)
-    LUMI       |[here](https://docs.lumi-supercomputer.eu/)
-    Rackham    |[here](https://docs.uppmax.uu.se)
-    Tetralith  |[here](https://www.nsc.liu.se/support/systems/tetralith-getting-started/)
+    Alvis      |[Documentation](https://www.c3se.chalmers.se/)
+    Bianca     |[Documentation](https://docs.uppmax.uu.se)
+    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/)
+    Dardel     |[Documentation](https://support.pdc.kth.se/doc/)
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se)
+    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/)
+    Rackham    |[Documentation](https://docs.uppmax.uu.se)
+    Tetralith  |[Documentation](https://www.nsc.liu.se/support/systems/tetralith-getting-started/)
 
     From there, searching for, for example,
     'login' or 'connecting', you will find information
@@ -159,16 +159,16 @@ Then answer these questions:
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Link to documentation
+    HPC Cluster|Documentation
     -----------|------------------------------------------------------
-    Alvis      |[here](https://www.c3se.chalmers.se/documentation/connecting/)
-    Bianca     |[here](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)
-    COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)
-    Dardel     |[here](https://support.pdc.kth.se/doc/basics/quickstart/)
-    Kebnekaise |[here](https://docs.hpc2n.umu.se/documentation/access/#login__and__file__transfer)
-    LUMI       |[here](https://docs.lumi-supercomputer.eu/firststeps/loggingin/) and [here](https://docs.lumi-supercomputer.eu/firststeps/loggingin-webui/)
-    Rackham    |[here](http://docs.uppmax.uu.se/getting_started/login_rackham/)
-    Tetralith  |[here](https://www.nsc.liu.se/support/getting-started/)
+    Alvis      |[Documentation](https://www.c3se.chalmers.se/documentation/connecting/)
+    Bianca     |[Documentation](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)
+    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)
+    Dardel     |[Documentation](https://support.pdc.kth.se/doc/basics/quickstart/)
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/documentation/access/#login__and__file__transfer)
+    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/firststeps/loggingin/) and [more documentation](https://docs.lumi-supercomputer.eu/firststeps/loggingin-webui/)
+    Rackham    |[Documentation](http://docs.uppmax.uu.se/getting_started/login_rackham/)
+    Tetralith  |[Documentation](https://www.nsc.liu.se/support/getting-started/)
 
     <!-- markdownlint-enable MD013 -->
 
@@ -198,16 +198,16 @@ Tetralith  |`3.10.4`
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Link to documentation                                                                                                                                          |Solution
-    -----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
-    Alvis      |[short](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long](https://www.c3se.chalmers.se/documentation/module_system/modules/) |`module load Python/3.12.3-GCCcore-13.3.0`
-    Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                                                                              |`module load python/3.11.4`
-    COSMOS     |[here](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                      |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/software/module/) and [here](https://support.pdc.kth.se/doc/applications/python/)                              |`module load bioinfo-tools python/3.11.4`
-    Kebnekaise |[here](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                      |`module load GCC/12.3.0 Python/3.11.3`
-    LUMI       |[here](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                              |`module load cray-python/3.11.7`
-    Rackham    |[here](http://docs.uppmax.uu.se/software/python/)                                                                                                              |`module load python/3.12.7`
-    Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                                                                                |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
+    HPC Cluster|Documentation                                                                                                                                                                             |Solution
+    -----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
+    Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|`module load Python/3.12.3-GCCcore-13.3.0`
+    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                                                                                                |`module load python/3.11.4`
+    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |`module load GCCcore/13.2.0 Python/3.11.5`
+    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                                |`module load bioinfo-tools python/3.11.4`
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |`module load GCC/12.3.0 Python/3.11.3`
+    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |`module load cray-python/3.11.7`
+    Rackham    |[Documentation](http://docs.uppmax.uu.se/software/python/)                                                                                                                                |`module load python/3.12.7`
+    Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                                  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -231,16 +231,16 @@ and start the Python interpreter.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Link to documentation                                                                              |Solution
-    -----------|---------------------------------------------------------------------------------------------------|--------
-    Alvis      |:warning:                                                                                          |`python`
-    Bianca     |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
-    COSMOS     |:warning:                                                                                          |`python`
-    Dardel     |:warning: [here](https://support.pdc.kth.se/doc/applications/python/)                              |`python`
-    Kebnekaise |:warning:                                                                                          |`python`
-    LUMI       |:warning: [here](https://docs.lumi-supercomputer.eu/software/installing/python/)                   |`python`
-    Rackham    |[here](https://docs.uppmax.uu.se/software/python/#loading-python)                                  |`python`
-    Tetralith  |[here](https://www.nsc.liu.se/software/python/)                                                    |`python`
+    HPC Cluster|Documentation                                                                              |Solution
+    -----------|-------------------------------------------------------------------------------------------|--------
+    Alvis      |:warning:                                                                                  |`python`
+    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                 |`python`
+    COSMOS     |:warning:                                                                                  |`python`
+    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/applications/python/)             |`python`
+    Kebnekaise |:warning:                                                                                  |`python`
+    LUMI       |:warning: [Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/)  |`python`
+    Rackham    |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                 |`python`
+    Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)                                   |`python`
 
     <!-- markdownlint-enable MD013 -->
 

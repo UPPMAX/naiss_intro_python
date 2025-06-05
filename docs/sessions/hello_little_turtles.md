@@ -272,8 +272,8 @@ use the Rackham remote desktop environment.
     hence giving away the answer makes this session useless.
 
     However, if you feel stuck too much,
-    you can watch a video in which this exercise is done
-    [here](https://youtu.be/bnN-1uzsgvk)
+    you can watch
+    [a video in which this exercise is done](https://youtu.be/bnN-1uzsgvk)
 
 - Log in to Rackham using SSH with X forwarding. How does it look?
 

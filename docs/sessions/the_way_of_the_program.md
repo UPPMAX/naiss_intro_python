@@ -298,16 +298,16 @@ Pick the simplest one if you do not already know a text editor.
 
 ???- question "Answer"
 
-    HPC Cluster|Link to documentation
+    HPC Cluster|Documentation
     -----------|------------------------------------------------------
     Alvis      |:warning: None
-    Bianca     |[Here](https://docs.uppmax.uu.se/software/text_editors/)
+    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/text_editors/)
     COSMOS     |:warning: None
     Dardel     |:warning: None
-    Kebnekaise |[Here](https://docs.hpc2n.umu.se/tutorials/quickstart/#editors)
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#editors)
     LUMI       |:warning: None
-    Rackham    |[Here](https://docs.uppmax.uu.se/software/text_editors/)
-    Tetralith  |[Here](https://www.nsc.liu.se/support/Events/VASP_workshop_2023/quick_guide/)
+    Rackham    |[Documentation](https://docs.uppmax.uu.se/software/text_editors/)
+    Tetralith  |[Documentation](https://www.nsc.liu.se/support/Events/VASP_workshop_2023/quick_guide/)
 
     - :warning: means that there is either no direct to the documentation
       and/or the documentation present is incomplete.
