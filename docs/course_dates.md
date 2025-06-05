@@ -20,7 +20,7 @@ tags:
 Week    |Date                     |Times     |Registration closes|Remarks
 --------|-------------------------|----------|-------------------|------------------
 42      |Tuesday October 14th 2025|9:00-16:00|2025-10-09         |.
-48      |Monday November 24th 2025|9:00-16:00|TBA                |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
+48      |Monday November 27th 2025|9:00-16:00|TBA                |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
 ?10     |Around 2026-03-04        |9:00-16:00|TBA                |.
 ?17     |Around 2026-04-24        |9:00-16:00|TBA                |As part of [the 4-day NAISS HPC Python course](https://docs.uppmax.uu.se/courses_workshops/hpc_python/)
 ?42     |Around 2026-10-14        |9:00-16:00|TBA                |.
