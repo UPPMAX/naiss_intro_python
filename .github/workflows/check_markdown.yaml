@@ -1,10 +1,10 @@
-# Check that there is correct markdown in all files
-name: Check markdown
+# Check that there is correct Markdown in all files
+name: Check Markdown
 
 # This job only concerns changes to a limited set of files.
 # Thanks to https://stackoverflow.com/a/63822945
 #
-# Check spelling on the 21st day of the month.
+# Run this script on the 21st day of the month.
 # 21st as the first letter of this repo is the 21st letter in the alphabet.
 on:
   push:
