@@ -13,9 +13,11 @@
 > A learner from this course ([source](https://uppmax.github.io/naiss_intro_python/evaluations/20240830/))
 
 This 1-day course helps you get started with Python,
-by working through an online and free book.
-We make use of HPC clusters
-to write and run Python code.
+by working ourselves through an online and free book.
+Although the focus is on learning Python,
+we do work in an HPC environment
+and you will be taught the bare minimum
+to run Python on an UPPMAX HPC cluster.
 The pace of this highly interactive course
 is set by the majority of learners,
 ensuring that any complete beginner
