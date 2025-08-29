@@ -15,7 +15,7 @@ Registration closes at 2025-10-09.
 [field for one line of text]
 ```
 
-## I want to use the HPC cluster ...
+## I want to use the HPC cluster
 
 - (recommended) ... that is provided by the course (called Tetralith)
 - ... that I already work on
