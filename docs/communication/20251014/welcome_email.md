@@ -56,7 +56,14 @@ Well done! You've already done two of the five prerequisites (as listed on <http
 - [ ] Prerequisite 4/5: You are able to login to your HPC cluster
 - [ ] Prerequisite 5/5: You have a good Zoom setup
 
-Next steps are numbers 3 and 4. 
+Next steps are numbers 3 and 4.
+
+- For step 3: accept the SUPR email you've gotten to get access to this course's 
+  project. Alternatively, you can request access to the project
+  yourself: the project is called 'NAISS Intro to Python course',
+  with URL https://supr.naiss.se/project/32968
+- For step 4: 
+
 This can take multiple days, to: (1) register at SUPR, (2) get an invite to the course project, and (3) log in to that HPC cluster.
 
 Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
