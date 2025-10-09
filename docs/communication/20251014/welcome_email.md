@@ -42,7 +42,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 `[Zoom invite text]`
 
 
-## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 step 3
+## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 steps 3 and 4
 
 Dear learners,
 
