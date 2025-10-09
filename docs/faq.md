@@ -131,9 +131,24 @@ When you can login at [https://supr.naiss.se/](https://supr.naiss.se/).
 
     ![A user that logged into SUPR](supr_logged_in.png)
 
+### How to request access to the NAISS course project?
+
+At [the SUPR NAISS website](https://supr.naiss.se),
+in 'Projects', click on 'Request Membership in Project'
+and search for `NAISS 2025/22-95` or 'NAISS Intro to Python 
+course' (pick the one for Tetralith!).
+
+### Where is the NAISS project for this course?
+
+Parameter|Value
+---------|----------------------------------------------------------------------------
+Name     |NAISS Intro to Python course
+URL      |[`https://supr.naiss.se/project/32968`](https://supr.naiss.se/project/32968)
+
 ### I already have a project on a NAISS HPC cluster. Can I use that one?
 
 Yes, absolutely!
+
 
 ### How can I get a user account on a Swedish academic HPC cluster?
 
