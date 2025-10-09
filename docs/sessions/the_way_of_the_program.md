@@ -308,7 +308,7 @@ Pick the simplest one if you do not already know a text editor.
     Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#editors)
     LUMI       |:warning: None
     Rackham    |[Documentation](https://docs.uppmax.uu.se/software/text_editors/)
-    Tetralith  |[Documentation](https://www.nsc.liu.se/support/Events/VASP_workshop_2023/quick_guide/)
+    Tetralith  |[Documentation](https://www.nsc.liu.se/support/past-events/VASP_workshop_2023/quick_guide/)
 
     - :warning: means that there is either no direct to the documentation
       and/or the documentation present is incomplete.
