@@ -7,7 +7,7 @@
 ???- warning "For coordinators: progress"
 
     This email has been sent to all learners to and including at timestamp
-    `NA`
+    `26/09/2025 13:37:49`
 
 <!-- markdownlint-disable MD013 --><!-- Allow clean copy-paste of 80+ characters -->
 
@@ -42,7 +42,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 `[Zoom invite text]`
 
 
-## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 steps 3 and 4
+## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps
 
 Dear learners,
 
@@ -56,15 +56,15 @@ Well done! You've already done two of the five prerequisites (as listed on <http
 - [ ] Prerequisite 4/5: You are able to login to your HPC cluster
 - [ ] Prerequisite 5/5: You have a good Zoom setup
 
-Next steps are numbers 3 and 4.
+Next steps are numbers 3, 4 and 5.
 
 - For step 3: accept the SUPR email you've gotten to get access to this course's 
   project. Alternatively, you can request access to the project
   yourself: the project is called 'NAISS Intro to Python course',
   with URL https://supr.naiss.se/project/32968
-- For step 4: 
-
-This can take multiple days, to: (1) register at SUPR, (2) get an invite to the course project, and (3) log in to that HPC cluster.
+- For step 4: follow the documentation and/or video at
+  https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster
+- For step 5: please do this, it will be more fun for everybody!
 
 Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
 
@@ -78,3 +78,40 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 
 
 `[Zoom invite text]`
+
+## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps
+
+<!-- for other HPC clusters -->
+
+Dear learners,
+
+Welcome to the 'Intro to Python for HPC' course of 2025-10-14!
+
+Well done! You've already done three of the five prerequisites (as listed on <https://uppmax.github.io/naiss_intro_python/prereqs/> ):
+
+- [x] Prerequisite 1/5: You have registered at our registration form
+- [x] Prerequisite 2/5: You have registered at SUPR
+- [x] Prerequisite 3/5: You have access to your own NAISS project
+- [ ] Prerequisite 4/5: You are able to login to your HPC cluster
+- [ ] Prerequisite 5/5: You have a good Zoom setup
+
+Next steps are numbers 4 and 5.
+
+- For step 4: if you have not not logged in to your own NAISS project,
+  follow the documentation and/or videos at
+  https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster 
+- For step 5: please do this, it will be more fun for everybody!
+
+Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
+
+The course assumes you can log in to an HPC cluster, so let's make that work :-)
+
+If you have any questions, never hesitate to contact me.
+
+Please make sure you've done all your prerequisites and if yes, see you on October 14th 9:00 (sharp!) at the Zoom room below this email.
+
+Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
+
+
+`[Zoom invite text]`
+
