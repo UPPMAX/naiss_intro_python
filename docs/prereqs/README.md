@@ -11,8 +11,7 @@ Before the course, you must have done these **five** things:
 
 - Prerequisite 1/5: You have registered at [our registration form](https://www.hpc2n.umu.se/events/courses/2025/spring/hpc-python)
 - Prerequisite 2/5: You have [registered at SUPR](https://supr.naiss.se/person/register/)
-- Prerequisite 3/5: You have accepted access to
-  [the NAISS course project (`NAISS 2025/22-95`)](https://supr.naiss.se/project/32968/)
+- Prerequisite 3/5: You have [access to this course's NAISS project](https://uppmax.github.io/naiss_intro_python/faq/#how-to-request-access-to-the-naiss-course-project)
 - Prerequisite 4/5: You are able to [login to your HPC cluster](../faq.md#how-can-i-login-to-an-hpc-cluster)
 - Prerequisite 5/5: You have [a good Zoom setup](../faq.md#how-can-i-get-a-good-zoom-setup)
 
