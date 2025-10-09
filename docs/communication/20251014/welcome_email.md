@@ -25,7 +25,7 @@ Well done! You've already done one of the five prerequisites (as listed on <http
 - [ ] Prerequisite 4/5: You are able to login to your HPC cluster
 - [ ] Prerequisite 5/5: You have a good Zoom setup
 
-Next step is step 2. Please register at SUPR at https://supr.naiss.se/person/register/ 
+Next step is step 2. Please register at SUPR at <https://supr.naiss.se/person/register/>
 and/or send me the email you have registered yourself with at SUPR.
 
 Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
@@ -42,7 +42,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 `[Zoom invite text]`
 
 
-## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps
+## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps (course project)
 
 Dear learners,
 
@@ -58,12 +58,12 @@ Well done! You've already done two of the five prerequisites (as listed on <http
 
 Next steps are numbers 3, 4 and 5.
 
-- For step 3: accept the SUPR email you've gotten to get access to this course's 
+- For step 3: accept the SUPR email you've gotten to get access to this course's
   project. Alternatively, you can request access to the project
   yourself: the project is called 'NAISS Intro to Python course',
-  with URL https://supr.naiss.se/project/32968
+  with URL <https://supr.naiss.se/project/32968>
 - For step 4: follow the documentation and/or video at
-  https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster
+  <https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster>
 - For step 5: please do this, it will be more fun for everybody!
 
 Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
@@ -79,9 +79,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 
 `[Zoom invite text]`
 
-## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps
-
-<!-- for other HPC clusters -->
+## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps (own project)
 
 Dear learners,
 
@@ -99,7 +97,7 @@ Next steps are numbers 4 and 5.
 
 - For step 4: if you have not not logged in to your own NAISS project,
   follow the documentation and/or videos at
-  https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster 
+  <https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster>
 - For step 5: please do this, it will be more fun for everybody!
 
 Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .

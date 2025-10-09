@@ -135,7 +135,7 @@ When you can login at [https://supr.naiss.se/](https://supr.naiss.se/).
 
 At [the SUPR NAISS website](https://supr.naiss.se),
 in 'Projects', click on 'Request Membership in Project'
-and search for `NAISS 2025/22-95` or 'NAISS Intro to Python 
+and search for `NAISS 2025/22-95` or 'NAISS Intro to Python
 course' (pick the one for Tetralith!).
 
 ### Where is the NAISS project for this course?
