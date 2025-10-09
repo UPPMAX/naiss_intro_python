@@ -41,6 +41,44 @@ nav:
     - Reflections: reflections/README.md
   - Contact us: contact_us.md
 
+not_in_nav: |
+  communication/20250304/README.md
+  communication/20250304/newsletter_first_announcement.md
+  communication/20250304/registration_form.md
+  communication/20250304/reminder_email_1_week_left.md
+  communication/20250304/welcome_email.md
+  communication/20251014/README.md
+  communication/20251014/newsletter_first_announcement.md
+  communication/20251014/registration_form.md
+  communication/20251014/reminder_email_1_week_left.md
+  communication/20251014/welcome_email.md
+  data/20240830/README.md
+  data/20250304/README.md
+  data/20251014/README.md
+  evaluations/20240118/README.md
+  evaluations/20240830/README.md
+  evaluations/20250304/README.md
+  evaluations/20250424/README.md
+  evaluations/20250424/stats.md
+  evaluations/20251014/README.md
+  evaluations/20251127/README.md
+  lesson_plans/20240118/README.md
+  lesson_plans/20240830/README.md
+  lesson_plans/20250304/README.md
+  lesson_plans/20250424/README.md
+  lesson_plans/20251014/README.md
+  lesson_plans/20251127/README.md
+  misc/test_admonitions.md
+  misc/test_mermaid.md
+  reflections/20240118/README.md
+  reflections/20240830/README.md
+  reflections/20250304/README.md
+  reflections/20250424/README.md
+  reflections/20251014/README.md
+  reflections/20251127/README.md
+  sessions/graphics.md
+  sessions/hello_little_turtles.md
+
 theme:
   name: material
   greetings: Welcome to the Intro to Python course
