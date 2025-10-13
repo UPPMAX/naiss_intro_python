@@ -7,7 +7,7 @@
 ???- warning "For coordinators: progress"
 
     This email has been sent to all learners to and including at timestamp
-    `26/09/2025 13:37:49`
+    `08/10/2025 17:44:00`
 
 <!-- markdownlint-disable MD013 --><!-- Allow clean copy-paste of 80+ characters -->
 
@@ -21,16 +21,16 @@ Well done! You've already done one of the five prerequisites (as listed on <http
 
 - [x] Prerequisite 1/5: You have registered at our registration form
 - [ ] Prerequisite 2/5: You have registered at SUPR
-- [ ] Prerequisite 3/5: You have accepted access to the NAISS course project
+- [ ] Prerequisite 3/5: You have requesed access to this course's NAISS project
 - [ ] Prerequisite 4/5: You are able to login to your HPC cluster
 - [ ] Prerequisite 5/5: You have a good Zoom setup
 
 Next step is step 2. Please register at SUPR at <https://supr.naiss.se/person/register/>
-and/or send me the email you have registered yourself with at SUPR.
+and continue onwards from there.
 
 Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
 
-The course assumes you can log in to an HPC cluster, so let's make that work :-)
+The course assumes you can log in to an HPC cluster, so let's make that work :-) .
 
 If you have any questions, never hesitate to contact me.
 
@@ -89,13 +89,13 @@ Well done! You've already done three of the five prerequisites (as listed on <ht
 
 - [x] Prerequisite 1/5: You have registered at our registration form
 - [x] Prerequisite 2/5: You have registered at SUPR
-- [x] Prerequisite 3/5: You have access to your own NAISS project
+- [x] Prerequisite 3/5: You have access this course's NAISS project
 - [ ] Prerequisite 4/5: You are able to login to your HPC cluster
 - [ ] Prerequisite 5/5: You have a good Zoom setup
 
 Next steps are numbers 4 and 5.
 
-- For step 4: if you have not not logged in to your own NAISS project,
+- For step 4: if you have not not logged in this course's NAISS project,
   follow the documentation and/or videos at
   <https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster>
 - For step 5: please do this, it will be more fun for everybody!
@@ -113,3 +113,4 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 
 `[Zoom invite text]`
 
+## 2025-10-13 step 2
