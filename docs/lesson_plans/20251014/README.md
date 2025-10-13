@@ -13,13 +13,11 @@ state, so that will work.
 Let's first go through the last reflections:
 
 - [ ] Encourage colleagues to be absent
-- [ ] Let learners add the cluster name to their Zoom name,
-  else write it down
+- [x] Let learners add the cluster name to their Zoom name, else write it down
 - [ ] Make the later material Good
-- [ ] Show better when HPC is done and Python-only starts
+- [x] Show better when HPC is done and Python-only starts
 - [ ] Add 'Be able to write simple Python scripts'
   as the goal of the Python-only part
-- [ ] Let the learners change their name to add their HPC cluster
 - [ ] Add Python package modules
 
 HPC cluster|Number of registrations

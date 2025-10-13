@@ -120,7 +120,15 @@ using some of the most advanced hardware we have at this day.
 
 ## Exercises
 
-### Exercise 1: the learning outcomes of today
+## Exercise 1: add your HPC cluster to your name
+
+Change your Zoom name, to include your HPC cluster and favorite
+programming language, e.g. make `Sven` into `Sven [Alvis]`.
+
+You can do so by right-click on the video of yourself,
+then click 'Rename' to change your Zoom name.
+
+## Exercise 2: the learning outcomes of today
 
 The goal of this exercise is to find out
 what you will learn today.
@@ -160,7 +168,9 @@ what you will learn today.
     - In Python, I know what the modulo operator is and when to use it
     - I can convert a simple text question to Python code
 
-When done: explore the website of the course. Where you can you find
+## (optional) Exercise 3: where is what?
+
+Explore the website of the course. Where you can you find
 the things below?
 
 - The schedule

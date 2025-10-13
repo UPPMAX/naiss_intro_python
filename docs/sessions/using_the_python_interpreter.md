@@ -76,6 +76,7 @@ you cannot do Python programming.
     Dardel     |SSH         |[Video](https://youtu.be/BAD6y_a5xBQ)
     Kebnekaise |SSH         |[Video](https://youtu.be/DpnKUEOcIdE)
     LUMI       |SSH         |[Video](https://youtu.be/bPdvn2gajgU)
+    Pelle      |SSH         |TODO
     Rackham    |SSH         |[Video](https://youtu.be/S6pYTqRmI7U)
     Tetralith  |SSH         |[Video](https://youtu.be/OBT9XuVktwg)
 
@@ -100,79 +101,50 @@ COSMOS          |No       |No            |Yes      |Good         |Easy
 Dardel          |No       |Yes           |No       |Minimal      |Medium
 LUMI            |No       |Yes           |No       |Reasonable   |Medium
 Kebnekaise      |No       |No            |No       |Good         |Easy
+Pelle           |No       |No            |No       |Excellent    |Easy
 Rackham         |No       |No            |No       |Excellent    |Easy
 Tetralith       |No       |No            |Yes      |Good         |Easy
 
-### Exercise 0: pick a Zoom room
+### Exercise 1: remember a Zoom room
 
 We will use breakout rooms, as this is best for learning.
 Ideally, each breakout room has 2 learners for the same HPC cluster.
 As it cannot be predicted how many learners show up per cluster,
-we do this dynamically:
+we do this dynamically.
 
-- Go to the main breakout room of your HPC cluster
+- Remember a breakout room of your HPC cluster,
+  from the schedule below
 
-HPC cluster name|Main breakout room
-----------------|------------------
-Alvis           |Room 1
-Bianca          |Room 2
-COSMOS          |Room 3
-Dardel          |Room 4
-Kebnekaise      |Room 5
-LUMI            |Room 6
-Rackham         |Room 7
-Tetralith       |Room 8
+HPC cluster name  |Main breakout room
+------------------|------------------
+Bem2 and Vera     |Room 1
+Bianca            |Room 2
+COSMOS and Rackham|Room 3
+Dardel 1          |Room 4
+Dardel 2          |Room 5
+Tetralith 1       |Room 6
+Tetralith 2       |Room 7
+Tetralith 3       |Room 8
+Tetralith 4       |Room 9
+Tetralith 5       |Room 10
+Tetralith 6       |Room 11
+Tetralith 7       |Room 12
+Tetralith 8       |Room 13
+Tetralith 9       |Room 14
+Tetralith 10      |Room 15
+Tetralith 11      |Room 16
 
-- When the main breakout room reaches 4 learners, decide upon 2 to
-  move to a free breakout room. Repeat until the group size is below 4.
-- When you are the only one in your main breakout room,
-  the teachers will let you decide to either work in silence or
-  to join another group. You will be taken care of well :-)
+- Go there
+- Learners will be ruthlessly moved between rooms until all rooms have
+  2 or 3 people present
 
-### Exercise 1: login to your HPC cluster
+### Exercise 2: login to your HPC cluster
 
-Go to the documentation of your HPC cluster
-and search for the login procedure(s).
+Login to your favorite HPC cluster.
+This should be easy, as this is
+[a prerequisite for this course](../prereqs/README.md).
 
-Then answer these questions:
-
-- Login to an interactive session (e.g. SSH) on your HPC cluster
-
-???- question "Answer"
-
-    The documentation for your HPC cluster can be found at:
-
-    HPC Cluster|Documentation
-    -----------|------------------------------------------------------
-    Alvis      |[Documentation](https://www.c3se.chalmers.se/)
-    Bianca     |[Documentation](https://docs.uppmax.uu.se)
-    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/)
-    Dardel     |[Documentation](https://support.pdc.kth.se/doc/)
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se)
-    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/)
-    Rackham    |[Documentation](https://docs.uppmax.uu.se)
-    Tetralith  |[Documentation](https://www.nsc.liu.se/support/systems/tetralith-getting-started/)
-
-    From there, searching for, for example,
-    'login' or 'connecting', you will find information
-    on how to do so.
-
-    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
-    HPC Cluster|Documentation
-    -----------|------------------------------------------------------
-    Alvis      |[Documentation](https://www.c3se.chalmers.se/documentation/connecting/)
-    Bianca     |[Documentation](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)
-    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)
-    Dardel     |[Documentation](https://support.pdc.kth.se/doc/basics/quickstart/)
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/documentation/access/#login__and__file__transfer)
-    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/firststeps/loggingin/) and [more documentation](https://docs.lumi-supercomputer.eu/firststeps/loggingin-webui/)
-    Rackham    |[Documentation](http://docs.uppmax.uu.se/getting_started/login_rackham/)
-    Tetralith  |[Documentation](https://www.nsc.liu.se/support/getting-started/)
-
-    <!-- markdownlint-enable MD013 -->
-
-### Exercise 2: load the Python module
+### Exercise 3: load the Python module
 
 Go to the documentation of your HPC cluster
 and load a Python software module of the version indicated in the
@@ -186,9 +158,9 @@ COSMOS     |`3.11.5`
 Dardel     |`3.11.4`
 Kebnekaise |`3.11.3`
 LUMI       |`3.11.7`
+Pelle      |`3.13.1`
 Rackham    |`3.12.7`
 Tetralith  |`3.10.4`
-
 
 ???- question "Answer"
 
@@ -203,9 +175,10 @@ Tetralith  |`3.10.4`
     Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|`module load Python/3.12.3-GCCcore-13.3.0`
     Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                                                                                                |`module load python/3.11.4`
     COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                                |`module load bioinfo-tools python/3.11.4`
+    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |`module load bioinfo-tools python/3.11.4`
     Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |`module load GCC/12.3.0 Python/3.11.3`
     LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |`module load cray-python/3.11.7`
+    Pelle      |[Documentation](http://docs.uppmax.uu.se/software/python/)                                                                                                                                |`module load Python/3.13.1-GCCcore-14.2.0`
     Rackham    |[Documentation](http://docs.uppmax.uu.se/software/python/)                                                                                                                                |`module load python/3.12.7`
     Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                                  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
@@ -218,7 +191,7 @@ Tetralith  |`3.10.4`
       You are encouraged
       to contact your HPC center to help them help you better
 
-### Exercise 3: start the Python interpreter
+### Exercise 4: start the Python interpreter
 
 Go to the documentation of your HPC cluster
 and start the Python interpreter.
@@ -239,6 +212,7 @@ and start the Python interpreter.
     Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/applications/python/)             |`python`
     Kebnekaise |:warning:                                                                                  |`python`
     LUMI       |:warning: [Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/)  |`python`
+    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                 |`python`
     Rackham    |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                 |`python`
     Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)                                   |`python`
 
@@ -255,7 +229,7 @@ and start the Python interpreter.
     If there is no time to get this fixed during the course,
     you can also use Python on your local computer.
 
-### Exercise 4: run a 'Hello world' program
+### Exercise 5: run a 'Hello world' program
 
 Copy-paste the following code to the Python interpreter:
 
