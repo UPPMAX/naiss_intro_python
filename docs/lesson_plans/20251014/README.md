@@ -12,15 +12,15 @@ state, so that will work.
 
 Let's first go through the last reflections:
 
-- [ ] Encourage colleagues to be absent
+- [x] Encourage colleagues to be absent
 - [x] Let learners add the cluster name to their Zoom name, else write it down
-- [ ] Make the later material Good
+- [Low] Make the later material Good
 - [x] Show better when HPC is done and Python-only starts
-- [ ] Add 'Be able to write simple Python scripts'
+- [Medium] Add 'Be able to write simple Python scripts'
   as the goal of the Python-only part
-- [ ] Add Python package modules
-- [ ] Assume variables are understood well enough
-- [ ] Spend a bit more time on text editors
+- [High] Add Python package modules
+- [Low] Assume variables are understood well enough
+- [Medium] Spend a bit more time on text editors
 - [x] Create breakout rooms that fit the learners
 
 HPC cluster|Number of registrations
@@ -32,3 +32,4 @@ Bem2       |1
 COSMOS     |1
 Rackham    |1
 Vera       |1
+
