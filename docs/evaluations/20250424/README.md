@@ -3,6 +3,8 @@
 - Number of registrations: ?
 - Number of participants: ?
 - Number of evaluations:  10
+- [Lesson plan](../../lesson plans/20250424/README.md)
+- [Evaluation](../../evaluations/20250424/README.md)
 - [Reflection](../../reflections/20250424/README.md)
 
 ## Results

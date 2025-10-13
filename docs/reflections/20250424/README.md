@@ -93,3 +93,19 @@ this: learners can change their name themselves.
         - RB: agree: remove the mention of the exercises in the book
           and sent them to the exercises in the course material (only)
 
+## Evaluation results
+
+- [stats.md](../../evaluations/20250424/stats.md)
+
+![All confidences](../../evaluations/20250424/all_confidences_pre_post.png)
+
+![Average confidence per question](../../evaluations/20250424/average_confidences_per_question_pre_post.png)
+
+![Confidence per question as boxplot](../../evaluations/20250424/confidences_per_question_boxplot_pre_post.png)
+
+![Confidence per question](../../evaluations/20250424/confidences_per_question_pre_post.png)
+
+Conclusions:
+
+- From statistics: assume variables are understood well enough
+- From confidences: spend a bit more time on text editors

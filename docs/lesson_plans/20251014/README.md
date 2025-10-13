@@ -19,13 +19,16 @@ Let's first go through the last reflections:
 - [ ] Add 'Be able to write simple Python scripts'
   as the goal of the Python-only part
 - [ ] Add Python package modules
+- [ ] Assume variables are understood well enough
+- [ ] Spend a bit more time on text editors
+- [x] Create breakout rooms that fit the learners
 
 HPC cluster|Number of registrations
 -----------|-----------------------
 Tetralith  |22
-Bianca     |2
 Dardel     |4
-COSMOS     |1
+Bianca     |2
 Bem2       |1
-Vera       |1
+COSMOS     |1
 Rackham    |1
+Vera       |1
