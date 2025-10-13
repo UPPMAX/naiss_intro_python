@@ -21,3 +21,15 @@ with an MD5 of the email address.
       at the end of that day
 
 ![Number of registrations in time and predictions](n_registrations_in_time_and_predictions.png)
+
+## Overview of HPC clusters registered
+
+HPC cluster|Number of registrations
+-----------|-----------------------
+Tetralith  |22
+Bianca     |2
+Dardel     |4
+COSMOS     |1
+Bem2       |1
+Vera       |1
+Rackham    |1
