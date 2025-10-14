@@ -144,7 +144,7 @@ as reading is active learning, where listening is not. Sure, a discussion
 is active too and we indeed did not have many. Making the exercises
 'strictly collaborative' seems like an interesting idea.
 
-All in all: I wish I could talk with him/her about this. 
+All in all: I wish I could talk with him/her about this.
 
 - [ ] Think on how to implement this
 
@@ -158,7 +158,7 @@ All in all: I wish I could talk with him/her about this.
 
 Another fellow teacher! Also here: make the exercises more collaborative.
 I also see some ideas here, such as using the book to write simple programs.
-Also here: I wish I could talk with him/her about this. 
+Also here: I wish I could talk with him/her about this.
 
 - [ ] Think on how to implement to make exercises more collaborative,
   e.g. let them write their own code (as a group) based on the book?
