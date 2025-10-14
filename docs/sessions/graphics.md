@@ -35,13 +35,7 @@ Here we experience how easy/hard it is to use Matplotlib on Rackham.
 
 ## Exercises
 
-### Exercise 1: Use matplotlib to show a plot
-
-!!!- info "Learning outcomes"
-
-    - Make a first scatter plot
-    - Rehearse running a script that uses an import
-    - Rehearse that graphics need X-forwarding
+## Exercise 1: Use matplotlib to show a plot
 
 Read [matplotlib's 'Pyplot tutorial'](https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py).
 

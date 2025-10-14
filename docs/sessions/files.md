@@ -33,11 +33,7 @@ Here we do just that.
 
 ## Exercises
 
-### Exercise 1: create a simple text file
-
-!!!- info "Learning outcomes"
-
-    - Create a simple text file
+## Exercise 1: create a simple text file
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):
@@ -52,14 +48,7 @@ Then do:
 - Verify that it works as expected
 
 
-### Exercise 2: read and create a simple text file
-
-
-!!!- info "Learning outcomes"
-
-    - Read a simple text file
-    - Repeat creating a file
-    - Practice to search the internet how to reverse the order of text lines
+## Exercise 2: read and create a simple text file
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):

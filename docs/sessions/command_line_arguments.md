@@ -42,12 +42,7 @@ when you want to 'just want to run the stupid code'.
 
 ## Exercises
 
-### Exercise 1: Read the command-line arguments
-
-!!!- info "Learning outcomes"
-
-    - Rehearse creating a script
-    - Read the command-line arguments
+## Exercise 1: Read the command-line arguments
 
 Read
 [the official Python documentation about `sys.argv`](https://docs.python.org/3/library/sys.html#sys.argv).
@@ -94,12 +89,7 @@ Run the Python script as shown below. What does it print?
     ['read_argv.py', 'hello world']
     ```
 
-### Exercise 2: Read a command-line argument
-
-!!!- info "Learning outcomes"
-
-    - Experience `sys.argv` is a list
-    - First experience in working with a list
+## Exercise 2: Read a command-line argument
 
 `sys.argv` is a list. Here we use this list
 
@@ -121,7 +111,7 @@ python read_argv.py hello world
 
 it should show `hello`.
 
-### Exercise 3: Work with a command-line argument
+## Exercise 3: Work with a command-line argument
 
 !!!- info "Learning outcomes"
 

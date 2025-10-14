@@ -53,7 +53,7 @@ but with a different focus.
 The goal is to practice the fundamental skills of creating
 and running a script.
 
-### Exercise 1: create a Python script
+## Exercise 1: create a Python script
 
 Go to the documentation of your HPC cluster,
 then answer the questions below. If you cannot find any helpful
@@ -105,7 +105,7 @@ print('Hello, world!')
     nano hello_world.py
     ```
 
-### Exercise 2: run a Python script
+## Exercise 2: run a Python script
 
 Go to the documentation of your HPC cluster,
 then answer the questions below. If you cannot find any helpful

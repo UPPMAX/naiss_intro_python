@@ -2,7 +2,6 @@
 
 !!!- info "Learning outcomes"
 
-    - Practice using the documentation of your HPC cluster
     - Practice using the Python book
       [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
     - Get the type of an object
@@ -54,12 +53,7 @@ to Python code. We will discover the helpful modulo operator.
 
 ## Exercises
 
-### Exercise 1: an equation with exponentiation
-
-!!!- info "Learning outcomes"
-
-    - practice converting an equation to Python code
-    - find and use the operator for exponentiation
+## Exercise 1: an equation with exponentiation
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):
@@ -106,12 +100,7 @@ t = 3.14
     Additionally, to make sure the equation is calculated correctly,
     plenty of parentheses were used.
 
-### Exercise 2: the modulo operator
-
-!!!- info "Learning outcomes"
-
-    - practice the modulo operator
-    - practice converting a simple text question to Python code
+## Exercise 2: the modulo operator
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):

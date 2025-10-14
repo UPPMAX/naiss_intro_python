@@ -2,7 +2,6 @@
 
 !!!- info "Learning outcomes"
 
-    - Practice using the documentation of your HPC cluster
     - Practice using the Python book
       [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
     - Get the type of an object
@@ -52,13 +51,7 @@ to Python code. We will discover the helpful modulo operator.
 
 ## Exercises
 
-### Exercise 1: working with variables
-
-!!!- info "Learning outcomes"
-
-    - get the type of an object
-    - create a variable
-    - use a variable
+## Exercise 1: working with variables
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):

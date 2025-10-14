@@ -8,7 +8,6 @@
     - Get a first impression of what the Python programming language is
     - Know the basics of what the Python interpreter is
     - Get a first idea of what a program is
-    - Hear about the three types of errors
     - Build up experience with the Python interpreter
     - Use a text editor on your HPC cluster
     - Create a Python script
@@ -21,7 +20,6 @@
     - Learners have a general idea about what the Python programming language is
     - Learners have used the phrase 'Python interpreter'
     - Learners have a general idea about what a program is
-    - Learners have used the terms syntax error, runtime error and semantic error
     - Learners have run code in the Python interpreter
 
     Other goals are:
@@ -38,8 +36,6 @@
 
     Prior questions:
 
-    - What types of programming errors exist?
-    - Can you name a few types of programming bugs?
     - What is a script?
     - Can you name a text editor?
 
@@ -61,67 +57,20 @@ These fundamental questions are discussed and practiced in this session.
     You can watch
     [a video with solutions to these exercises](https://youtu.be/r-4-vAO-uac)
 
-### Exercise 1: Python and the Python interpreter
-
-!!!- info "Learning outcomes"
-
-    - Get a first impression of what the Python programming language is
-    - Know the basics of what the Python interpreter is
-    - Get a first idea of what a program is
-    - Hear about the three types of errors
-    - Build up experience with the Python interpreter
+## Exercise 1: Python and the Python interpreter
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):
 
 - 1.1 The Python programming language
 - 1.2. What is a program?
-- 1.4. Syntax errors
-- 1.5. Runtime errors
-- 1.6. Semantic errors
 - 1.9. The first program
 
 Then in section 1.12, do exercises 1 up to and including 5.
 For your convenience,
 the questions are copy-pasted below:
 
-#### Exercise 1.1: Question 1.12.1
-
-Write an English sentence with understandable semantics
-but incorrect syntax.
-Write another English sentence which has correct syntax
-but has semantic errors.
-
-???- question "Answer"
-
-    From the Wikipedia link: 'A syntax error is an error in the syntax of a
-    sequence of characters that is intended to be written
-    in a particular programming language'.
-
-    An English sentence with understandable logic but incorrect syntax:
-
-    ```text
-    One plus one is twoooooooo
-    ```
-
-    A semantic error is also called a logic error,
-    hence a sentence with correct syntax and semantic errors is:
-
-    From [this Stack Exhange post](https://english.stackexchange.com/a/29521),
-    where the sentence
-    is attributed to Noam Chomsky:
-
-    ```text
-    Colorless green ideas sleep furiously
-    ```
-
-    From [this Stack Exchange post](https://english.stackexchange.com/a/29509):
-
-    ```text
-    My mother's white cat is black.
-    ```
-
-#### Exercise 1.2: Question 1.12.2
+## Exercise 1.2: Question 1.12.2
 
 Using the Python interpreter, type `1 + 2` and then hit return.
 Python evaluates this expression, displays the result,
@@ -144,7 +93,7 @@ and recording what is displayed by the Python interpreter.
     2**3
     ```
 
-#### Exercise 1.3: Question 1.12.3
+## Exercise 1.3: Question 1.12.3
 
 Type `1 2` and then hit return. Python tries to evaluate the expression,
 but it can't because the expression is not syntactically legal.
@@ -210,7 +159,7 @@ and the last line of the error message that Python reports back to you.
     SyntaxError: invalid syntax
     ```
 
-#### Exercise 1.4: Question 1.12.4
+## Exercise 1.4: Question 1.12.4
 
 Type `print("hello")`.
 Python executes this, which has the effect of printing the letters
@@ -240,7 +189,7 @@ Make notes of when you see the quotation marks and when you don’t.
     - When using `print`, any type of quotes is removed
     - When not using `print`, the word is printed in single quotes
 
-#### Exercise 1.5: Question 1.12.5
+## Exercise 1.5: Question 1.12.5
 
 Type `cheese` without the quotation marks.
 The output will look something like this:
@@ -266,13 +215,7 @@ is not defined. If you don't know what that means yet, you will soon.
     NameError: name 'cheese' is not defined
     ```
 
-### Exercise 2: Running a Python script
-
-!!!- info "Learning outcomes"
-
-    - create a Python script
-    - run a Python script
-    - use a text editor on your HPC cluster
+## Exercise 2: Running a Python script
 
 Here we continue with
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
@@ -280,7 +223,7 @@ chapter 1. In section 1.12, we'll do exercise 6.
 For your convenience, the question is split into pieces
 and is copy-pasted below.
 
-#### Exercise 2.1: Question 1.12.6a
+## Exercise 2.1: Question 1.12.6a
 
 Type `6 + 4 * 9` at the Python prompt and hit enter. Record what happens.
 
@@ -291,7 +234,7 @@ Type `6 + 4 * 9` at the Python prompt and hit enter. Record what happens.
     42
     ```
 
-#### Exercise 2.2: Text editors
+## Exercise 2.2: Text editors
 
 Search your HPC cluster's documentation
 for a text editor and decide on which one to use.
@@ -317,7 +260,7 @@ Pick the simplest one if you do not already know a text editor.
 
     The simplest text editor is called `nano`.
 
-#### Exercise 2.3: Question 1.12.6b
+## Exercise 2.3: Question 1.12.6b
 
 Use `nano` (or your favorite text editor) to
 create a Python script with the following contents:
@@ -348,7 +291,7 @@ What happens when you run this script?
     python my_script.py
     ```
 
-#### Exercise 2.4: Question 1.12.6c
+## Exercise 2.4: Question 1.12.6c
 
 Now change the script contents to:
 
@@ -387,7 +330,7 @@ What happened this time?
     42
     ```
 
-#### Exercise 2.5: Recap
+## Exercise 2.5: Recap
 
 Here is the remaining text in the book, pasted here for you convenience:
 

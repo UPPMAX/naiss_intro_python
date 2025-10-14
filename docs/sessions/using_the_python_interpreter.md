@@ -104,7 +104,7 @@ These exercises will ensure you are able to run a minimal Python program.
     Rackham         |No       |No            |No       |Excellent    |Easy
     Tetralith       |No       |No            |Yes      |Good         |Easy
 
-### Exercise 1: remember a Zoom room
+## Exercise 1: remember a Zoom room
 
 We will use breakout rooms, as this is best for learning.
 Ideally, each breakout room has 2 learners for the same HPC cluster.
@@ -137,13 +137,13 @@ Tetralith 11      |Room 16
 - Learners will be ruthlessly moved between rooms until all rooms have
   2 or 3 people present
 
-### Exercise 2: login to your HPC cluster
+## Exercise 2: login to your HPC cluster
 
 Login to your favorite HPC cluster.
 This should be easy, as this is
 [a prerequisite for this course](../prereqs/README.md).
 
-### Exercise 3: load the Python module
+## Exercise 3: load the Python module
 
 Go to the documentation of your HPC cluster
 and load a Python software module of the version indicated in the
@@ -190,7 +190,7 @@ Tetralith  |`3.10.4`
       You are encouraged
       to contact your HPC center to help them help you better
 
-### Exercise 4: start the Python interpreter
+## Exercise 4: start the Python interpreter
 
 Go to the documentation of your HPC cluster
 and start the Python interpreter.
@@ -228,7 +228,7 @@ and start the Python interpreter.
     If there is no time to get this fixed during the course,
     you can also use Python on your local computer.
 
-### Exercise 5: run a 'Hello world' program
+## Exercise 5: run a 'Hello world' program
 
 Copy-paste the following code to the Python interpreter:
 
