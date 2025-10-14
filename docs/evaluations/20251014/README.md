@@ -74,6 +74,8 @@ From [survey_end.csv](survey_end.csv):
 
 ![Confidence per question](confidences_per_question_pre_post.png)
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 |question                                                         | mean_pre| mean_post|   p_value|different |
 |:----------------------------------------------------------------|--------:|---------:|---------:|:---------|
 |I am comfortable using the documentation of my HPC center        | 2.727273|  4.500000| 0.0099316|TRUE      |
@@ -92,3 +94,5 @@ From [survey_end.csv](survey_end.csv):
 |In Python, I can find and use the operator for exponentiation    | 1.272727|  5.000000| 0.0016461|TRUE      |
 |In Python, I know what the modulo operator is and when to use it | 1.181818|  5.000000| 0.0016461|TRUE      |
 |I can convert a simple text question to Python code              | 1.181818|  4.500000| 0.0011858|TRUE      |
+
+<!-- markdownlint-enable MD013 -->
