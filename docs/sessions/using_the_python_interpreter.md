@@ -3,8 +3,6 @@
 !!!- info "Learning outcomes"
 
     - Practice using the documentation of your HPC cluster
-    - Practice using the Python book
-      [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
     - To be able to login to your HPC cluster
     - To be able to load Python
     - To be able to run a minimal Python program
@@ -14,7 +12,6 @@
     Teaching goals are:
 
     - Learners have used the documentation of their HPC cluster
-    - Learners have used the Python book
     - Learners have used the Python interpreter
     - Learners have loaded Python
 
@@ -34,7 +31,7 @@
     Notes:
 
     - For those that use Bianca, it may take some time to get a login node.
-      Encourage those to try Rackham while waiting
+      Encourage those to try Pelle while waiting
 
 
 ## Why software modules are important
