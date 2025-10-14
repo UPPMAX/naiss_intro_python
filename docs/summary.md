@@ -41,7 +41,7 @@ python
 ```
 
 The go-to text editor on an HPC cluster is called `nano`,
-with `emacs` and `vim` being more advanced text editors. 
+with `emacs` and `vim` being more advanced text editors.
 `nano` can be started with:
 
 ```bash
@@ -74,13 +74,13 @@ print(my_variable)
 
 To do exponentiation in Python, use `**`:
 
-```
+```python
 my_variable = 3 ** 2
 ```
 
 To use the modulo operator, `%%`, which is useful to determine
 if a number is odd/even/prime, in Python do:
 
-```
+```python
 my_variable = 5 %% 2
 ```
