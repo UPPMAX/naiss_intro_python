@@ -33,6 +33,7 @@ Time        |Focus |Topic                                                       
 14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md) |Richèl
 15:00-15:15 |.     | Break                                                                                                  |.
 15:15-15:45 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md)|Richèl
+15:40-15:45 |Python| [Summary](summary.md)                                                                            |Richèl
 15:45-16:00 |Course| [Evaluation](evaluation.md)                                                                            |Richèl
 
 <!-- markdownlint-enable MD013 -->
