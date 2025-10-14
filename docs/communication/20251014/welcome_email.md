@@ -21,7 +21,7 @@ Well done! You've already done one of the five prerequisites (as listed on <http
 
 - [x] Prerequisite 1/5: You have registered at our registration form
 - [ ] Prerequisite 2/5: You have registered at SUPR
-- [ ] Prerequisite 3/5: You have requesed access to this course's NAISS project
+- [ ] Prerequisite 3/5: You have requested access to this course's NAISS project
 - [ ] Prerequisite 4/5: You are able to login to your HPC cluster
 - [ ] Prerequisite 5/5: You have a good Zoom setup
 

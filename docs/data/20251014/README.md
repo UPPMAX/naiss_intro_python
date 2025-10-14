@@ -22,11 +22,16 @@ with an MD5 of the email address.
 
 ![Number of registrations in time and predictions](n_registrations_in_time_and_predictions.png)
 
+!!! note "Add one"
+
+    Add one, as A.S. registered by email after the course registration
+    was closed
+
 ## Overview of HPC clusters registered
 
 HPC cluster|Number of registrations
 -----------|-----------------------
-Tetralith  |22
+Tetralith  |22 + 1
 Bianca     |2
 Dardel     |4
 COSMOS     |1
