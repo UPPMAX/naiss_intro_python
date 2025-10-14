@@ -66,5 +66,3 @@ they blended in well.
 
 The end of my day was weak: I was mentally exhausted.
 
-
-
