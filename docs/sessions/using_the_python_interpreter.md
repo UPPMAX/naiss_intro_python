@@ -76,7 +76,7 @@ you cannot do Python programming.
     Dardel     |SSH         |[Video](https://youtu.be/BAD6y_a5xBQ)
     Kebnekaise |SSH         |[Video](https://youtu.be/DpnKUEOcIdE)
     LUMI       |SSH         |[Video](https://youtu.be/bPdvn2gajgU)
-    Pelle      |SSH         |TODO
+    Pelle      |SSH         |[Video](https://youtu.be/7VdutN-iUtg)
     Rackham    |SSH         |[Video](https://youtu.be/S6pYTqRmI7U)
     Tetralith  |SSH         |[Video](https://youtu.be/OBT9XuVktwg)
 
@@ -91,19 +91,21 @@ should allow you to do this by yourself!
 
 These exercises will ensure you are able to run a minimal Python program.
 
-The difficulty of these exercises depends on your HPC cluster:
+???- question "How difficult will this exercise be?"
 
-HPC cluster name|Need VPN?|Need SSH keys?|Need 2FA?|Documentation|Difficulty
-----------------|---------|--------------|---------|-------------|----------
-Alvis           |Yes      |No            |No       |Minimal      |Medium
-Bianca          |Yes      |No            |Yes      |Excellent    |Medium
-COSMOS          |No       |No            |Yes      |Good         |Easy
-Dardel          |No       |Yes           |No       |Minimal      |Medium
-LUMI            |No       |Yes           |No       |Reasonable   |Medium
-Kebnekaise      |No       |No            |No       |Good         |Easy
-Pelle           |No       |No            |No       |Excellent    |Easy
-Rackham         |No       |No            |No       |Excellent    |Easy
-Tetralith       |No       |No            |Yes      |Good         |Easy
+    The difficulty of these exercises depends on your HPC cluster:
+
+    HPC cluster name|Need VPN?|Need SSH keys?|Need 2FA?|Documentation|Difficulty
+    ----------------|---------|--------------|---------|-------------|----------
+    Alvis           |Yes      |No            |No       |Minimal      |Medium
+    Bianca          |Yes      |No            |Yes      |Excellent    |Medium
+    COSMOS          |No       |No            |Yes      |Good         |Easy
+    Dardel          |No       |Yes           |No       |Minimal      |Medium
+    LUMI            |No       |Yes           |No       |Reasonable   |Medium
+    Kebnekaise      |No       |No            |No       |Good         |Easy
+    Pelle           |No       |No            |No       |Excellent    |Easy
+    Rackham         |No       |No            |No       |Excellent    |Easy
+    Tetralith       |No       |No            |Yes      |Good         |Easy
 
 ### Exercise 1: remember a Zoom room
 
@@ -155,7 +157,7 @@ HPC Cluster|Python version
 Alvis      |`3.12.3`
 Bianca     |`3.11.4`
 COSMOS     |`3.11.5`
-Dardel     |`3.11.4`
+Dardel     |`3.12.3`
 Kebnekaise |`3.11.3`
 LUMI       |`3.11.7`
 Pelle      |`3.13.1`
@@ -175,7 +177,7 @@ Tetralith  |`3.10.4`
     Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|`module load Python/3.12.3-GCCcore-13.3.0`
     Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                                                                                                |`module load python/3.11.4`
     COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |`module load bioinfo-tools python/3.11.4`
+    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |`module load PDC python/3.12.3`
     Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |`module load GCC/12.3.0 Python/3.11.3`
     LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |`module load cray-python/3.11.7`
     Pelle      |[Documentation](http://docs.uppmax.uu.se/software/python/)                                                                                                                                |`module load Python/3.13.1-GCCcore-14.2.0`

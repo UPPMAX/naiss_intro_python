@@ -85,9 +85,10 @@ Read the following sections of
 
 Then:
 
-- Log in to Rackham using SSH **without** X forwarding
+- Log in to your favorite HPC cluster using SSH **without** X forwarding
 
 ???- question "Answer"
+
 
     This is how:
 

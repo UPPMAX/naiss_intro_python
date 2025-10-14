@@ -2,7 +2,8 @@
 
 ![Python logo from https://www.python.org/community/logos/](python_logo.png)
 
-This module introduces the fundamentals of Python programming language.
+This course day allows you to program in basic Python on
+an HPC cluster.
 
 !!! info "Learning outcomes"
 
@@ -114,9 +115,14 @@ using some of the most advanced hardware we have at this day.
 
 ## Sessions
 
+The sessions 'Getting it to run' allow you to run Python on
+an HPC cluster:
+
 - [Using the Python interpreter](using_the_python_interpreter.md)
 - [The way of the program](the_way_of_the_program.md)
 - [Working with Python scripts](working_with_python_scripts.md)
+
+The later sessions focus on learning Python.
 
 ## Exercises
 
