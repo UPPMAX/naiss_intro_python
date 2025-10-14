@@ -9,6 +9,6 @@ Date                  |Description
 ~2025-08-01           |[Registration form](registration_form.md)
 ~2025-08-01           |[NAISS newsletter, first announcement](newsletter_first_announcement.md)
 ~2025-08-01 and onward|[Welcome email](welcome_email.md)
-2025-10-07 and onward |[Reminder email, 1 week left](reminder_email_1_week_left.md)
+2025-10-14            |[Reminder in the morning](reminder_in_morning.md)
 
 <!-- markdownlint-enable MD013 -->
