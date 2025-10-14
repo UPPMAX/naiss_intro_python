@@ -5,7 +5,7 @@
 - [Reflection](../../reflections/20251014/README.md)
 - Number of registrations: 30 (i.e. 32 and 2 cancellations)
 
-## 2025-10-13
+## 2025-10-13 preparation
 
 I have only this day to prepare. Yet, the material is in a good
 state, so that will work.
@@ -33,4 +33,20 @@ COSMOS     |1
 Rackham    |1
 Vera       |1
 
-## 2025-10-14
+## 2025-10-14 preparation
+
+Let's first go through the last reflections:
+
+- [High] Add Python package modules:
+  failed, need a more thorough rewrite,
+  needs to start from a remote desktop environment
+- [Medium] Add 'Be able to write simple Python scripts'
+  as the goal of the Python-only part:
+  I feel it is already present
+- [Medium] Spend a bit more time on text editors:
+  no time
+- [Low] Make the later material Good:
+  no time
+- [Low] Assume variables are understood well enough:
+  no time
+

@@ -9,6 +9,8 @@
     - Start from a remote desktop environment
     - Ignore X forwarding
 
+<!-- markdownlint-disable --><!-- I will rewrite this and do not care about 80 characters per line -->
+
 !!!- info "Learning outcomes"
 
     - Practice using the documentation of your HPC cluster
@@ -129,7 +131,7 @@ wn.mainloop()             # Wait for user to close window
     Feel encouraged to do so anyways and observe the error message :-)
 
 - Run the script on your HPC cluster using `python`
-  **without loading any modules**. 
+  **without loading any modules**.
   Does your HPC cluster have the `turtle` Python package installed
   by default?
 
@@ -302,7 +304,6 @@ Tetralith  |`3.10.4`
   What is the error message now?
 
 
-
 ???- question "Answer"
 
     HPC Cluster|Will `turtle` work with modules loaded?
@@ -471,8 +472,6 @@ Tetralith  |`3.10.4`
             self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
         _tkinter.TclError: no display name and no $DISPLAY environment variable
         ```
-
-
 
 
 The error is `no display name and no $DISPLAY environment variable`.

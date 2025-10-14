@@ -1,6 +1,6 @@
 # Reminder email in the morning
 
-## Intro to Python for HPC: see you at 9:00 sharp!
+## Intro to Python for HPC: see you at 9:00 sharp
 
 Dear learners,
 

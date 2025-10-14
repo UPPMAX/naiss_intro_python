@@ -13,4 +13,3 @@ session starts in a remote desktop environment (ignoring X forwarding).
 - [ ] Schedule at 4 hours to fix 'Hello little turtles'
 - [ ] Consider to do so for 'Graphics' instead
 
-
