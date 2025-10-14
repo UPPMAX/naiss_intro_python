@@ -23,6 +23,8 @@ nav:
     - Command-line arguments: sessions/command_line_arguments.md
     # -  Graphics: sessions/graphics.md
     - Functions: sessions/functions.md
+    - Further learning: further_learning.md
+    - Summary: summary.md
   - Misc:
     - Acknowledgements: acknowledgements.md
     - All topics: topics.md
@@ -35,7 +37,6 @@ nav:
     - Evaluations:  evaluations/README.md
     - Exercise procedure: misc/exercise_procedure.md
     - Frequently asked questions: faq.md
-    - Further learning: further_learning.md
     - Lesson plans: lesson_plans/README.md
     - Project: misc/project.md
     - Reflections: reflections/README.md
