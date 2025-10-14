@@ -37,6 +37,8 @@ Time        |Focus |Topic                                                       
 
 <!-- markdownlint-enable MD013 -->
 
+Extra sessions:
+
 <!-- - [Modules and Python packages](sessions/hello_little_turtles.md) -->
 - [File IO](sessions/files.md)
 - [Command line arguments](sessions/command_line_arguments.md)
