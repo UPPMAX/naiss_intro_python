@@ -11,9 +11,7 @@ You can be reasonably sure you'll achieve this:
 - I am comfortable using the documentation of my HPC center
 - I am comfortable using the Python book
 - I am comfortable learning Python
-- I can login to my HPC cluster
 - I can load a Python version on my HPC cluster
-- I can describe what the Python programming language is
 - I can describe what the Python interpreter is
 - I can use a text editor on my HPC cluster
 - I can create a Python script
