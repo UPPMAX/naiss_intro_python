@@ -78,9 +78,9 @@ To do exponentiation in Python, use `**`:
 my_variable = 3 ** 2
 ```
 
-To use the modulo operator, `%%`, which is useful to determine
+To use the modulo operator, `%`, which is useful to determine
 if a number is odd/even/prime, in Python do:
 
 ```python
-my_variable = 5 %% 2
+my_variable = 5 % 2
 ```
