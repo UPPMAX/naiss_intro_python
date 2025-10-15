@@ -38,3 +38,7 @@ COSMOS     |1
 Bem2       |1
 Vera       |1
 Rackham    |1
+
+## Attendance
+
+![Number of learners present in time](n_learners_in_time.png)
