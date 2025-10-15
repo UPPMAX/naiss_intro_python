@@ -5,8 +5,10 @@
 - [Reflection](../../reflections/20251014/README.md)
 - Number of non-duplicate registrations: 30
 - Number of cancellations: 3
-- Number of participants: 6
-- Number of evaluations: 6
+- Number of active participants, whole day: 6 (22%)
+- Number of active participants, either half-day: 12
+  (some learners attended 1 half-day only) (44%)
+- Number of evaluations: 6 (100% fill-in rate by those at the second half-day)
 
 ## Results
 
