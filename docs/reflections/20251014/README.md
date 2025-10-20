@@ -6,6 +6,11 @@
 
 ## Before teaching
 
+When I started sending out the emails (at 'Communication'),
+I received 3 cancellations. I wonder how this number compares
+to other courses and/or how it compares to emails that are less
+welcoming.
+
 The 'Hello little turtles' session took me too much time to get
 to get to work. After one hour, I think it is better if this
 session starts in a remote desktop environment (ignoring X forwarding).
