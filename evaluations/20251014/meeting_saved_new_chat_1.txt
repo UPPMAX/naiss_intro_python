@@ -1,0 +1,33 @@
+09:00:46 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://richelbilderbeek.github.io/teaching/who_is_richel/
+	
+09:03:13 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/
+	
+09:08:28 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/
+	
+09:08:49 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/schedule/
+	
+09:11:21 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/
+	
+09:13:12 From Michal Kochman To Everyone:
+	Sorrry about that
+	
+09:14:46 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/#why-is-this-course-important
+	
+09:17:47 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://docs.google.com/forms/d/e/1FAIpQLSdZWrX2CeoGFsyiAgqvxsCK9rg9TjO2H84kIeSM_FxzGPwAkg/viewform?usp=header
+	
+09:18:46 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/#exercise-1-add-your-hpc-cluster-to-your-name
+	
+09:20:41 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Michal Kochman (direct message):
+	Hi Michal, you use the Bem2 HPC cluster? You know it will be hard for me  help you with that ...? But hey, we'll see how well this goes :-)
+	
+09:23:52 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
+	https://uppmax.github.io/naiss_intro_python/evaluation/
+	
