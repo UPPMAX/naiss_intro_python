@@ -10,10 +10,10 @@ on:
       - 'docs/**'
       - zensical.toml
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+# permissions:
+#   contents: write
+#   pages: write
+#   id-token: write
 
 jobs:
   deploy:
