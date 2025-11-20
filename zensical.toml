@@ -1,10 +1,7 @@
 [project]
 site_name = "NAISS Intro to Python"
-
-# Deployed site
 site_url = "https://uppmax.github.io/naiss_intro_python/"
-# GitHub repo behind site
-# https://github.com/UPPMAX/naiss_intro_python
+repo_url = "https://github.com/UPPMAX/naiss_intro_python"
 
 nav = [
   { "Start" = "index.md"},
