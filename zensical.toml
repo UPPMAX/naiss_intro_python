@@ -20,6 +20,11 @@ nav = [
   ]}
 ]
 
+
+[project.extra.analytics]
+provider = "google"
+property = "G-CW0S3VK5Z0"
+
 #     nav:
 #       - Getting it to run:
 #     #     - Overview: sessions/introduction_getting_it_to_run.md
