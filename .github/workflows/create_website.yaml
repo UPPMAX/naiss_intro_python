@@ -1,6 +1,7 @@
 # Adapted from https://zensical.org/docs/publish-your-site/#with-github-actions
 name: Create website
 
+
 on:
   push:
     branches:
