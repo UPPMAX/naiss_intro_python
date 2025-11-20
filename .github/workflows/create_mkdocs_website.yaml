@@ -1,4 +1,4 @@
-name: Create website
+name: Create the older MkDocs website
 
 on:
   push:
