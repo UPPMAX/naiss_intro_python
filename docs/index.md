@@ -22,5 +22,3 @@ on the NAISS HPC clusters.
 [Basic Python](sessions/introduction_basic_python.md){ .md-button .md-button--primary }
 
 <!-- markdownlint-enable MD013 -->
-
-THIS IS A TEST
