@@ -1,3 +1,5 @@
+# Adapted from [https://zensical.org/docs/publish-your-site/#with-github-actions](https://zensical.org/docs/publish-your-site/#with-github-actions)
+
 name: Create website
 
 on:
@@ -16,37 +18,19 @@ id-token: write
 
 jobs:
 deploy:
+environment:
+name: gh-pages
+url: ${{ steps.deployment.outputs.page_url }}
 runs-on: ubuntu-latest
 steps:
-# Configure GitHub Pages deployment
 - uses: actions/configure-pages@v5
-
-```
-  # Checkout the repository  
-  - uses: actions/checkout@v5  
-
-  # Setup Python environment  
-  - uses: actions/setup-python@v5  
-    with:  
-      python-version: 3.11  # Pin a specific version for stability  
-
-  # Install Zensical  
-  - run: pip install zensical  
-
-  # Build the site  
-  - run: zensical build --clean  
-
-  # Upload the build folder for GitHub Pages  
-  - uses: actions/upload-pages-artifact@v4  
-    with:  
-      path: site  
-
-  # Deploy the site directly from main  
-  - uses: actions/deploy-pages@v4  
-    with:  
-      branch: main  # Ensures deployment from main branch  
-```
-
-
-
-
+- uses: actions/checkout@v5
+- uses: actions/setup-python@v5
+with:
+python-version: 3.x
+- run: pip install zensical
+- run: zensical build --clean
+- uses: actions/upload-pages-artifact@v4
+with:
+path: site
+- uses: actions/deploy-pages@v4
