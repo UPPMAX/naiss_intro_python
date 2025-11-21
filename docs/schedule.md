@@ -20,8 +20,8 @@ tags:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Time        |Focus |Topic                                                                                                  |Teacher(s)
-------------|------|-------------------------------------------------------------------------------------------------|----------
+Time        |Focus |Topic                                                                                                   |Teacher(s)
+------------|------|--------------------------------------------------------------------------------------------------------|----------
 09:00-10:00 |HPC   | [Using the Python interpreter](sessions/using_the_python_interpreter.md)                               |Richèl
 10:00-10:15 |.     | Break                                                                                                  |.
 10:15-11:00 |HPC   | [The way of the program](sessions/the_way_of_the_program.md)                                           |Richèl
@@ -33,7 +33,7 @@ Time        |Focus |Topic                                                       
 14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md) |Richèl
 15:00-15:15 |.     | Break                                                                                                  |.
 15:15-15:45 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md)|Richèl
-15:40-15:45 |Python| [Summary](summary.md)                                                                            |Richèl
+15:40-15:45 |Python| [Summary](summary.md)                                                                                  |Richèl
 15:45-16:00 |Course| [Evaluation](evaluation.md)                                                                            |Richèl
 
 <!-- markdownlint-enable MD013 -->

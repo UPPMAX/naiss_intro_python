@@ -97,6 +97,7 @@ Let's look for the weakest session:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
+```text
 question|mean|reflection
 ---|---|---
 I am comfortable using the Python book|4.2667|.
@@ -129,6 +130,7 @@ I can find and use a Python module on Rackham|1.66667|Agree: was not taught
 In Python, I can write a function that calls a function|1|Agree: was not taught
 In Python, I can import the matplotlib library|1.2|Agree: was not taught
 In Python, I can use a for loop|1.8|Agree: was not taught
+```
 
 <!-- markdownlint-enable MD013 -->
 
@@ -204,7 +206,7 @@ my quality standards yet.
   so no one is rushed during the exercises.
   I think it's a good idea to base the course on a book,
   so we can keep on learning more in our own time afterwards,
-  especially since the book includes exercises.  
+  especially since the book includes exercises.
 
 Yay!
 

@@ -12,9 +12,9 @@ Time |Start of section
 13:15|6. VET 3: user input
 13:45|7. Hello little turtle
 14:30|8. File I/O
-?|9. Command-line arguments
-?|10. Graphics
-?|Functions -> no, send home!
+?    |9. Command-line arguments
+?    |10. Graphics
+?    |Functions -> no, send home!
 
 This makes me wonder: can I stop earlier with them?
 
