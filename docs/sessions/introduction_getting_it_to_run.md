@@ -139,7 +139,7 @@ then click 'Rename' to change your Zoom name.
 The goal of this exercise is to find out
 what you will learn today.
 
-- Go to [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZWrX2CeoGFsyiAgqvxsCK9rg9TjO2H84kIeSM_FxzGPwAkg/viewform?usp=header)
+- Go to this form [TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
   and fill it in
 
 ???- question "For teachers: what is in that form?"

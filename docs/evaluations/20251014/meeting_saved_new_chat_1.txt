@@ -20,7 +20,7 @@
 	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/#why-is-this-course-important
 	
 09:17:47 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
-	https://docs.google.com/forms/d/e/1FAIpQLSdZWrX2CeoGFsyiAgqvxsCK9rg9TjO2H84kIeSM_FxzGPwAkg/viewform?usp=header
+	[Link to Google form]
 	
 09:18:46 From Richèl 'Rea-shell' Bilderbeek [Teacher] To Everyone:
 	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/#exercise-1-add-your-hpc-cluster-to-your-name

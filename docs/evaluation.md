@@ -13,7 +13,7 @@ This is the page for evaluating the current iteration of the course.
 
 ## Evaluation forms
 
-- [Form for any feedback during the day](https://docs.google.com/forms/d/e/1FAIpQLSd-eZk_SM_6Vc2Um7A7z5dGY3hKfL-E67EMB6mfGYdVY8zCDg/viewform?usp=header)
+- Form for any feedback during the day: [TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
 
 ???- question "For teachers: what is in that form?"
 
@@ -23,7 +23,7 @@ This is the page for evaluating the current iteration of the course.
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
-- [Form with evaluation questions](https://docs.google.com/forms/d/e/1FAIpQLSceLahtIwApTpNLgkIMwu3XwWNdTeGQIMLkrSgI6cwLpUZ3_w/viewform?usp=header)
+- Form with evaluation questions: [TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
 
 ???- question "For teachers: what is in that form?"
 
