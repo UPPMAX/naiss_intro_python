@@ -10,7 +10,7 @@
 I will have my colleague Sahar observing this day, so I will prepare
 are bit more explicitly.
 
-However, first I start with items from 
+However, first I start with items from
 [the previous reflection](../../reflections/20251014/README.md):
 
 - [ ] Schedule at 4 hours to fix 'Hello little turtles'
@@ -30,5 +30,4 @@ However, first I start with items from
   in a group
 - [ ] Think on how to implement to make exercises more collaborative,
   e.g. let them write their own code (as a group) based on the book?
-
 
