@@ -5,9 +5,11 @@
 ![Python logo from https://www.python.org/community/logos/](python_logo.png)
 !['How to Think Like a Computer Scientist' book logo from https://openbookproject.net/thinkcs/python/english3e/index.html](python_book_logo.png)
 
-> Great course. Now, Python is not scary anymore.
->
-> A learner from this course ([source](https://uppmax.github.io/naiss_intro_python/evaluations/20240830/))
+!!! info "Quote from a learner from this course"
+
+    Great course. Now, Python is not scary anymore.
+    
+    > A learner from this course ([source](https://uppmax.github.io/naiss_intro_python/evaluations/20240830/))
 
 This course introduces the foundations of the Python programming language
 on the NAISS HPC clusters.
