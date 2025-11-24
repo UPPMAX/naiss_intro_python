@@ -81,7 +81,7 @@ Then in section 2.14, do exercises 1 to and including 4.
     h = 'a'
     i = 'dull'
     j = 'boy'
-    print(a, b, c, d, e, f, g, h, i, j)    
+    print(a, b, c, d, e, f, g, h, i, j)
     ```
 
 
@@ -117,7 +117,7 @@ Then in section 2.14, do exercises 1 to and including 4.
     h = 'a'
     i = 'dull'
     j = 'boy'
-    print(a, b, c, d, e, f, g, h, i, j)    
+    print(a, b, c, d, e, f, g, h, i, j)
     ```
 
     Commenting out the first line:

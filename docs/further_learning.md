@@ -1,7 +1,7 @@
 ---
 tags:
   - learning
-  - further 
+  - further
   - more
   - future
 ---

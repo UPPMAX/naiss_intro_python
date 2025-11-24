@@ -49,7 +49,7 @@ flowchart TD
   something_done[Something is done]
   a_letter --> employee --> something_done
 
-  code[Code] 
+  code[Code]
   interpreter[Interpreter]
   machine_code[Machine code]
   code --> interpreter --> machine_code
@@ -250,7 +250,7 @@ How does that look like?
     Type "help", "copyright", "credits" or "license" for more information.
     >>> print('Hello, world!')
     Hello, world!
-    >>> 
+    >>>
     ```
 
 Congratulations, you've just run a 'Hello world' program :+1:

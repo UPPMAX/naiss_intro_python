@@ -17,7 +17,7 @@ tags:
     The day ends at either 16:00 or when we have achieved
     the goals of the day. As helping each other will speed this up,
     the teacher(s) will ask the faster learners for help teaching the
-    slower/unluckier learners. 
+    slower/unluckier learners.
 
 ???- question "What are the course dates?"
 

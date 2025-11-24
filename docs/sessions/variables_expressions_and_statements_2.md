@@ -151,7 +151,7 @@ Then in section 2.14, do exercises 6 and 7.
     Traceback (most recent call last):
       File "<stdin>", line 1, in <module>
     ZeroDivisionError: integer modulo by zero
-    >>> 
+    >>>
     ```
 
     The last error is the result from a division by zero: `7 % 0` means:

@@ -207,13 +207,13 @@ to build up confidence in the positive effect of the setup.
 
 ## How to pronounce my name
 
-Language  | Pronounciation 
+Language  | Pronounciation
 ----------|----------------
-**Dutch** | 'Rie-sjel'     
-English   | 'Rea-shell'    
-French    | 'Richèl'       
-German    | 'Ri-shäll'     
-Swedish   | 'Ri-kjell'     
+**Dutch** | 'Rie-sjel'
+English   | 'Rea-shell'
+French    | 'Richèl'
+German    | 'Ri-shäll'
+Swedish   | 'Ri-kjell'
 
 ## Teaching
 
@@ -237,7 +237,7 @@ Swedish   | 'Ri-kjell'
 ## Features
 
 -   Every learner needs to be active
--   Follows the pace of learners that need more time 
+-   Follows the pace of learners that need more time
 -   Fast learners help
 -   Asks learners randomly @bell2020fundamentals
 -   Dare to try out new things (and fail in plain sight) @bell2020fundamentals
@@ -254,24 +254,24 @@ This was the only lecture in the course :-)
 ### A2. Feedback
 
 ```text
-I had some questions, for example 'What is the interactive node 
+I had some questions, for example 'What is the interactive node
 going to do with my output?'. It is great that we practiced this!
 
 If no video, the teacher cannot see when learners are lost:
 great idea to turn cameras on for that too!
 
- - Day 1: 
+ - Day 1:
     - Should be more hands-on
-    - Low tempo 
+    - Low tempo
     - More conceptual than technical
     - Move some Day 2 content to Day 1, to be more hands-on
- - Day 2: 
-    - Great! 
+ - Day 2:
+    - Great!
     - Prefer less in-depth
     - If no experience with Linux, it is hard to keep up.
- - Day 3: 
+ - Day 3:
    - Douglas: see Day 2
-   - Diana: 
+   - Diana:
      - Good day, yet the focus was more on Linux,
        then making the learners think and be active learners.
      - Less content, e.g only Slurms things that are most important, less Linux flags
@@ -279,7 +279,7 @@ great idea to turn cameras on for that too!
    - lovely
    - fresh
    - kept audience awake
-   - As a learner, you do not want to be berated when giving an answer. 
+   - As a learner, you do not want to be berated when giving an answer.
      Richel tries to gently deal with a wrong answer and he does this great
    - cameras on is great: else learners feel alone
    - in a gentle way, Richel makes people feel that this is serious:

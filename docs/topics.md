@@ -32,7 +32,7 @@ flowchart TD
       functions[Functions]
       python_packages[Python packages]
       graphics[Graphics]
-    end 
+    end
     style sub_programming_terms fill:#cfc,color:#000,stroke:#fcc
 
     subgraph sub_uppmax[NAISS]
@@ -78,6 +78,6 @@ flowchart TD
     text_editors --> |work on|text_files
     x_forwarding --> |allows|graphics
     remote_desktop --> |allows|graphics
-    
+
     variables ~~~ uppmax
 ```

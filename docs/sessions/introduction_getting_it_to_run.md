@@ -49,7 +49,7 @@ an HPC cluster.
           %% functions[Functions]
           python_packages[Python packages]
           %% graphics[Graphics]
-        end 
+        end
         style sub_programming_terms fill:#cfc,color:#000,stroke:#fcc
 
         subgraph sub_naiss[NAISS]
@@ -95,7 +95,7 @@ an HPC cluster.
         text_editors --> |work on|text_files
         %%x_forwarding --> |allows|graphics
         %%remote_desktop --> |allows|graphics
-        
+
 
         variables ~~~ your_hpc_center
     ```

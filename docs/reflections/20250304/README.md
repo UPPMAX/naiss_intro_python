@@ -240,7 +240,7 @@ have to attend another meeting in the later half of the day
 and cannot continue to attend the course session.
 I will fill out the evaluation form.
 
-Thank you and best wishes, 
+Thank you and best wishes,
 [name of learner]
 ```
 

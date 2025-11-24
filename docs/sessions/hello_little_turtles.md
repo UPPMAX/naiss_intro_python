@@ -137,7 +137,7 @@ wn.mainloop()             # Wait for user to close window
 
 ???- question "Answer"
 
-    HPC Cluster|Has `turtle` Python package installed by default? 
+    HPC Cluster|Has `turtle` Python package installed by default?
     -----------|-------------------------------------------------------
     Alvis      |.
     Bianca     |Yes
@@ -154,7 +154,7 @@ wn.mainloop()             # Wait for user to close window
     === "Bianca"
 
     ```bash
-    [richel@sens2025560-bianca ~]$ python my_turtle.py 
+    [richel@sens2025560-bianca ~]$ python my_turtle.py
     Traceback (most recent call last):
       File "my_turtle.py", line 2, in <module>
         wn = turtle.Screen()      # Creates a playground for turtles
@@ -172,7 +172,7 @@ wn.mainloop()             # Wait for user to close window
     === "COSMOS"
 
         ```bash
-        [richel@cosmos2 ~]$ python my_turtle.py 
+        [richel@cosmos2 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "/home/richel/my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
@@ -190,7 +190,7 @@ wn.mainloop()             # Wait for user to close window
     === "Dardel"
 
         ```bash
-        richelbi@login1:~> python my_turtle.py 
+        richelbi@login1:~> python my_turtle.py
         Traceback (most recent call last):
           File "my_turtle.py", line 1, in <module>
             import turtle             # Allows us to use turtles
@@ -200,7 +200,7 @@ wn.mainloop()             # Wait for user to close window
     === "Kebnekaise"
 
         ```bash
-        b-an01 [~]$ python my_turtle.py 
+        b-an01 [~]$ python my_turtle.py
         Traceback (most recent call last):
           File "my_turtle.py", line 1, in <module>
             import turtle             # Allows us to use turtles
@@ -214,14 +214,14 @@ wn.mainloop()             # Wait for user to close window
     === "LUMI"
 
         ```bash
-        bilderbe@uan04:~> python my_turtle.py 
+        bilderbe@uan04:~> python my_turtle.py
         -bash: python: command not found
         ```
 
     === "Pelle"
 
         ```bash
-        [richel@pelle2 ~]$ python my_turtle.py 
+        [richel@pelle2 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "/domus/h1/richel/my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
@@ -239,7 +239,7 @@ wn.mainloop()             # Wait for user to close window
     === "Rackham"
 
         ```bash
-        [richel@rackham1 ~]$ python my_turtle.py 
+        [richel@rackham1 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
@@ -257,7 +257,7 @@ wn.mainloop()             # Wait for user to close window
     === "Tetralith"
 
         ```bash
-        [x_ricbi@tetralith3 ~]$ python my_turtle.py 
+        [x_ricbi@tetralith3 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "/home/x_ricbi/my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
@@ -323,7 +323,7 @@ Tetralith  |`3.10.4`
     === "Bianca"
 
     ```bash
-    [richel@sens2025560-bianca ~]$ python my_turtle.py 
+    [richel@sens2025560-bianca ~]$ python my_turtle.py
     Traceback (most recent call last):
       File "my_turtle.py", line 2, in <module>
         wn = turtle.Screen()      # Creates a playground for turtles
@@ -341,7 +341,7 @@ Tetralith  |`3.10.4`
     === "COSMOS"
 
         ```bash
-        [richel@cosmos2 ~]$ python my_turtle.py 
+        [richel@cosmos2 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "/home/richel/my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
@@ -359,7 +359,7 @@ Tetralith  |`3.10.4`
     === "Dardel"
 
         ```bash
-        richelbi@login1:~> python my_turtle.py 
+        richelbi@login1:~> python my_turtle.py
         Traceback (most recent call last):
           File "my_turtle.py", line 1, in <module>
             import turtle             # Allows us to use turtles
@@ -400,7 +400,7 @@ Tetralith  |`3.10.4`
     === "Kebnekaise"
 
         ```bash
-        b-an01 [~]$ python my_turtle.py 
+        b-an01 [~]$ python my_turtle.py
         Traceback (most recent call last):
           File "my_turtle.py", line 1, in <module>
             import turtle             # Allows us to use turtles
@@ -414,14 +414,14 @@ Tetralith  |`3.10.4`
     === "LUMI"
 
         ```bash
-        bilderbe@uan04:~> python my_turtle.py 
+        bilderbe@uan04:~> python my_turtle.py
         -bash: python: command not found
         ```
 
     === "Pelle"
 
         ```bash
-        [richel@pelle2 ~]$ python my_turtle.py 
+        [richel@pelle2 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "/domus/h1/richel/my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
@@ -458,7 +458,7 @@ Tetralith  |`3.10.4`
     === "Tetralith"
 
         ```bash
-        [x_ricbi@tetralith3 ~]$ python my_turtle.py 
+        [x_ricbi@tetralith3 ~]$ python my_turtle.py
         Traceback (most recent call last):
           File "/home/x_ricbi/my_turtle.py", line 2, in <module>
             wn = turtle.Screen()      # Creates a playground for turtles
