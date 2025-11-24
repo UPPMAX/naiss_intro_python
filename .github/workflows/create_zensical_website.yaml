@@ -1,5 +1,5 @@
 # Adapted from https://zensical.org/docs/publish-your-site/#with-github-actions
-name: Create website
+name: Create Zensical website
 
 
 on:
@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths:
-      - .github/workflows/create_website.yaml
+      - .github/workflows/create_zensical_website.yaml
       - 'docs/**'
       - zensical.toml
 
@@ -17,7 +17,7 @@ permissions:
   id-token: write
 
 jobs:
-  deploy:
+  create_zensical_website:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
