@@ -5,6 +5,12 @@ as copied from [its evaluation](evaluation.md).
 The course is learner-centered ([why?](faq.md#why-is-the-course-learner-centered)),
 hence the pace is determined be the learners (i.e. not by the clock).
 
+These are the two main goals:
+
+Time     |Main goal
+---------|--------------------------------------------------
+Morning  |To be able to run Python code on an HPC cluster
+Afternoon|To be able to read/write a variable from/to a file
 
 You can be reasonably sure you'll achieve this:
 

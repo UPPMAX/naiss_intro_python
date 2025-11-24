@@ -20,7 +20,7 @@ However, first I start with items from
       that runs a graphical library
 - [ ] Make more explicit: when done, we go home. When working together,
       we will go home sooner
-- [ ] Make goal of second half clearer:
+- [x] Make goal of second half clearer:
       to be able to read/write a variable from/to a file
 - [ ] Merge sessions 'Variables, expressions and statements'
       into 1 page
