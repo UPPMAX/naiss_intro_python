@@ -25,7 +25,7 @@ However, first I start with items from
 - [ ] Merge sessions 'Variables, expressions and statements'
       into 1 page
 - [x] Put in non-goals: 'do complex Python'
-- [ ] Refer to HPC Python course more
+- [x] Refer to HPC Python course more
 - [ ] Think on how to implement this, i.e. work more independently instead of
   in a group
 - [ ] Think on how to implement to make exercises more collaborative,

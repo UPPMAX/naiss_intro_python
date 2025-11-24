@@ -49,4 +49,6 @@ likely to be discussed:
 
 These are non-goals:
 
-- do complex Python
+- do complex Python:
+  see [the NAISS HPC Python course](https://uppmax.github.io/HPC-python)
+  for more complex Python techniques
