@@ -18,7 +18,7 @@ However, first I start with items from
 - [ ] Add one of these to the morning sessions schedule
 - [x] Update goal: to be able to run a Python script on an HPC cluster,
       that runs a graphical library
-- [ ] Make more explicit: when done, we go home. When working together,
+- [x] Make more explicit: when done, we go home. When working together,
       we will go home sooner
 - [x] Make goal of second half clearer:
       to be able to read/write a variable from/to a file

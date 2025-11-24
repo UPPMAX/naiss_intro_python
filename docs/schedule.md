@@ -11,8 +11,13 @@ tags:
     The course is learner-centered ([Why?](faq.md#why-is-the-course-learner-centered)).
     This means that the pace is determined
     be the learners (i.e. not by the clock).
+
     The breaks are always on the time specified.
 
+    The day ends at either 16:00 or when we have achieved
+    the goals of the day. As helping each other will speed this up,
+    the teacher(s) will ask the faster learners for help teaching the
+    slower/unluckier learners. 
 
 ???- question "What are the course dates?"
 
