@@ -1,6 +1,8 @@
 boolean
 config
 Sahar
+MkDocs
+DOI
 funcs
 html
 iterable
