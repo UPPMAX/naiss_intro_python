@@ -24,7 +24,7 @@ However, first I start with items from
       to be able to read/write a variable from/to a file
 - [ ] Merge sessions 'Variables, expressions and statements'
       into 1 page
-- [ ] Put in non-goals: 'do complex Python'
+- [x] Put in non-goals: 'do complex Python'
 - [ ] Refer to HPC Python course more
 - [ ] Think on how to implement this, i.e. work more independently instead of
   in a group

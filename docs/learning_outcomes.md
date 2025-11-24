@@ -46,3 +46,7 @@ likely to be discussed:
 - In Python, I can write a function that calls a function
 - In Python, I can write a function that requires an argument
 - In Python, I can write a function with a return value
+
+These are non-goals:
+
+- do complex Python
