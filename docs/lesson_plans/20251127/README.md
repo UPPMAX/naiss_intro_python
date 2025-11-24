@@ -31,3 +31,34 @@ However, first I start with items from
 - [ ] Think on how to implement to make exercises more collaborative,
   e.g. let them write their own code (as a group) based on the book?
 
+Also:
+
+- [ ] Allow the faster learners to skip the simpler chapter(s) of the book
+
+## Observation questions
+
+### Observation of first hour
+
+This day, I want to experiment using variable group sizes,
+where people are allowed to decide in a group of 1 or 2-3.
+How do you think that that worked out?
+
+- Was this setup clearly explained?
+- Did I do what I promised regarding this setup?
+- If I see that something can be improved, was this reasonable judgement
+  that was communicated well enough?
+- Would you judge that this setup is to be preferred over
+  random assignment of 2-3 people in each room?
+
+### Observation of fourth hour
+
+This day, I want to experiment letting the more experienced
+Python users work on things at their level.
+How do you think that that worked out?
+
+- Was this setup clearly explained?
+- Did I do what I promised regarding this setup?
+- If I see that something can be improved, was this reasonable judgement
+  that was communicated well enough?
+- Would you judge that this setup is to be preferred over
+  all following the same basic theory?
