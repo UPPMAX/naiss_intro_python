@@ -51,6 +51,7 @@ This is the page for evaluating the current iteration of the course.
     - I can use a text editor on my HPC cluster
     - I can create a Python script
     - I can run a Python script
+    - I can run a Python script that uses a graphical library on an HPC cluster
     - In Python, I can create a variable
     - In Python, I can use a variable
     - I can convert a simple equation to Python code

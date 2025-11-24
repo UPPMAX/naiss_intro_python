@@ -55,9 +55,9 @@ nav = [
 # https://zensical.org/docs/customization/#extending-the-theme
 custom_dir = "docs/overrides"
 
-favicon = "favicon.ico"
-#logo = "assets/images/logo.png"
-logo = "https://raw.githubusercontent.com/smashedr/repo-images/refs/heads/master/actions-tools/logo256.png"
+# favicon = "favicon.ico"
+logo = "logo/naiss_logo_white.png"
+#logo = "https://raw.githubusercontent.com/smashedr/repo-images/refs/heads/master/actions-tools/logo256.png"
 
 # https://zensical.org/docs/setup/language/
 language = "en"
