@@ -6,7 +6,7 @@
 [![Check Markdown](https://github.com/UPPMAX/naiss_intro_python/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/UPPMAX/naiss_intro_python/actions/workflows/check_markdown.yaml)
 [![Check spelling](https://github.com/UPPMAX/naiss_intro_python/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/UPPMAX/naiss_intro_python/actions/workflows/check_spelling.yaml)
 [![Create the MkDocs website](https://github.com/UPPMAX/naiss_intro_python/actions/workflows/create_mkdocs_website.yaml/badge.svg?branch=main)](https://github.com/UPPMAX/naiss_intro_python/actions/workflows/create_mkdocs_website.yaml)
-[![DOI](https://zenodo.org/badge/583041753.svg)](https://doi.org/10.5281/zenodo.17700483)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17700484.svg)](https://doi.org/10.5281/zenodo.17700484)
 
 <!-- markdownlint-enable MD013 -->
 
