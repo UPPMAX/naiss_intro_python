@@ -121,7 +121,7 @@ print('Hello, world!')
 - For your favorite HPC center, find the documentation on how to run
   a Python script. Search **for a maximum of 5 minutes **!
   If you cannot find it,
-  [the UPPMAX documentation about how to run a Python script]([Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)).
+  [the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script).
 
 ???- question "Answer"
 
