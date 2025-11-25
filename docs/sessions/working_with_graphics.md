@@ -113,11 +113,17 @@ a clumsy option that works too.
     We did this in the previous session,
     ['Working with Python scripts'](working_with_python_scripts.md).
 
-    One way to do so, is to use `nano`:
+    HPC Cluster|How to run `nano`
+    -----------|-------------------------------------
+    Alvis      |`nano create_plot.py`
+    Bianca     |`nano create_plot.py`
+    COSMOS     |`nano create_plot.py`
+    Dardel     |`module load nano ; nano create_plot.py`
+    Kebnekaise |`nano create_plot.py`
+    LUMI       |`nano create_plot.py`
+    Pelle      |`nano create_plot.py`
+    Tetralith  |`nano create_plot.py`
 
-    ```bash
-    nano create_plot.py
-    ```
 
 - Run the Python script. If you get no error message, you can go to the
   next exercise
@@ -213,21 +219,39 @@ However, it is quite practical to be able to see your plot directly.
   (if you have not done so already).
   There are two ways:
     - Login to the **remote desktop environment** of your HPC cluster:
-    a remote desktop environment has graphics enabled.
-    You can find an overview at
-    [this course's FAQ 'How can I login to an HPC cluster'](https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster).
+      a remote desktop environment has graphics enabled.
+      You can find an overview at
+      [this course's FAQ 'How can I login to an HPC cluster'](https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster).
     - Login via **SSH with X-forwarding enabled**:
-    this allows displaying simple graphics.
-    In short: use `ssh -X [username]@[hpc_cluster]` (instead of
-    omitting the `-X`).
-    This may already work or this may never work.
+      this allows displaying simple graphics.
+      In short: use `ssh -X [username]@[hpc_cluster]`
+      (instead of omitting the `-X`).
+      This may already work or this may never work.
 
-- View the plot. In a remote desktop environment, this is straightforward.
-  When using SSH with X-forwarding enabled, use `eog my_plot.png`:
-  if `eog` is unavailable, you are stuck copying the file to your local
-  computer :-/
+- View the plot:
+    - In a remote desktop environment, this is straightforward:
+      click on the image from a file explorer
+    - When using SSH with X-forwarding enabled, 
+      use the way as shown below in the table.
 
-???- question "How does `eog` display the plot?"
+!!! info "How display an image in SSH with X-forwarding enabled"
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|How to display an image
+    -----------|------------------------------------
+    Alvis      |No eog, use ImageMagick?
+    Bianca     |Impossible: X-forwarding is disabled
+    COSMOS     |`eog my_plot.png`
+    Dardel     |No eog, use ImageMagick?
+    Kebnekaise |?
+    LUMI       |Not needed: no registrations
+    Pelle      |`eog my_plot.png`
+    Tetralith  |?
+
+    <!-- markdownlint-enable MD013 -->
+
+???- question "How does `eog` display a plot?"
 
     Here is how `eog` displays the plot:
 

@@ -98,9 +98,16 @@ without new theory.
 
     Creating a Python script `hello_world.py` using `nano`:
 
-    ```bash
-    nano hello_world.py
-    ```
+    HPC Cluster|How to run `nano`
+    -----------|-------------------------------------
+    Alvis      |`nano create_plot.py`
+    Bianca     |`nano create_plot.py`
+    COSMOS     |`nano create_plot.py`
+    Dardel     |`module load nano ; nano create_plot.py`
+    Kebnekaise |`nano create_plot.py`
+    LUMI       |`nano create_plot.py`
+    Pelle      |`nano create_plot.py`
+    Tetralith  |`nano create_plot.py`
 
 - Copy-paste the following content into the script:
 
