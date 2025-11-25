@@ -70,6 +70,24 @@ that the course went too slow, I am happy.
 This means that if the evaluation results state
 that the course went too fast, I am unhappy.
 
+To save time, I will only prepare videos for the HPC clusters that
+do have a registered learner:
+
+- 3x Unknown: I assume this is Dardel or Tetralith
+- 2x C3SE: I assume Alvis, as this is a NAISS HPC cluster
+- 5x HPC2N: 5x Kebnekaise
+- 7x LUNARC: 7x COSMOS
+- 1x COSMOS-SENS: I assume that the course coordinator has contacted this person
+- 4x NSC: 4x Tetralith
+- 1x PDC: 1x Dardel
+- 5x UPPMAX
+- 1x NSC and UPPMAX
+- 1x PDC and NSC
+
+This means I can skip Bianca and LUMI :-)
+
+
+
 
 ## Observation questions
 
@@ -103,4 +121,6 @@ How do you think that that worked out?
   that was communicated well enough?
 - Would you judge that this setup is to be preferred over
   all following the same basic theory?
+
+
 

@@ -54,11 +54,11 @@ without new theory.
     HPC Cluster|YouTube video
     -----------|-------------------------------------
     Alvis      |.
-    Bianca     |.
+    Bianca     |Not needed: no registrations
     COSMOS     |.
     Dardel     |.
     Kebnekaise |.
-    LUMI       |.
+    LUMI       |Not needed: no registrations
     Pelle      |.
     Tetralith  |.
 
@@ -119,8 +119,8 @@ print('Hello, world!')
 
 
 - For your favorite HPC center, find the documentation on how to run
-  a Python script. Search **for a maximum of 5 minutes **!
-  If you cannot find it,
+  a Python script. Search **for a maximum of 5 minutes**!
+  If you cannot find it, use
   [the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script).
 
 ???- question "Answer"
