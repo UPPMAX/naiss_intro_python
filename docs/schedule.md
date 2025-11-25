@@ -27,11 +27,11 @@ tags:
 
 Time        |Focus |Topic                                                                                                   |Teacher(s)
 ------------|------|--------------------------------------------------------------------------------------------------------|----------
-09:00-10:00 |HPC   | [Using the Python interpreter](sessions/using_the_python_interpreter.md)                               |Richèl
+09:00-10:00 |HPC   | [The Python interpreter](sessions/using_the_python_interpreter.md)                                     |Richèl
 10:00-10:15 |.     | Break                                                                                                  |.
-10:15-11:00 |HPC   | [The way of the program](sessions/the_way_of_the_program.md)                                           |Richèl
+10:15-11:00 |HPC   | [Python scripts](sessions/working_with_python_scripts.md)                                              |Richèl
 11:00-11:15 |.     | Break                                                                                                  |.
-11:15-12:00 |HPC   | [Working with Python scripts](sessions/working_with_python_scripts.md)                                 |Richèl
+11:15-12:00 |HPC   | [Graphics](sessions/graphics.md)                                                                       |Richèl
 12:00-13:00 |.     | Break                                                                                                  |.
 13:00-14:00 |Python| [Variables, expressions and statements: variables](sessions/variables_expressions_and_statements_1.md) |Richèl
 14:00-14:15 |.     | Break                                                                                                  |.
@@ -46,9 +46,15 @@ Time        |Focus |Topic                                                       
 
 Extra sessions:
 
-- [CONSIDER] [Modules and Python packages](sessions/hello_little_turtles.md)
 - [File IO](sessions/files.md)
 - [Command line arguments](sessions/command_line_arguments.md)
 - [CONSIDER] [Graphics](sessions/graphics.md)
 - [Functions](sessions/functions.md)
 - [Further learning](further_learning.md)
+
+<!-- Removed sessions:
+
+- [The way of the program](sessions/the_way_of_the_program.md)
+- [Modules and Python packages](sessions/hello_little_turtles.md)
+
+-->

@@ -118,9 +118,15 @@ using some of the most advanced hardware we have at this day.
 The sessions 'Getting it to run' allow you to run Python on
 an HPC cluster:
 
-- [Using the Python interpreter](using_the_python_interpreter.md)
-- [The way of the program](the_way_of_the_program.md)
-- [Working with Python scripts](working_with_python_scripts.md)
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Session name                                                   |Goal
+---------------------------------------------------------------|---------------------------------------------------
+[Using the Python interpreter](using_the_python_interpreter.md)|Run Python on HPC
+[Working with Python scripts](working_with_python_scripts.md)  |Run a Python script on HPC
+[Graphics](graphics.md)                                        |Run a Python script with something graphical on HPC
+
+<!-- markdownlint-enable MD013 -->
 
 The later sessions focus on learning Python.
 

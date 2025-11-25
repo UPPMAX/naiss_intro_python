@@ -35,6 +35,39 @@ Also:
 
 - [ ] Allow the faster learners to skip the simpler chapter(s) of the book
 
+## 2025-11-25
+
+Taking a look at the course content, the book seems to slow the learners
+down:
+
+- [The Way of The Program](https://uppmax.github.io/naiss_intro_python/sessions/the_way_of_the_program/)
+  seems slow
+- [Hello, little turtles](https://uppmax.github.io/naiss_intro_python/sessions/hello_little_turtles/)
+  feels childish
+- [Graphics](https://uppmax.github.io/naiss_intro_python/sessions/graphics/) is
+  unfinished yet promising
+
+Lets update the schedule:
+
+- First session goal: run Python on HPC
+- Second session goal: run a Python script on HPC
+- Third session goal: run a Python script with something graphical on HPC
+
+I note that this still follows all the same learning outcomes,
+except for using a book; but that one is used after 12:00.
+The things after 12:00 I delay preparing for now.
+
+Status:
+
+- First session goal: good, has video
+- Second session goal: good, needs video
+- Third session goal: needs work, needs video
+
+
+
+
+
+
 ## Observation questions
 
 ### Observation of first hour
