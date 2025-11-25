@@ -61,9 +61,9 @@ This Python code will create a minimal plot and save it to file.
 Viewing graphics from a terminal may not always work.
 There are two solutions for this:
 
-- Login to the remote desktop environment of your HPC cluster:
+- Login to the **remote desktop environment** of your HPC cluster:
   a remote desktop environment has graphics enabled
-- Login via SSH with X-forwarding enabled:
+- Login via **SSH with X-forwarding** enabled:
   this allows displaying simple graphics
 
 In the worst case, downloading the image to your local computer is
@@ -93,9 +93,9 @@ a clumsy option that works too.
 
     HPC cluster name|Documentation|Has `eog`?|Difficulty
     ----------------|-------------|----------|----------
-    Alvis           |None         |No        |Hards
+    Alvis           |None         |No        |Hard
     Bianca          |Excellent    |Yes       |Easy
-    COSMOS          |None         |?         |Medium
+    COSMOS          |None         |Yes       |Medium
     Dardel          |None         |?         |Medium
     LUMI            |None         |?         |Medium
     Kebnekaise      |Excellent    |?         |Easy
@@ -222,10 +222,14 @@ However, it is quite practical to be able to see your plot directly.
     This may already work or this may never work.
 
 - View the plot. In a remote desktop environment, this is straightforward.
-  When using SSH with X-forwarding enabled, use `eog my_plot.png`.
+  When using SSH with X-forwarding enabled, use `eog my_plot.png`:
+  if `eog` is unavailable, you are stuck copying the file to your local
+  computer :-/
 
 ???- question "How does `eog` display the plot?"
 
     Here is how `eog` displays the plot:
 
     ![The plot shown with `eog`](eog.png)
+
+
