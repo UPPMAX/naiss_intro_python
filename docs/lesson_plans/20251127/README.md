@@ -96,6 +96,10 @@ Status update:
 
 Time to work on the third session, on Pelle first.
 
+Done! Now only the raw videos need to be cropped and the session before
+lunch is ready!
+
+
 ## Observation questions
 
 Here I my predictions:
