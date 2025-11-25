@@ -91,16 +91,16 @@ a clumsy option that works too.
     The difficulty of these exercises depends on the
     documentation of your HPC cluster:
 
-    HPC cluster name|Documentation|Difficulty
-    ----------------|-------------|----------
-    Alvis           |None         |Medium
-    Bianca          |Excellent    |Easy
-    COSMOS          |None         |Medium
-    Dardel          |None         |Medium
-    LUMI            |None         |Medium
-    Kebnekaise      |Excellent    |Easy
-    Pelle           |Excellent    |Easy
-    Tetralith       |None         |Medium
+    HPC cluster name|Documentation|Has `eog`?|Difficulty
+    ----------------|-------------|----------|----------
+    Alvis           |None         |No        |Hards
+    Bianca          |Excellent    |Yes       |Easy
+    COSMOS          |None         |?         |Medium
+    Dardel          |None         |?         |Medium
+    LUMI            |None         |?         |Medium
+    Kebnekaise      |Excellent    |?         |Easy
+    Pelle           |Excellent    |Yes       |Easy
+    Tetralith       |None         |?         |Medium
 
 ## Exercise 1: Use Matplotlib to create a plot
 
