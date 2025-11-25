@@ -98,3 +98,14 @@ a clumsy option that works too.
     ```bash
     module load matplotlib
     ```
+
+- View the plot
+
+???- question "How does `eog` display the plot?"
+
+    Here is how `eog` displays the plot:
+
+    ![The plot shown with `eog`](eog.png)
+
+
+
