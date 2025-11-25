@@ -86,8 +86,15 @@ do have a registered learner:
 
 This means I can skip Bianca and LUMI :-)
 
+Status update:
 
+- Introduction: done
+- First session goal: done
+- Second session goal: done, 
+  except for cropping the raw videos and uploading them
+- Third session goal: needs work, needs video
 
+Time to work on the third session, on Pelle first.
 
 ## Observation questions
 
