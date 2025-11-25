@@ -46,9 +46,9 @@ Time        |Focus |Topic                                                       
 
 Extra sessions:
 
-<!-- - [Modules and Python packages](sessions/hello_little_turtles.md) -->
+- [CONSIDER] [Modules and Python packages](sessions/hello_little_turtles.md)
 - [File IO](sessions/files.md)
 - [Command line arguments](sessions/command_line_arguments.md)
-<!-- - [Graphics](sessions/graphics.md) -->
+- [CONSIDER] [Graphics](sessions/graphics.md)
 - [Functions](sessions/functions.md)
 - [Further learning](further_learning.md)
