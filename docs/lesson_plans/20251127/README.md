@@ -59,6 +59,7 @@ The things after 12:00 I delay preparing for now.
 
 Status:
 
+- Introduction: needs to be checked
 - First session goal: good, has video
 - Second session goal: good, needs video
 - Third session goal: needs work, needs video
