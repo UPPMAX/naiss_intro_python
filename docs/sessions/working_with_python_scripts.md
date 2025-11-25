@@ -64,10 +64,31 @@ without new theory.
 
 ## Exercise 1: create a Python script
 
-Go to the documentation of your HPC cluster,
-then answer the questions below. If you cannot find any helpful
-information, use
-[the UPPMAX documentation about `nano`](https://docs.uppmax.uu.se/software/nano/)
+- For your favorite HPC center, find the documentation on how to create a file.
+  Search **for a maximum of 5 minutes**!
+  If you cannot find it, use
+  [the UPPMAX documentation about `nano`](https://docs.uppmax.uu.se/software/nano/)
+
+???- question "Answer"
+
+    From the documentation of your center, searching for, for example,
+    'create file' or 'text editor',
+    you will find information on how to create a file.
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Documentation
+    -----------|----------------------------------------------------------
+    Alvis      |None
+    Bianca     |Not needed: no registrations
+    COSMOS     |None
+    Dardel     |None
+    Kebnekaise |?
+    LUMI       |Not needed: no registrations
+    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/nano/)
+    Tetralith  |None
+
+    <!-- markdownlint-enable MD013 -->
 
 - On your HPC cluster, create a file called `hello_world.py`,
   using a text editor or Linux commands
@@ -116,10 +137,9 @@ print('Hello, world!')
 
 ## Exercise 2: run a Python script
 
-
-
 - For your favorite HPC center, find the documentation on how to run
-  a Python script. Search **for a maximum of 5 minutes**!
+  a Python script.
+  Search **for a maximum of 5 minutes**!
   If you cannot find it, use
   [the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script).
 
