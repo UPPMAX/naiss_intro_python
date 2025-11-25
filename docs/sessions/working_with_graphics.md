@@ -247,11 +247,11 @@ However, it is quite practical to be able to see your plot directly.
     Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
     Bianca     |Impossible: X-forwarding is disabled
     COSMOS     |`eog my_plot.png`
-    Dardel     |No eog, maybe use ImageMagick
+    Dardel     |No `eog`, maybe use ImageMagick?
     Kebnekaise |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
     LUMI       |Not needed: no registrations
     Pelle      |`eog my_plot.png`
-    Tetralith  |?
+    Tetralith  |`eog my_plot.png`
 
     <!-- markdownlint-enable MD013 -->
 
