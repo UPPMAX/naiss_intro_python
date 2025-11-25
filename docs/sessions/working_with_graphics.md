@@ -101,7 +101,7 @@ a clumsy option that works too.
     Dardel          |Console       |None         |N/A                   |Impossible?
     Dardel          |Remote desktop|None         |File browser          |Medium
     LUMI            |Console       |None         |Unknown               |Unknown
-    Kebnekaise      |Console       |Excellent    |ImageMagick           |Medium
+    Kebnekaise      |Console       |Excellent    |ImageMagick           |Easy
     Pelle           |Console       |Excellent    |`eog`                 |Easy
     Tetralith       |Console       |None         |`eog`                 |Medium
 
