@@ -239,7 +239,6 @@ However, it is quite practical to be able to see your plot directly.
     The errors always states `unable to open X server`, for example:
 
     ```bash
-    [richelb@alvis1 ~]$ display my_plot.png 
     display: unable to open X server `' @ error/display.c/DisplayImageCommand/413.
     ```
 
@@ -253,7 +252,7 @@ However, it is quite practical to be able to see your plot directly.
     Bianca     |Impossible: X-forwarding is disabled
     COSMOS     |`eog my_plot.png`
     Dardel     |No eog, maybe use ImageMagick
-    Kebnekaise |?
+    Kebnekaise |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
     LUMI       |Not needed: no registrations
     Pelle      |`eog my_plot.png`
     Tetralith  |?
