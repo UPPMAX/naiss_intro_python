@@ -4,7 +4,7 @@
 
     - Create a minimal plot
     - If needed: load the Matplotlib module
-    - View the plot
+    - (optional) View the plot
 
 ???- question "For teachers"
 
@@ -245,7 +245,7 @@ However, it is quite practical to be able to see your plot directly.
     HPC Cluster|How to display an image
     -----------|-----------------------------------------------------------------------
     Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
-    Bianca     |Impossible: X-forwarding is disabled
+    Bianca     |Impossible: X-forwarding is disabled. Use a remote desktop.
     COSMOS     |`eog my_plot.png`
     Dardel     |No `eog`, maybe use ImageMagick?
     Kebnekaise |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
