@@ -118,9 +118,26 @@ a clumsy option that works too.
     nano create_plot.py
     ```
 
-- Run the Python script. If you get no error message, you are done.
+- Run the Python script. If you get no error message, you can go to the
+  next exercise
 
-=== "Pelle"
+???- question "Answer"
+
+    HPC Cluster|Will work?
+    -----------|-------------------------------------
+    Alvis      |.
+    Bianca     |Not needed: no registrations
+    COSMOS     |.
+    Dardel     |.
+    Kebnekaise |.
+    LUMI       |Not needed: no registrations
+    Pelle      |No
+    Tetralith  |.
+
+
+???- question "How does an error message look like?"
+
+    Here is an example:
 
     ```bash
     [richel@pelle2 ~]$ python create_plot.py 
