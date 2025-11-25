@@ -47,12 +47,6 @@ without new theory.
 
 ## Exercises
 
-This is a partial repeat of the previous session,
-but with a different focus.
-
-The goal is to practice the fundamental skills of creating
-and running a script.
-
 ## Exercise 1: create a Python script
 
 Go to the documentation of your HPC cluster,

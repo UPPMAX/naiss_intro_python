@@ -64,7 +64,11 @@ Status:
 - Second session goal: good, needs video
 - Third session goal: needs work, needs video
 
-
+My goal is to focus on beginners. 
+This means that if the evaluation results state
+that the course went too slow, I am happy. 
+This means that if the evaluation results state
+that the course went too fast, I am unhappy.
 
 
 

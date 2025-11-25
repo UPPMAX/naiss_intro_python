@@ -1,5 +1,17 @@
 # Learning outcomes
 
+This course is aimed at complete beginners.
+
+??? question "What does this mean?"
+
+    That we follow the pace of the group as a whole
+    (i.e. not of those that are fastest, nor the sessions in the schedule)
+
+    Additionally, this means that if a learner writes in the evaluation
+    'This course was too slow', this is considered neutral.
+    If a learner writes in the evaluation
+    'This course was too fast', however, this is considered **bad**.
+
 Below are the learning outcomes of this course,
 as copied from [its evaluation](evaluation.md).
 The course is learner-centered ([why?](faq.md#why-is-the-course-learner-centered)),
