@@ -116,10 +116,39 @@ print('Hello, world!')
 
 ## Exercise 2: run a Python script
 
-Go to the documentation of your HPC cluster,
-then answer the questions below. If you cannot find any helpful
-information, use
-[the UPPMAX documentation about how to run a Python script](http://docs.uppmax.uu.se/software/python/#running-python).
+
+
+- For your favorite HPC center, find the documentation on how to run
+  a Python script. Search **for a maximum of 5 minutes **!
+  If you cannot find it,
+  [the UPPMAX documentation about how to run a Python script]([Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)).
+
+???- question "Answer"
+
+    From the documentation of your center, searching for, for example,
+    'Python script', you will find information on how to start a the Python script.
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Documentation                                                                                                                                                                             |Solution
+    -----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
+    Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|.
+    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
+    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |.
+    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |.
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |.
+    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |.
+    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
+    Tetralith  |:warning: [Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                        |`python hello_world.py`
+
+    <!-- markdownlint-enable MD013 -->
+
+    - :warning: means that the documentation does not clearly answer
+      this question.
+      You may find that you can piece it together easily enough or
+      you may find that you cannot.
+      You are encouraged
+      to contact your HPC center to help them help you better
 
 - Run the Python script you just created
 
