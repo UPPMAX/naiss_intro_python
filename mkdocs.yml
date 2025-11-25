@@ -21,8 +21,8 @@ nav:
     - File IO: sessions/files.md
     - Command-line arguments: sessions/command_line_arguments.md
     - Functions: sessions/functions.md
-    - Further learning: further_learning.md
     - Summary: summary.md
+    - Further learning: further_learning.md
   - Misc:
     - acknowledgements.md
     - All topics: topics.md
