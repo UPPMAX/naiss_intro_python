@@ -90,7 +90,7 @@ Status update:
 
 - Introduction: done
 - First session goal: done
-- Second session goal: done, 
+- Second session goal: done,
   except for cropping the raw videos and uploading them
 - Third session goal: needs work, needs video
 
@@ -128,6 +128,4 @@ How do you think that that worked out?
   that was communicated well enough?
 - Would you judge that this setup is to be preferred over
   all following the same basic theory?
-
-
 
