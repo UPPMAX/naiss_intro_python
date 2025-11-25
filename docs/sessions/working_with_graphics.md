@@ -235,7 +235,7 @@ However, it is quite practical to be able to see your plot directly.
 - View the plot:
     - In a remote desktop environment, this is straightforward:
       click on the image from a file explorer
-    - When using SSH with X-forwarding enabled: 
+    - When using SSH with X-forwarding enabled:
       use the way as shown below in the table.
 
 !!! info "How display an image in SSH with X-forwarding enabled"
