@@ -71,10 +71,52 @@ a clumsy option that works too.
 
 ## Exercises
 
-## Exercise 1: Use Matplotlib to show a plot
+???- question "Enjoy a video?"
+
+    You can find a video with solutions to these exercises:
+
+    HPC Cluster|YouTube video
+    -----------|-------------------------------------
+    Alvis      |.
+    Bianca     |Not needed: no registrations
+    COSMOS     |.
+    Dardel     |.
+    Kebnekaise |.
+    LUMI       |Not needed: no registrations
+    Pelle      |.
+    Tetralith  |.
+
+???- question "How difficult will this exercise be?"
+
+    The difficulty of these exercises depends on the
+    documentation of your HPC cluster:
+
+    HPC cluster name|Documentation|Difficulty
+    ----------------|-------------|----------
+    Alvis           |None         |Medium
+    Bianca          |Excellent    |Easy
+    COSMOS          |None         |Medium
+    Dardel          |None         |Medium
+    LUMI            |None         |Medium
+    Kebnekaise      |Excellent    |Easy
+    Pelle           |Excellent    |Easy
+    Tetralith       |None         |Medium
+
+## Exercise 1: Use Matplotlib to create a plot
 
 - Create a Python script called `create_plot.py`
   with the content of the example code in it.
+
+???- question "Answer"
+
+    We did this in the previous session,
+    ['Working with Python scripts'](working_with_python_scripts.md).
+
+    One way to do so, is to use `nano`:
+
+    ```bash
+    nano create_plot.py
+    ```
 
 - Run the Python script. If you get no error message, you are done.
 
@@ -88,16 +130,66 @@ a clumsy option that works too.
     ModuleNotFoundError: No module named 'matplotlib'
     ```
 
-- If needed, load the module needed. 
+- For your favorite HPC center, find the documentation on how to use Matplotlib.
+  Search **for a maximum of 5 minutes**!
+  If you cannot find it, (try to) apply the steps in
+  [the UPPMAX documentation about Matplotlib](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
+  **for a maximum of 5 minutes**!
+  After that, simply copy-paste the answer of the next question.
 
-=== "Pelle"
 
-    Search [the UPPMAX documentation](https://docs.uppmax.uu.se/)
-    for `Matplotlib` takes you to [the UPPMAX 'Matplotlib' documentation](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
+???- question "Answer"
 
-    ```bash
-    module load matplotlib
-    ```
+    From the documentation of your center, searching for, for example,
+    'Matplotlib'.
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Documentation
+    -----------|----------------------------------------------------------
+    Alvis      |:warning: [Closest documentation](https://www.c3se.chalmers.se/documentation/module_system/python/?h=matplotlib#matplotlib)
+    Bianca     |Not needed: no registrations
+    COSMOS     |:warning: [Closest documentation](https://lunarc-documentation.readthedocs.io/en/latest/software/installed_software/)
+    Dardel     |:warning: None
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/libs/matplotlib/#matplotlib)
+    LUMI       |Not needed: no registrations
+    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
+    Tetralith  |:warning: [Closest](https://www.nsc.liu.se/software/python/)
+
+    <!-- markdownlint-enable MD013 -->
+
+    - :warning: means that the documentation does not clearly answer
+      this question.
+      You may find that you can piece it together easily enough or
+      you may find that you cannot.
+      You are encouraged
+      to contact your HPC center to help them help you better
+
+- If there is good documentation: load the software module needed.
+  Else, copy-paste the answer.
+
+???- question "Answer"
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Documentation
+    -----------|----------------------------------------------------------
+    Alvis      |`module load matplotlib`
+    Bianca     |Not needed: no registrations
+    COSMOS     |`module load GCC/13.3.0 matplotlib/3.9.2`
+    Dardel     |`module load PDCOLD/23.12 matplotlib/3.8.2-cpeGNU-23.12`
+    Kebnekaise |`module load GCC/13.2.0 matplotlib/3.8.2`
+    LUMI       |Not needed: no registrations
+    Pelle      |`module load matplotlib`
+    Tetralith  |`module load buildtool-easybuild/4.9.4-hpc71cbb0050 GCC/13.2.0 matplotlib/3.8.2`
+
+    <!-- markdownlint-enable MD013 -->
+
+
+## Exercise 2: (optional) View the plot
+
+This exercise is optional, as it has nothing to do with Python.
+However, it is quite practical to be able to see your plot directly.
 
 - View the plot
 
@@ -106,6 +198,3 @@ a clumsy option that works too.
     Here is how `eog` displays the plot:
 
     ![The plot shown with `eog`](eog.png)
-
-
-

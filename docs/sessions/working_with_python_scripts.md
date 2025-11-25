@@ -68,6 +68,7 @@ without new theory.
   Search **for a maximum of 5 minutes**!
   If you cannot find it, use
   [the UPPMAX documentation about `nano`](https://docs.uppmax.uu.se/software/nano/)
+  or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
 ???- question "Answer"
 
@@ -83,7 +84,7 @@ without new theory.
     Bianca     |Not needed: no registrations
     COSMOS     |None
     Dardel     |None
-    Kebnekaise |?
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#simple__commands__for__nano)
     LUMI       |Not needed: no registrations
     Pelle      |[Documentation](https://docs.uppmax.uu.se/software/nano/)
     Tetralith  |None
@@ -141,7 +142,8 @@ print('Hello, world!')
   a Python script.
   Search **for a maximum of 5 minutes**!
   If you cannot find it, use
-  [the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script).
+  [the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)
+  or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
 ???- question "Answer"
 
@@ -179,4 +181,3 @@ print('Hello, world!')
     ```bash
     python hello_world.py
     ```
-
