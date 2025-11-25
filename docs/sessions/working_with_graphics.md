@@ -257,7 +257,15 @@ However, it is quite practical to be able to see your plot directly.
 
 ???- question "What is the error when I do not have X-forwarding enabled?"
 
-    The errors always states `unable to open X server`, for example:
+    Here is one possible error message:
+
+    ```bash
+    [x_ricbi@tetralith3 ~]$ eog my_plot.png
+
+    (eog:2405120): Gtk-WARNING **: 19:46:31.288: cannot open display: 
+    ```bash
+
+    Here is another possible error message:
 
     ```bash
     display: unable to open X server `' @ error/display.c/DisplayImageCommand/413.
