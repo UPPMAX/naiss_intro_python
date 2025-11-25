@@ -25,22 +25,22 @@ tags:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Time        |Focus |Topic                                                                                                   |Teacher(s)
-------------|------|--------------------------------------------------------------------------------------------------------|----------
-09:00-10:00 |HPC   | [The Python interpreter](sessions/using_the_python_interpreter.md)                                     |Richèl
-10:00-10:15 |.     | Break                                                                                                  |.
-10:15-11:00 |HPC   | [Python scripts](sessions/working_with_python_scripts.md)                                              |Richèl
-11:00-11:15 |.     | Break                                                                                                  |.
-11:15-12:00 |HPC   | [Graphics](sessions/graphics.md)                                                                       |Richèl
-12:00-13:00 |.     | Break                                                                                                  |.
-13:00-14:00 |Python| [Variables, expressions and statements: variables](sessions/variables_expressions_and_statements_1.md) |Richèl
-14:00-14:15 |.     | Break                                                                                                  |.
-14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md) |Richèl
-15:00-15:15 |.     | Break                                                                                                  |.
-15:15-15:45 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md)|Richèl
-15:40-15:45 |Python| [Summary](summary.md)                                                                                  |Richèl
-15:45-16:00 |Course| [Evaluation](evaluation.md)                                                                            |Richèl
-16:00-17:00 |Course| (optional) Q&A                                                                                         |Richèl
+Time        |Focus |Topic                                                                                                                                                                           |Teacher(s)
+------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
+09:00-10:00 |HPC   | [Introduction](https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/), [Using the Python interpreter](sessions/using_the_python_interpreter.md) |Richèl
+10:00-10:15 |.     | Break                                                                                                                                                                          |.
+10:15-11:00 |HPC   | [Working with Python scripts](sessions/working_with_python_scripts.md)                                                                                                         |Richèl
+11:00-11:15 |.     | Break                                                                                                                                                                          |.
+11:15-12:00 |HPC   | [Working with graphics](sessions/graphics.md)                                                                                                                                  |Richèl
+12:00-13:00 |.     | Break                                                                                                                                                                          |.
+13:00-14:00 |Python| [Variables, expressions and statements: variables](sessions/variables_expressions_and_statements_1.md)                                                                         |Richèl
+14:00-14:15 |.     | Break                                                                                                                                                                          |.
+14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md)                                                                         |Richèl
+15:00-15:15 |.     | Break                                                                                                                                                                          |.
+15:15-15:45 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md)                                                                        |Richèl
+15:40-15:45 |Python| [Summary](summary.md)                                                                                                                                                          |Richèl
+15:45-16:00 |Course| [Evaluation](evaluation.md)                                                                                                                                                    |Richèl
+16:00-17:00 |Course| (optional) Q&A                                                                                                                                                                 |Richèl
 
 <!-- markdownlint-enable MD013 -->
 
