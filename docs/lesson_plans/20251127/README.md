@@ -44,7 +44,7 @@ down:
   seems slow
 - [Hello, little turtles](https://uppmax.github.io/naiss_intro_python/sessions/hello_little_turtles/)
   feels childish
-- [Graphics](https://uppmax.github.io/naiss_intro_python/sessions/graphics/) is
+- [Working with graphics](https://uppmax.github.io/naiss_intro_python/sessions/working_with_graphics/) is
   unfinished yet promising
 
 Lets update the schedule:
