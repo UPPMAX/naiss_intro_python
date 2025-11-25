@@ -47,6 +47,21 @@ without new theory.
 
 ## Exercises
 
+???- question "Enjoy a video?"
+
+    You can find a video with solutions to these exercises:
+
+    HPC Cluster|YouTube video
+    -----------|-------------------------------------
+    Alvis      |.
+    Bianca     |.
+    COSMOS     |.
+    Dardel     |.
+    Kebnekaise |.
+    LUMI       |.
+    Pelle      |.
+    Tetralith  |.
+
 ## Exercise 1: create a Python script
 
 Go to the documentation of your HPC cluster,

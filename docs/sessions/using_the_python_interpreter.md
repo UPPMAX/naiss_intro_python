@@ -65,7 +65,7 @@ you cannot do Python programming.
 
     You can find a video with solutions to these exercises:
 
-    HPC Cluster|Login method|Videos
+    HPC Cluster|Login method|YouTube video
     -----------|------------|-------------------------------------
     Alvis      |SSH         |[Video](https://youtu.be/R_RxKo-Vma4)
     Bianca     |SSH         |[Video](https://youtu.be/80AG-4niBgk)
