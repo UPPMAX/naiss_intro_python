@@ -124,7 +124,7 @@ Session name                                                   |Goal
 ---------------------------------------------------------------|---------------------------------------------------
 [Using the Python interpreter](using_the_python_interpreter.md)|Run Python on HPC
 [Working with Python scripts](working_with_python_scripts.md)  |Run a Python script on HPC
-[Graphics](graphics.md)                                        |Run a Python script with something graphical on HPC
+[Working with graphics](working_with_graphics.md)              |Run a Python script with something graphical on HPC
 
 <!-- markdownlint-enable MD013 -->
 
