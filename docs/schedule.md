@@ -38,7 +38,7 @@ Time        |Focus |Topic                                                       
 14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md)                                                                         |Richèl
 15:00-15:15 |.     | Break                                                                                                                                                                          |.
 15:15-15:45 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md)                                                                        |Richèl
-15:40-15:45 |Python| [Summary](summary.md), [further learning](futher_learning.md)                                                                                                                  |Richèl
+15:40-15:45 |Python| [Summary](summary.md), [further learning](further_learning.md)                                                                                                                 |Richèl
 15:45-16:00 |Course| [Evaluation](evaluation.md)                                                                                                                                                    |Richèl
 16:00-17:00 |Course| (optional) Q&A                                                                                                                                                                 |Richèl
 

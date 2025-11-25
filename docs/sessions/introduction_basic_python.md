@@ -51,8 +51,6 @@ flowchart TD
 - [Variables, expressions and statements, variables](variables_expressions_and_statements_1.md)
 - [Variables, expressions and statements, operators](variables_expressions_and_statements_2.md)
 - [Variables, expressions and statements, user input](variables_expressions_and_statements_3.md)
-<! -- - [Modules and Python packages](hello_little_turtles.md) need rewrite) -->
 - [File IO](files.md)
 - [Command line arguments](command_line_arguments.md)
-<! -- - [Graphics](graphics.md) need rewrite -->
 - [Functions](functions.md)
