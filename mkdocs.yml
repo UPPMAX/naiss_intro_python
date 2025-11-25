@@ -36,8 +36,8 @@ nav:
     - Exercise procedure: misc/exercise_procedure.md
     - Frequently asked questions: faq.md
     - Lesson plans: lesson_plans/README.md
-    - Obsolete session: The Way Of The Program: sessions/the_way_of_the_program.md
-    - Obsolete session: Modules and Python packages: sessions/hello_little_turtles.md
+    - Obsolete session 'The Way Of The Program': sessions/the_way_of_the_program.md
+    - Obsolete session 'Modules and Python packages': sessions/hello_little_turtles.md
     - Project: misc/project.md
     - Reflections: reflections/README.md
   - contact_us.md
