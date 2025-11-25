@@ -234,13 +234,22 @@ However, it is quite practical to be able to see your plot directly.
     - When using SSH with X-forwarding enabled, 
       use the way as shown below in the table.
 
+???- question "What is the error when I do not have X-forwarding enabled?"
+
+    The errors always states `unable to open X server`, for example:
+
+    ```bash
+    [richelb@alvis1 ~]$ display my_plot.png 
+    display: unable to open X server `' @ error/display.c/DisplayImageCommand/413.
+    ```
+
 !!! info "How display an image in SSH with X-forwarding enabled"
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
     HPC Cluster|How to display an image
-    -----------|------------------------------------
-    Alvis      |No eog, use ImageMagick?
+    -----------|-----------------------------------------------------------------------
+    Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
     Bianca     |Impossible: X-forwarding is disabled
     COSMOS     |`eog my_plot.png`
     Dardel     |No eog, use ImageMagick?
@@ -251,10 +260,9 @@ However, it is quite practical to be able to see your plot directly.
 
     <!-- markdownlint-enable MD013 -->
 
+
 ???- question "How does `eog` display a plot?"
 
     Here is how `eog` displays the plot:
 
     ![The plot shown with `eog`](eog.png)
-
-
