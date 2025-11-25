@@ -91,17 +91,17 @@ a clumsy option that works too.
     The difficulty of these exercises depends on the
     documentation of your HPC cluster:
 
-    HPC cluster name|Environment   |Documentation|`eog`?    |Difficulty
-    ----------------|--------------|-------------|----------|----------
-    Alvis           |Console       |None         |Absent    |Hard
-    Bianca          |Console       |Excellent    |Forbidden |Medium
-    COSMOS          |Console       |None         |Present   |Medium
-    Dardel          |Console       |None         |No        |Impossible?
-    Dardel          |Remote desktop|None         |No        |?
-    LUMI            |Console       |None         |?         |Medium
-    Kebnekaise      |Console       |Excellent    |?         |Easy
-    Pelle           |Console       |Excellent    |Yes       |Easy
-    Tetralith       |Console       |None         |?         |Medium
+    HPC cluster name|Environment   |Documentation|How to view images?   |Difficulty
+    ----------------|--------------|-------------|----------------------|----------
+    Alvis           |Console       |None         |ImageMagick           |Hard
+    Bianca          |Console       |Excellent    |Copy to local computer|Medium
+    COSMOS          |Console       |None         |Present               |Medium
+    Dardel          |Console       |None         |N/A                   |Impossible?
+    Dardel          |Remote desktop|None         |?                     |?
+    LUMI            |Console       |None         |?                     |Medium
+    Kebnekaise      |Console       |Excellent    |?                     |Easy
+    Pelle           |Console       |Excellent    |Yes        |Easy
+    Tetralith       |Console       |None         |?          |Medium
 
 ## Exercise 1: Use Matplotlib to create a plot
 
@@ -252,14 +252,13 @@ However, it is quite practical to be able to see your plot directly.
     Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
     Bianca     |Impossible: X-forwarding is disabled
     COSMOS     |`eog my_plot.png`
-    Dardel     |No eog, use ImageMagick?
+    Dardel     |No eog, maybe use ImageMagick
     Kebnekaise |?
     LUMI       |Not needed: no registrations
     Pelle      |`eog my_plot.png`
     Tetralith  |?
 
     <!-- markdownlint-enable MD013 -->
-
 
 ???- question "How does `eog` display a plot?"
 
