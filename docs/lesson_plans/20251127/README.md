@@ -86,7 +86,7 @@ How do you think that that worked out?
 
 - Was this setup clearly explained?
 - Did I do what I promised regarding this setup?
-- If I see that something can be improved, was this reasonable judgement
+- If I see that something can be improved, was this reasonable judgment
   that was communicated well enough?
 - Would you judge that this setup is to be preferred over
   random assignment of 2-3 people in each room?
@@ -99,7 +99,7 @@ How do you think that that worked out?
 
 - Was this setup clearly explained?
 - Did I do what I promised regarding this setup?
-- If I see that something can be improved, was this reasonable judgement
+- If I see that something can be improved, was this reasonable judgment
   that was communicated well enough?
 - Would you judge that this setup is to be preferred over
   all following the same basic theory?
