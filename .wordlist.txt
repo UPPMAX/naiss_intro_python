@@ -3,6 +3,7 @@ config
 Sahar
 MkDocs
 DOI
+LUNARC
 funcs
 html
 iterable
