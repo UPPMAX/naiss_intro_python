@@ -1,4 +1,4 @@
-# Graphics
+# Working with graphics
 
 !!!- info "Learning outcomes"
 

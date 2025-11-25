@@ -4,15 +4,15 @@ edit_uri: blob/main/docs/
 
 nav:
   - Start: index.md
-  - Learning outcomes: learning_outcomes.md
-  - Prerequisites: prereqs/README.md
-  - Course dates: course_dates.md
-  - Schedule: schedule.md
+  - learning_outcomes.md
+  - prereqs/README.md
+  - course_dates.md
+  - schedule.md
   - Getting it to run:
-    - Overview: sessions/introduction_getting_it_to_run.md
-    - Using The Python interpreter: sessions/using_the_python_interpreter.md
+    - sessions/introduction_getting_it_to_run.md
+    - sessions/using_the_python_interpreter.md
     - sessions/working_with_python_scripts.md
-    - sessions/graphics.md
+    - sessions/working_with_graphics.md
   - Basic Python:
     - Overview: sessions/introduction_basic_python.md
     - Variables, expressions and statements, variables: sessions/variables_expressions_and_statements_1.md
@@ -24,7 +24,7 @@ nav:
     - Further learning: further_learning.md
     - Summary: summary.md
   - Misc:
-    - Acknowledgements: acknowledgements.md
+    - acknowledgements.md
     - All topics: topics.md
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
@@ -40,7 +40,7 @@ nav:
     - Obsolete session: Modules and Python packages: sessions/hello_little_turtles.md
     - Project: misc/project.md
     - Reflections: reflections/README.md
-  - Contact us: contact_us.md
+  - contact_us.md
 
 not_in_nav: |
   communication/20250304/README.md

@@ -75,6 +75,11 @@ that the course went too fast, I am unhappy.
 
 ## Observation questions
 
+Here I my predictions:
+
+- The group may be more experienced than the challenge level of the content.
+  As this is a course for beginners, I see that as a win
+
 ### Observation of first hour
 
 This day, I want to experiment using variable group sizes,
@@ -100,3 +105,4 @@ How do you think that that worked out?
   that was communicated well enough?
 - Would you judge that this setup is to be preferred over
   all following the same basic theory?
+
