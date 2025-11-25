@@ -32,7 +32,7 @@
     - In which languages can one write a script?
     - How does one run a script?
 
-## Why?
+## Why use scripts?
 
 You have multiple lines of code you want a computer to run.
 Instead of copy-pasting these lines individually to the
