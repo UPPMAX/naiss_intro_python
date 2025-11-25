@@ -91,17 +91,21 @@ a clumsy option that works too.
     The difficulty of these exercises depends on the
     documentation of your HPC cluster:
 
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
     HPC cluster name|Environment   |Documentation|How to view images?   |Difficulty
     ----------------|--------------|-------------|----------------------|----------
     Alvis           |Console       |None         |ImageMagick           |Hard
     Bianca          |Console       |Excellent    |Copy to local computer|Medium
     COSMOS          |Console       |None         |Present               |Medium
     Dardel          |Console       |None         |N/A                   |Impossible?
-    Dardel          |Remote desktop|None         |?                     |?
-    LUMI            |Console       |None         |?                     |Medium
-    Kebnekaise      |Console       |Excellent    |?                     |Easy
-    Pelle           |Console       |Excellent    |Yes        |Easy
-    Tetralith       |Console       |None         |?          |Medium
+    Dardel          |Remote desktop|None         |File browser          |Medium
+    LUMI            |Console       |None         |Unknown               |Unknown
+    Kebnekaise      |Console       |Excellent    |ImageMagick           |Medium
+    Pelle           |Console       |Excellent    |`eog`                 |Easy
+    Tetralith       |Console       |None         |`eog`                 |Medium
+
+    <!-- markdownlint-enable MD013 -->
 
 ## Exercise 1: Use Matplotlib to create a plot
 
@@ -231,16 +235,8 @@ However, it is quite practical to be able to see your plot directly.
 - View the plot:
     - In a remote desktop environment, this is straightforward:
       click on the image from a file explorer
-    - When using SSH with X-forwarding enabled, 
+    - When using SSH with X-forwarding enabled: 
       use the way as shown below in the table.
-
-???- question "What is the error when I do not have X-forwarding enabled?"
-
-    The errors always states `unable to open X server`, for example:
-
-    ```bash
-    display: unable to open X server `' @ error/display.c/DisplayImageCommand/413.
-    ```
 
 !!! info "How display an image in SSH with X-forwarding enabled"
 
@@ -258,6 +254,14 @@ However, it is quite practical to be able to see your plot directly.
     Tetralith  |?
 
     <!-- markdownlint-enable MD013 -->
+
+???- question "What is the error when I do not have X-forwarding enabled?"
+
+    The errors always states `unable to open X server`, for example:
+
+    ```bash
+    display: unable to open X server `' @ error/display.c/DisplayImageCommand/413.
+    ```
 
 ???- question "How does `eog` display a plot?"
 
