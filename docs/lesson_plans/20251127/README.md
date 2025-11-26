@@ -99,6 +99,12 @@ Time to work on the third session, on Pelle first.
 Done! Now only the raw videos need to be cropped and the session before
 lunch is ready!
 
+## 2025-11-26
+
+Sessions before lunch are ready, except for videos that need
+cropping (maybe I use my PRAO student for that).
+
+
 
 ## Observation questions
 
@@ -108,6 +114,12 @@ Here I my predictions:
   As this is a course for beginners, I see that as a win
 
 ### Observation of first hour
+
+At the start of a course, there is a lot to be discussed.
+
+- Of what I discussed, was it useful enough? What could be considered
+  to be removed?
+- Did I miss something that is relevant?
 
 This day, I want to experiment using variable group sizes,
 where people are allowed to decide in a group of 1 or 2-3.
@@ -132,4 +144,3 @@ How do you think that that worked out?
   that was communicated well enough?
 - Would you judge that this setup is to be preferred over
   all following the same basic theory?
-
