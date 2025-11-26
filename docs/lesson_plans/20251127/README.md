@@ -103,9 +103,18 @@ lunch is ready!
 
 Sessions before lunch are ready, except for videos that need
 cropping (maybe I use my PRAO student for that).
+I am caught off-balance by having a PRAO, so my preparation will suffer...
 
+On the other hand, the second half of the day seems Good Enough...
 
-
+Session                                          |Status
+-------------------------------------------------|------
+The Way of the Program                           |Done
+Variables, expressions and statements, variables |Done
+Variables, expressions and statements, operators |Done
+Variables, expressions and statements, user input|Done
+File IO                                          |Done
+Command line arguments                           |Check
 
 ## Observation questions
 

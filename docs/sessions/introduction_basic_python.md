@@ -57,23 +57,14 @@ as this is deemed most important to academics:
 <!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Hour|Book chapter                                                                                  |Goal
-----|----------------------------------------------------------------------------------------------|--------------------------
+----|----------------------------------------------------------------------------------------------|------------------------------------------------
 1   |[The Way of the Program](the_way_of_the_program.md)                                           |Introduces Python from the very start
 2   |[Variables, expressions and statements, variables](variables_expressions_and_statements_1.md) |Introduces basic Python concepts
 2   |[Variables, expressions and statements, operators](variables_expressions_and_statements_2.md) |.
 2   |[Variables, expressions and statements, user input](variables_expressions_and_statements_3.md)|.
 3   |[File IO](files.md)                                                                           |Write to a file
-
-<!-- markdownlint-disable MD013 -->
-
-Recommended next chapters for academics are:
-
-<!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
-Book chapter                                        |Goal
-----------------------------------------------------|--------------------------------
-[Command line arguments](command_line_arguments.md) |Create scripts that can be called with arguments
-[Functions](functions.md)                           |Structure your code
+.   |(fast) [Command line arguments](command_line_arguments.md)                                    |Create scripts that can be called with arguments
+.   |(fast) Your favorite chapter                                                                  |Learn what you need most
 
 <!-- markdownlint-disable MD013 -->
 
