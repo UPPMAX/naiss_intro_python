@@ -42,8 +42,6 @@ both are equally fine.
   ```
 
 
-<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
 In these sessions, we use the book
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html).
 
@@ -54,7 +52,7 @@ there will be time for any individual question in breakout rooms.
 This will be the progression followed by the teacher,
 as this is deemed most important to academics:
 
-<!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Hour|Book chapter                                                                                  |Goal
 ----|----------------------------------------------------------------------------------------------|------------------------------------------------
@@ -66,5 +64,5 @@ Hour|Book chapter                                                               
 .   |(fast) [Command line arguments](command_line_arguments.md)                                    |Create scripts that can be called with arguments
 .   |(fast) Your favorite chapter                                                                  |Learn what you need most
 
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-enable MD013 -->
 

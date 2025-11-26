@@ -61,17 +61,11 @@ likely to be discussed:
 
 These are non-goals:
 
-- run useful calculations:
-  see [the NAISS HPC Python course 'Basic batch and Slurm' session](https://uppmax.github.io/HPC-python/day2/basic_batch_slurm.html)
-  for techniques to schedule and run useful calculations
-- do complex Python:
-  see, for example,
-  [the NAISS HPC Python course 'Parallel computing' session](https://uppmax.github.io/HPC-python/day4/parallel.html)
-  for a more complex Python technique
-- learn about the software module system:
-  see [the NAISS HPC Python course 'Using packages' session](https://uppmax.github.io/HPC-python/day2/use_packages.html)
-  for how to search the module system
-- learn about Matplotlib:
-  see [the NAISS HPC Python course 'Matplotlib' session](https://uppmax.github.io/HPC-python/day3/new-matplotlib-intro.html)
-- transferring files to/from an HPC cluster:
-  see [the NAISS File Transfer course](https://uppmax.github.io/naiss_file_transfer_course/)
+Non-goal                                 |Example of course that does teach this
+-----------------------------------------|--------------------------------------------------------------
+Run useful calculations                  |[The NAISS HPC Python course 'Basic batch and Slurm' session](https://uppmax.github.io/HPC-python/day2/basic_batch_slurm.html)
+Use parallel computations                |[The NAISS HPC Python course 'Parallel computing' session](https://uppmax.github.io/HPC-python/day4/parallel.html)
+Professional software development        |[The Programming Formalisms course](https://uppmax.github.io/programming_formalisms/)
+The software module system               |[The NAISS HPC Python course 'Using packages' session](https://uppmax.github.io/HPC-python/day2/use_packages.html)
+Matplotlib                               |[The NAISS HPC Python course 'Matplotlib' session](https://uppmax.github.io/HPC-python/day3/new-matplotlib-intro.html)
+Transferring files to/from an HPC cluster|[The NAISS File Transfer course](https://uppmax.github.io/naiss_file_transfer_course/)
