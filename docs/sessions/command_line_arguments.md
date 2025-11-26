@@ -186,6 +186,7 @@ Write the script to do that.
     if word == 'bye':
         print('Sad to see you go human!')
     ```
+
     Some comments:
 
     - `print(args[0])` prints the name of the script
