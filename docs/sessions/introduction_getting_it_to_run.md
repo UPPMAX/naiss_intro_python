@@ -7,9 +7,16 @@ an HPC cluster.
 
 !!! info "Learning outcomes"
 
-    - Learners have read what they will learn
-    - Learners can find how to download and extract the exercises
-    - Learners understand how this day is organized
+    - Understand the learning outcomes of today
+    - Understand how this day is organized
+    - Can find the [schedule](../schedule.md)
+    - Have seen where to put
+      [anonymous feedback during the day](../evaluation.md)
+    - Have seen
+      [the evaluation form](../evaluation.md)
+    - Have included HPC cluster name in Zoom username,
+      e.g. `[Dardel] Sven Svensson`
+
 
 ???- question "For teachers: Lesson plan"
 

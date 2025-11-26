@@ -131,7 +131,7 @@ a clumsy option that works too.
 
 
 - Run the Python script (i.e. without loading the Matplotlib module)
-  and observe the error 
+  and observe the error
 
 ???- question "How does an error message look like?"
 

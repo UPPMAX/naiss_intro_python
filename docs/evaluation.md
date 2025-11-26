@@ -11,11 +11,16 @@ This is the page for evaluating the current iteration of the course.
 
     At [the 'Evaluations' page](evaluations/README.md).
 
-## Evaluation forms
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-- Form for any feedback during the day: [TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
+Goal                                         |Form
+---------------------------------------------|--------------------------------------------------------------
+Share any feedback anonymously during the day|[TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
+Evaluate the course anonymously              |[TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
 
-???- question "For teachers: what is in that form?"
+<!-- markdownlint-enable MD013 -->
+
+???- question "For teachers: what is in the feedback form?"
 
     Thanks for your feedback.
     This feedback will be published as-is at the end of the day,
@@ -23,9 +28,7 @@ This is the page for evaluating the current iteration of the course.
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
-- Form with evaluation questions: [TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
-
-???- question "For teachers: what is in that form?"
+???- question "For teachers: what is in the evaluation form?"
 
     These are the evaluation questions.
     The goals of these questions is to find out how successful

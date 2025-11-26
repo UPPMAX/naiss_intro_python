@@ -105,7 +105,6 @@ Sessions before lunch are ready, except for videos that need
 cropping (maybe I use my PRAO student for that).
 
 
-
 ## Observation questions
 
 Here I my predictions:
