@@ -169,7 +169,7 @@ Dardel          |General-purpose, uses SSH keys for authentication
 Kebnekaise      |General-purpose, Umeå university staff only
 LUMI            |General-purpose for heavy calculations, uses SSH keys for authentication, use containers to make software available
 Pelle           |General-purpose, uses passwords for authentication
-Rackham         |General-purpose, Uppsala university staff only. Being decomissioned.
+Rackham         |General-purpose, Uppsala university staff only. Being decommissioned
 Tetralith       |General-purpose, uses passwords for authentication
 
 <!-- markdownlint-enable MD013 -->

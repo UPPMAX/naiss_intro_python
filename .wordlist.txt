@@ -31,6 +31,8 @@ hackmd
 HackMd
 https
 io
+PRAO
+Slurm
 len
 namespace
 namespaces
