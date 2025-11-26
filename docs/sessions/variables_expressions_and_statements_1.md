@@ -62,11 +62,11 @@ Read the following sections of
 
 Then in section 2.14, do exercises 1 to and including 4.
 
-!!! question "2.14.1"
+## Exercise 1.1: question 2.14.1
 
-    Take the sentence: 'All work and no play makes Jack a dull boy'.
-    Store each word in a separate variable,
-    then print out the sentence on one line using print.
+Take the sentence: 'All work and no play makes Jack a dull boy'.
+Store each word in a separate variable,
+then print out the sentence on one line using print.
 
 ???- question "Answer"
 
@@ -84,11 +84,10 @@ Then in section 2.14, do exercises 1 to and including 4.
     print(a, b, c, d, e, f, g, h, i, j)
     ```
 
+## Exercise 1.2: question 2.14.2
 
-!!! question "2.14.2"
-
-    Add parenthesis to the expression `6 * 1 - 2`
-    to change its value from 4 to -6.
+Add parenthesis to the expression `6 * 1 - 2`
+to change its value from 4 to -6.
 
 ???- question "Answer"
 
@@ -96,11 +95,11 @@ Then in section 2.14, do exercises 1 to and including 4.
     6 * (1 - 2)
     ```
 
-!!! question "2.14.3"
+## Exercise 1.3: question 2.14.3
 
-    Place a comment before a line of code
-    in a script that previously worked,
-    and record what happens when you rerun the program.
+Place a comment before a line of code
+in a script that previously worked,
+and record what happens when you rerun the program.
 
 ???- question "Answer"
 
@@ -130,16 +129,16 @@ Then in section 2.14, do exercises 1 to and including 4.
 
     Commenting out the last line results in no sentence being printed.
 
-!!! question "2.14.4"
+## Exercise 1.4: question 2.14.4
 
-    Start the Python interpreter and enter bruce + 4 at the prompt.
-    This will give you an error:
+Start the Python interpreter and enter bruce + 4 at the prompt.
+This will give you an error:
 
-    ```text
-    NameError: name 'bruce' is not defined
-    ```
+```text
+NameError: name 'bruce' is not defined
+```
 
-    Assign a value to `bruce` so that `bruce + 4` evaluates to 10.
+Assign a value to `bruce` so that `bruce + 4` evaluates to 10.
 
 ???- question "Answer"
 

@@ -62,13 +62,13 @@ Read the following section of
 
 Then in section 2.14, do exercise 8.
 
-!!! question "2.14.8"
+## Exercise 1.1: question 2.14.8
 
-    Write a Python program to solve the general version of the above problem.
-    Ask the user for the time now (in hours),
-    and ask for the number of hours to wait.
-    Your program should output what the time will be
-    on the clock when the alarm goes off.
+Write a Python program to solve the general version of the above problem.
+Ask the user for the time now (in hours),
+and ask for the number of hours to wait.
+Your program should output what the time will be
+on the clock when the alarm goes off.
 
 ???- question "Answer"
 

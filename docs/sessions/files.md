@@ -60,13 +60,11 @@ as you will need to do this in the exercise.
 
 Then do:
 
-- Exercise 13.11.1
+## Exercise 2.1: question 13.11.1
 
-!!! question "13.11.1"
-
-    Create a script that reads a file and writes out a new file
-    with the lines in reversed order
-    (i.e. the first line in the old file becomes the last one in the new file.)
+Create a script that reads a file and writes out a new file
+with the lines in reversed order
+(i.e. the first line in the old file becomes the last one in the new file.)
 
 ???- question "Answer"
 

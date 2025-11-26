@@ -2,6 +2,8 @@
 
 !!!- info "Learning outcomes"
 
+    - Read [the official Python documentation about `sys.argv`](https://docs.python.org/3/library/sys.html#sys.argv)
+    - Read [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
     - Can read the command-line arguments
     - Can run a Python script with command-line arguments
 
@@ -49,7 +51,7 @@ Read
 
 Create a script with the following text:
 
-``` python title="read_argv.py"
+```python title="read_argv.py"
 import sys
 
 print(sys.argv)
@@ -57,7 +59,9 @@ print(sys.argv)
 
 Run the Python script as shown below. What does it print?
 
-- `python read_argv.py`
+```bash
+python read_argv.py
+```
 
 ???- question "Answer"
 
@@ -67,7 +71,11 @@ Run the Python script as shown below. What does it print?
 
 Run the Python script as shown below. What does it print?
 
-- `python read_argv.py hello world`
+```bash
+python read_argv.py hello world
+````
+
+???- question "Answer"
 
     ```bash
     ['read_argv.py', 'hello', 'world']
@@ -75,7 +83,11 @@ Run the Python script as shown below. What does it print?
 
 Run the Python script as shown below. What does it print?
 
-- `python read_argv.py "hello world"`
+```bash
+python read_argv.py "hello world"
+```
+
+???- question "Answer"
 
     ```bash
     ['read_argv.py', 'hello world']
@@ -83,7 +95,11 @@ Run the Python script as shown below. What does it print?
 
 Run the Python script as shown below. What does it print?
 
-- `python read_argv.py 'hello world'`
+```bash
+python read_argv.py 'hello world'
+```
+
+???- question "Answer"
 
     ```bash
     ['read_argv.py', 'hello world']
@@ -111,11 +127,23 @@ python read_argv.py hello world
 
 it should show `hello`.
 
+???- question "Answer"
+
+    A possible implementation is this:
+
+    ```python
+    import sys
+
+    args = sys.argv
+    print(args[1])
+    ```
+
+    Some comments:
+
+    - `print(args[0])` prints the name of the script
+    - the script does not check if the user supplies command-line arguments
+
 ## Exercise 3: Work with a command-line argument
-
-!!!- info "Learning outcomes"
-
-    - Do a first string comparison
 
 Read the following sections of
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html):
@@ -142,6 +170,27 @@ it should show `Sad to see you go human!`.
 
 Write the script to do that.
 
-## Links
+???- question "Answer"
 
-- [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
+    A possible implementation is this:
+
+    ```python
+    import sys
+
+    args = sys.argv
+    word = args[1]
+
+    if word == 'hello':
+        print('Hello human!')
+
+    if word == 'bye':
+        print('Sad to see you go human!')
+    ```
+    Some comments:
+
+    - `print(args[0])` prints the name of the script
+    - the script does not check if the user supplies command-line arguments
+    - instead of using two `if` statements (which is good enough for this
+      exercise), an `elif` could be used in the second conditional:
+      it would be considered better, because if the word is `hello`,
+      then there is no need anymore to check if it is `bye`

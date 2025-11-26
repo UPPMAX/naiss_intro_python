@@ -116,6 +116,8 @@ Variables, expressions and statements, user input|Done
 File IO                                          |Done
 Command line arguments                           |Check
 
+Note that I do get tired of this book: it feels outdated.
+
 ## Observation questions
 
 Here I my predictions:
