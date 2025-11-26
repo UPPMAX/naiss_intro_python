@@ -73,7 +73,7 @@ Run the Python script as shown below. What does it print?
 
 ```bash
 python read_argv.py hello world
-````
+```
 
 ???- question "Answer"
 
