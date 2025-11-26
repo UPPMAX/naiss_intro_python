@@ -82,7 +82,7 @@ a clumsy option that works too.
     Bianca     |Not needed: no registrations
     COSMOS     |[YouTube video](https://youtu.be/Vexc7VgPTL0)
     Dardel     |[YouTube video](https://youtu.be/McMIgozEVC0)
-    Dardel     |Failing using SSH:
+    Dardel     |Failing using SSH: [YouTube video](https://youtu.be/dlrJl9N7cxI)
     Kebnekaise |[YouTube video](https://youtu.be/x-orEs1mChM)
     LUMI       |Not needed: no registrations
     Pelle      |[YouTube video](https://youtu.be/MMgQ1tpxhUE)
