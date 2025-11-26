@@ -131,7 +131,7 @@ and record what happens when you rerun the program.
 
 ## Exercise 1.4: question 2.14.4
 
-Start the Python interpreter and enter bruce + 4 at the prompt.
+Start the Python interpreter and enter `bruce + 4` at the prompt.
 This will give you an error:
 
 ```text
