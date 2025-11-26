@@ -114,24 +114,35 @@ Variables, expressions and statements, variables |Done
 Variables, expressions and statements, operators |Done
 Variables, expressions and statements, user input|Done
 File IO                                          |Done
-Command line arguments                           |Check
+Command line arguments                           |Done
 
 Note that I do get tired of this book: it feels outdated.
 
-## Observation questions
+## Peer observation
 
-Here I my predictions:
+### 1. Are my intentions achieved?
 
-- The group may be more experienced than the challenge level of the content.
-  As this is a course for beginners, I see that as a win
+In general, my teaching is intended to be:
 
-### Observation of first hour
+- Learner-centered
+- Allows for working alone or in a small group
+- Beginners first, yet gives room for more experienced learners
+- Caring
+- Well prepared
+- Rewarding the right learners, e.g. learners that arrive on time
 
-At the start of a course, there is a lot to be discussed.
+Does my teaching come across as such? Where do my intentions
+(seem to) mismatch my actions?
+
+### 2. How much introduction?
+
+In the first hour, there is a lot to be discussed.
 
 - Of what I discussed, was it useful enough? What could be considered
   to be removed?
 - Did I miss something that is relevant?
+
+### 3. How did variable group sizes work out?
 
 This day, I want to experiment using variable group sizes,
 where people are allowed to decide in a group of 1 or 2-3.
@@ -144,9 +155,10 @@ How do you think that that worked out?
 - Would you judge that this setup is to be preferred over
   random assignment of 2-3 people in each room?
 
-### Observation of fourth hour
+### 4. How did picking a Python book chapter work out?
 
-This day, I want to experiment letting the more experienced
+In the Python-first sessions,
+I want to experiment letting the more experienced
 Python users work on things at their level.
 How do you think that that worked out?
 
