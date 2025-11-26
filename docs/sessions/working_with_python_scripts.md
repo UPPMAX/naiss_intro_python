@@ -53,14 +53,14 @@ without new theory.
 
     HPC Cluster|YouTube video
     -----------|-------------------------------------
-    Alvis      |.
+    Alvis      |[YouTube video](https://youtu.be/XTrCznq6_n4)
     Bianca     |Not needed: no registrations
-    COSMOS     |.
-    Dardel     |.
-    Kebnekaise |.
+    COSMOS     |[YouTube video](https://youtu.be/Lde4Rs1aJsM)
+    Dardel     |[YouTube video](https://youtu.be/kYSG_WtYBWY)
+    Kebnekaise |[YouTube video](https://youtu.be/IEB_HRR3Ibk)
     LUMI       |Not needed: no registrations
-    Pelle      |.
-    Tetralith  |.
+    Pelle      |[YouTube video](https://youtu.be/mo_OR_RoARw)
+    Tetralith  |[YouTube video](https://youtu.be/mfnnzWvjEK8)
 
 ## Exercise 1: create a Python script
 
