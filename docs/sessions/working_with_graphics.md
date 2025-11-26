@@ -2,8 +2,9 @@
 
 !!!- info "Learning outcomes"
 
+    - Practice using the documentation of your HPC cluster
     - Create a minimal plot
-    - If needed: load the Matplotlib module
+    - Load the Matplotlib module
     - (optional) View the plot
 
 ???- question "For teachers"
@@ -129,22 +130,8 @@ a clumsy option that works too.
     Tetralith  |`nano create_plot.py`
 
 
-- Run the Python script. If you get no error message, you can go to the
-  next exercise
-
-???- question "Answer"
-
-    HPC Cluster|Will work?
-    -----------|-------------------------------------
-    Alvis      |.
-    Bianca     |Not needed: no registrations
-    COSMOS     |.
-    Dardel     |.
-    Kebnekaise |.
-    LUMI       |Not needed: no registrations
-    Pelle      |No
-    Tetralith  |.
-
+- Run the Python script (i.e. without loading the Matplotlib module)
+  and observe the error 
 
 ???- question "How does an error message look like?"
 
@@ -164,7 +151,6 @@ a clumsy option that works too.
   [the UPPMAX documentation about Matplotlib](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
   **for a maximum of 5 minutes**!
   After that, simply copy-paste the answer of the next question.
-
 
 ???- question "Answer"
 
