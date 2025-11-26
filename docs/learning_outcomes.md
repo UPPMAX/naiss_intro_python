@@ -62,8 +62,16 @@ likely to be discussed:
 These are non-goals:
 
 - run useful calculations:
-  see [the NAISS HPC Python course](https://uppmax.github.io/HPC-python)
+  see [the NAISS HPC Python course 'Basic batch and Slurm' session](https://uppmax.github.io/HPC-python/day2/basic_batch_slurm.html)
   for techniques to schedule and run useful calculations
 - do complex Python:
-  see [the NAISS HPC Python course](https://uppmax.github.io/HPC-python)
-  for more complex Python techniques
+  see, for example,
+  [the NAISS HPC Python course 'Parallel computing' session](https://uppmax.github.io/HPC-python/day4/parallel.html)
+  for a more complex Python technique
+- learn about the software module system:
+  see [the NAISS HPC Python course 'Using packages' session](https://uppmax.github.io/HPC-python/day2/use_packages.html)
+  for how to search the module system
+- learn about Matplotlib:
+  see [the NAISS HPC Python course 'Matplotlib' session](https://uppmax.github.io/HPC-python/day3/new-matplotlib-intro.html)
+- transferring files to/from an HPC cluster:
+  see [the NAISS File Transfer course](https://uppmax.github.io/naiss_file_transfer_course/)
