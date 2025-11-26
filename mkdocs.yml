@@ -15,6 +15,7 @@ nav:
     - sessions/working_with_graphics.md
   - Basic Python:
     - Overview: sessions/introduction_basic_python.md
+    - The Way Of The Program: sessions/the_way_of_the_program.md
     - Variables, expressions and statements, variables: sessions/variables_expressions_and_statements_1.md
     - Variables, expressions and statements, operators: sessions/variables_expressions_and_statements_2.md
     - Variables, expressions and statements, user input: sessions/variables_expressions_and_statements_3.md
@@ -36,7 +37,6 @@ nav:
     - Exercise procedure: misc/exercise_procedure.md
     - Frequently asked questions: faq.md
     - Lesson plans: lesson_plans/README.md
-    - Obsolete session 'The Way Of The Program': sessions/the_way_of_the_program.md
     - Obsolete session 'Modules and Python packages': sessions/hello_little_turtles.md
     - Project: misc/project.md
     - Reflections: reflections/README.md

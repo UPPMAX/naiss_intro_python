@@ -2,13 +2,13 @@
 
 ![Python logo from https://www.python.org/community/logos/](python_logo.png)
 
-This course day allows you to program in basic Python on
-an HPC cluster.
+This part of the course day allows you to run Python scripts on
+an HPC cluster and is aimed at complete beginners.
 
 !!! info "Learning outcomes"
 
-    - Understand the learning outcomes of today
-    - Understand how this day is organized
+    - Understand the learning outcomes of this part of the day
+    - Understand how this part of the day is organized
     - Can find the [schedule](../schedule.md)
     - Have seen where to put
       [anonymous feedback during the day](../evaluation.md)
