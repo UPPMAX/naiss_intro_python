@@ -49,9 +49,9 @@ when you want to 'just want to run the stupid code'.
 Read
 [the official Python documentation about `sys.argv`](https://docs.python.org/3/library/sys.html#sys.argv).
 
-Create a script with the following text:
+Create a script called `read_argv.py` with the following content:
 
-```python title="read_argv.py"
+```python
 import sys
 
 print(sys.argv)
