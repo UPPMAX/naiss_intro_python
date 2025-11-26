@@ -54,6 +54,8 @@ there will be time for any individual question in breakout rooms.
 This will be the progression followed by the teacher,
 as this is deemed most important to academics:
 
+<!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Hour|Book chapter                                                                                  |Goal
 ----|----------------------------------------------------------------------------------------------|--------------------------
 1   |[The Way of the Program](the_way_of_the_program.md)                                           |Introduces Python from the very start
@@ -62,11 +64,16 @@ Hour|Book chapter                                                               
 2   |[Variables, expressions and statements, user input](variables_expressions_and_statements_3.md)|.
 3   |[File IO](files.md)                                                                           |Write to a file
 
-Recommended next chapters are:
+<!-- markdownlint-disable MD013 -->
 
-Book chapter                                                                                  |Goal
-----------------------------------------------------------------------------------------------|--------------------------
-[Command line arguments](command_line_arguments.md)
-[Functions](functions.md)
+Recommended next chapters for academics are:
 
 <!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Book chapter                                        |Goal
+----------------------------------------------------|--------------------------------
+[Command line arguments](command_line_arguments.md) |Create scripts that can be called with arguments
+[Functions](functions.md)                           |Structure your code
+
+<!-- markdownlint-disable MD013 -->
+

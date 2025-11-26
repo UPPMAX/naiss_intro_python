@@ -84,3 +84,25 @@ Then do:
         g.write(v)
     g.close()
     ```
+
+    In modern Python, there are better solutions.
+
+
+???- info "A better solution"
+
+    This is an answer that would be superior
+    in modern Python:
+
+    ```python
+    with open("friends.txt", "r") as f:
+        xs = f.readlines()
+
+    xs = reversed(xs)
+
+    with open("sortedfriends.txt", "w") as g:
+        for v in xs:
+            g.write(v)
+    ```
+
+    This is considered better, because on cannot forget
+    to close the files anymore: this is now done automatically.

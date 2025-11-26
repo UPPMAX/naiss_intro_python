@@ -6,13 +6,11 @@ tags:
 
 # Summary
 
+## Python on HPC
+
 HPC centers have different quality of documentation:
 you are encouraged to [file a support ticket](https://www.naiss.se/support/)
 to request better documentation.
-
-[How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
-is a fine book to start learning Python from.
-
 
 To login to your HPC cluster via the terminal, one can use SSH
 as shown below, but the exact syntax differs per cluster:
@@ -60,6 +58,11 @@ To run a Python script, one can do:
 python my_script.py
 ```
 
+## Basic Python
+
+[How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html)
+is a fine book to start learning Python from.
+
 To create a variable in Python, do:
 
 ```python
@@ -84,3 +87,28 @@ if a number is odd/even/prime, in Python do:
 ```python
 my_variable = 5 % 2
 ```
+
+To ask the user to give a number, use `input`:
+
+```python
+t_now = int(input("Enter the current hour"))
+```
+
+To read a file, use `open` and `readlines` and `close`:
+
+```python
+f = open("friends.txt", "r")
+xs = f.readlines()
+f.close()
+```
+
+To write to a file, use `open` and `readlines` and `close`:
+
+```python
+g = open("sortedfriends.txt", "w")
+for v in xs:
+    g.write(v)
+g.close()
+```
+
+
