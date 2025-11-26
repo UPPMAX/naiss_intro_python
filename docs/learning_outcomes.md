@@ -41,6 +41,7 @@ You can be reasonably sure you'll achieve this:
 - In Python, I can find and use the operator for exponentiation
 - In Python, I know what the modulo operator is and when to use it
 - I can convert a simple text question to Python code
+- In Python, I can write text to a file
 
 Here are the rest of the learning outcomes, each item being less and less
 likely to be discussed:
