@@ -155,7 +155,7 @@ How do you think that that worked out?
 - Would you judge that this setup is to be preferred over
   random assignment of 2-3 people in each room?
 
-### 4. How did picking a Python book chapter work out?
+### 4. How did letting learners pick a Python book chapter work out?
 
 In the Python-first sessions,
 I want to experiment letting the more experienced
