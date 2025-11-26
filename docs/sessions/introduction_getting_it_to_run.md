@@ -196,4 +196,4 @@ the things below?
 - Where to [evaluate the course](../evaluation.md)
 - [Further learning](../further learning.md)
 - [The frequently asked questions](../faq.md)
-- [Earlier evaluation results](../evaluations.md)
+- [Earlier evaluation results](../evaluations/README.md)
