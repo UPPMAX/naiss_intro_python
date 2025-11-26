@@ -168,7 +168,8 @@ COSMOS          |General-purpose, Lund university staff only
 Dardel          |General-purpose, uses SSH keys for authentication
 Kebnekaise      |General-purpose, Umeå university staff only
 LUMI            |General-purpose for heavy calculations, uses SSH keys for authentication, use containers to make software available
-Rackham         |General-purpose, Uppsala university staff only
+Pelle           |General-purpose, uses passwords for authentication
+Rackham         |General-purpose, Uppsala university staff only. Being decomissioned.
 Tetralith       |General-purpose, uses passwords for authentication
 
 <!-- markdownlint-enable MD013 -->
@@ -190,7 +191,7 @@ Bianca     |SSH                      |[Documentation](https://docs.uppmax.uu.se/
 Bianca     |**Website**              |[Documentation](https://docs.uppmax.uu.se/getting_started/login_bianca_remote_desktop_website/)              |[YouTube video](https://youtu.be/Ni9nyCf7me8)
 COSMOS     |**Local ThinLinc client**|[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/using_hpc_desktop/)    |[YouTube video](https://youtu.be/wn7TgElj_Ng)
 COSMOS     |SSH                      |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/login_howto/)          |[YouTube video](https://youtu.be/sMsenzWERTg)
-Dardel     |Local ThinLinc client    |[Documentation](https://support.pdc.kth.se/doc/contact/contact_support/?sub=login/interactive_hpc/)          |[YouTube video](https://youtu.be/qgI2SigIuCk)
+Dardel     |Local ThinLinc client    |[Documentation](https://support.pdc.kth.se/doc/login/interactive_hpc/)                                       |[YouTube video](https://youtu.be/qgI2SigIuCk)
 Dardel     |**SSH**                  |[Documentation](https://support.pdc.kth.se/doc/contact/contact_support/?sub=login/ssh_login/)                |[YouTube video](https://youtu.be/I8cNqiYuA-4)
 Kebnekaise |Local ThinLinc client    |[Documentation](https://docs.hpc2n.umu.se/documentation/access/)                                             |[YouTube video](https://youtu.be/_jpj0GW9ASc)
 Kebnekaise |SSH                      |[Documentation](https://docs.hpc2n.umu.se/documentation/access/)                                             |[YouTube video](https://youtu.be/pIiKOKBHIeY)

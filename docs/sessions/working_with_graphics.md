@@ -99,8 +99,8 @@ a clumsy option that works too.
     Alvis           |Console       |None         |ImageMagick           |Hard
     Bianca          |Console       |Excellent    |Copy to local computer|Medium
     COSMOS          |Console       |None         |Present               |Medium
-    Dardel          |Console       |None         |N/A                   |Impossible?
-    Dardel          |Remote desktop|None         |File browser          |Medium
+    Dardel          |Console       |None         |ImageMagick           |**Impossible?**
+    Dardel          |Remote desktop|None         |ImageMagick           |Medium
     LUMI            |Console       |None         |Unknown               |Unknown
     Kebnekaise      |Console       |Excellent    |ImageMagick           |Easy
     Pelle           |Console       |Excellent    |`eog`                 |Easy
@@ -131,11 +131,24 @@ a clumsy option that works too.
 
 
 - Run the Python script (i.e. without loading the Matplotlib module)
-  and observe the error
+  and observe the error. The error should be mentioning Matplotlib
+  (if not: the answer shows how to fix this)
+  
+???- question "Answer"
 
-???- question "How does an error message look like?"
+    These are the errors that may occur:
 
-    Here is an example:
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    Error                       |Solution
+    ----------------------------|--------------------------------------------------
+    No module named 'matplotlib'|Load the Matplotlib module, which is the next step
+    Cannot find Python          |Load a Python module, as done in previous session
+    Core dumped                 |Login to Dardel using ThinLinc
+
+    <!-- markdownlint-enable MD013 -->
+
+    The complete error message to get is similar to:
 
     ```bash
     [richel@pelle2 ~]$ python create_plot.py 
@@ -233,7 +246,7 @@ However, it is quite practical to be able to see your plot directly.
     Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
     Bianca     |Impossible: X-forwarding is disabled. Use a remote desktop.
     COSMOS     |`eog my_plot.png`
-    Dardel     |No `eog`, maybe use ImageMagick?
+    Dardel     |`module load imagemagick/7.1.1-41 ; display my_plot.png`
     Kebnekaise |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
     LUMI       |Not needed: no registrations
     Pelle      |`eog my_plot.png`
@@ -262,3 +275,9 @@ However, it is quite practical to be able to see your plot directly.
     Here is how `eog` displays the plot:
 
     ![The plot shown with `eog`](eog.png)
+
+???- question "How does `display` display a plot?"
+
+    In a remote desktop environment, this looks like:
+
+    ![The minimal plot on Dardel](working_with_graphics_plot_on_dardel.png)
