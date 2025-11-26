@@ -78,14 +78,15 @@ a clumsy option that works too.
 
     HPC Cluster|YouTube video
     -----------|-------------------------------------
-    Alvis      |.
+    Alvis      |[YouTube video](https://youtu.be/s90KtPCByK0)
     Bianca     |Not needed: no registrations
-    COSMOS     |.
-    Dardel     |.
-    Kebnekaise |.
+    COSMOS     |[YouTube video](https://youtu.be/Vexc7VgPTL0)
+    Dardel     |[YouTube video](https://youtu.be/McMIgozEVC0)
+    Dardel     |Failing using SSH:
+    Kebnekaise |[YouTube video](https://youtu.be/x-orEs1mChM)
     LUMI       |Not needed: no registrations
-    Pelle      |.
-    Tetralith  |.
+    Pelle      |[YouTube video](https://youtu.be/MMgQ1tpxhUE)
+    Tetralith  |[YouTube video](https://youtu.be/hp-p_LdJmto)
 
 ???- question "How difficult will this exercise be?"
 
