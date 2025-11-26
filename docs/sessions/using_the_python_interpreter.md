@@ -112,9 +112,38 @@ This should be easy, as this is
 
 ## Exercise 2: load the Python module
 
-Go to the documentation of your HPC cluster
-and load a Python software module of the version indicated in the
-table below.
+- For your favorite HPC center,
+  find the documentation on how to load a Python software module.
+  Search **for a maximum of 5 minutes**!
+  If you cannot find it, use
+  [the UPPMAX documentation about Python](http://docs.uppmax.uu.se/software/python/)
+  or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
+
+???- question "Answer"
+
+    From the documentation of your center, searching for, for example,
+    'Python module',
+    you will find information on how to load the Python module.
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Documentation
+    -----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)
+    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)
+    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)
+    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)
+    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)
+    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)
+    Pelle      |[Documentation](http://docs.uppmax.uu.se/software/python/)
+    Rackham    |[Documentation](http://docs.uppmax.uu.se/software/python/)
+    Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)
+
+    <!-- markdownlint-enable MD013 -->
+
+- Using that documentation,
+  load a Python software module of the version indicated in the
+  table below.
 
 HPC Cluster|Python version
 -----------|--------------
@@ -130,37 +159,30 @@ Tetralith  |`3.10.4`
 
 ???- question "Answer"
 
-    From the documentation of your center, searching for, for example,
-    'Python module',
-    you will find information on how to load the Python module.
-
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation                                                                                                                                                                             |Solution
-    -----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
-    Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|`module load Python/3.12.3-GCCcore-13.3.0`
-    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                                                                                                |`module load python/3.11.4`
-    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |`module load PDC python/3.12.3`
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |`module load GCC/12.3.0 Python/3.11.3`
-    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |`module load cray-python/3.11.7`
-    Pelle      |[Documentation](http://docs.uppmax.uu.se/software/python/)                                                                                                                                |`module load Python/3.13.1-GCCcore-14.2.0`
-    Rackham    |[Documentation](http://docs.uppmax.uu.se/software/python/)                                                                                                                                |`module load python/3.12.7`
-    Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                                  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
+    HPC Cluster|Documentation
+    -----------|-------------------------------------------------
+    Alvis      |`module load Python/3.12.3-GCCcore-13.3.0`
+    Bianca     |`module load python/3.11.4`
+    COSMOS     |`module load GCCcore/13.2.0 Python/3.11.5`
+    Dardel     |`module load PDC python/3.12.3`
+    Kebnekaise |`module load GCC/12.3.0 Python/3.11.3`
+    LUMI       |`module load cray-python/3.11.7`
+    Pelle      |`module load Python/3.13.1-GCCcore-14.2.0`
+    Rackham    |`module load python/3.12.7`
+    Tetralith  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
-    - :warning: means that the documentation does not clearly answer
-      this question.
-      You may find that you can piece it together easily enough or
-      you may find that you cannot.
-      You are encouraged
-      to contact your HPC center to help them help you better
-
 ## Exercise 3: start the Python interpreter
 
-Go to the documentation of your HPC cluster
-and start the Python interpreter.
+- For your favorite HPC center,
+  find the documentation on how to start the Python interpreter.
+  Search **for a maximum of 5 minutes**!
+  If you cannot find it, use
+  [the UPPMAX documentation about how to load Python](https://docs.uppmax.uu.se/software/python/#loading-python)
+  or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
 ???- question "Answer"
 
@@ -189,6 +211,26 @@ and start the Python interpreter.
       You may find this an acceptable omission or you may not.
       You are encouraged
       to contact your HPC center to help them help you better
+
+- Start the Python interpreter
+
+???- question "Answer"
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Solution
+    -----------|--------
+    Alvis      |`python`
+    Bianca     |`python`
+    COSMOS     |`python`
+    Dardel     |`python`
+    Kebnekaise |`python`
+    LUMI       |`python`
+    Pelle      |`python`
+    Rackham    |`python`
+    Tetralith  |`python`
+
+    <!-- markdownlint-enable MD013 -->
 
 ???- question "Cannot get this to work?"
 
