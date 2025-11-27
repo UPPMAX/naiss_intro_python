@@ -49,3 +49,7 @@ is already experienced enough for this to go fast.
 Although I was quite stressed at the start, the day unfolded gently.
 The group of learners was a pleasure to work with!
 
+## 13:15
+
+At 13:00 there were zero learners, which I felt fine with.
+At 13:07, a learner showed  
