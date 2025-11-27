@@ -55,12 +55,10 @@ Evaluate the course anonymously              |[TODO](https://github.com/UPPMAX/n
     - I can create a Python script
     - I can run a Python script
     - I can run a Python script that uses a graphical library on an HPC cluster
-    - In Python, I can create a variable
-    - In Python, I can use a variable
+    - I can create and use a variable in Python
     - I can convert a simple equation to Python code
-    - In Python, I can find and use the operator for exponentiation
-    - In Python, I know what the modulo operator is and when to use it
     - I can convert a simple text question to Python code
+    - I can read and write to/from a file in Python
 
     Any other feedback?
 
