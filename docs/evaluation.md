@@ -14,8 +14,8 @@ This is the page for evaluating the current iteration of the course.
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Goal                                         |Form
----------------------------------------------|--------------------------------------------------------------
-Share any feedback anonymously during the day|[TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
+---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------
+Share any feedback anonymously during the day|[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfwKOmLzncBlAaChhAtqcwRuYnXoWE5tyf90HjtLi-gIimX4g/viewform?usp=publish-editor)
 Evaluate the course anonymously              |[TODO](https://github.com/UPPMAX/naiss_intro_python/issues/22)
 
 <!-- markdownlint-enable MD013 -->
