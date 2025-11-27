@@ -78,11 +78,11 @@ This is all nice to hear. Too bad it does not help me improve :-)
 
 ## Analysis, only end
 
-![All confidences](../../lesson_plans/20251127/all_confidences.png)
+![All confidences](../../evaluations/20251127/all_confidences.png)
 
-![Average confidence per question](../../lesson_plans/20251127/average_confidences_per_question.png)
+![Average confidence per question](../../evaluations/20251127/average_confidences_per_question.png)
 
-![Confidences per question](../../lesson_plans/20251127/confidences_per_question.png)
+![Confidences per question](../../evaluations/20251127/confidences_per_question.png)
 
 Taking a look, the Python book was used by 2 out of 3 learners.
 This exceeds my observations: I have seen only 1 learner use it...
@@ -94,13 +94,13 @@ I guess that this is the learner that could not log in...?
 
 ## Analysis, pre and post
 
-![All confidences](../../lesson_plans/20251127/all_confidences_pre_post.png)
+![All confidences](../../evaluations/20251127/all_confidences_pre_post.png)
 
-![Average confidence per question](../../lesson_plans/20251127/average_confidences_per_question_pre_post.png)
+![Average confidence per question](../../evaluations/20251127/average_confidences_per_question_pre_post.png)
 
-![Confidence per question as boxplot](../../lesson_plans/20251127/confidences_per_question_boxplot_pre_post.png)
+![Confidence per question as boxplot](../../evaluations/20251127/confidences_per_question_boxplot_pre_post.png)
 
-![Confidence per question](../../lesson_plans/20251127/confidences_per_question_pre_post.png)
+![Confidence per question](../../evaluations/20251127/confidences_per_question_pre_post.png)
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
