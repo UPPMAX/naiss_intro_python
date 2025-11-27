@@ -22,7 +22,7 @@ shorten_col_names <- function(t) {
   questions <- stringr::str_remove(
     stringr::str_remove(
       names(t),
-      "Give you confidence levels of the following statements below:\n \\["),
+      "Give you confidence levels of the following statements below: \\["),
     "\\]"
   )
 
