@@ -64,7 +64,9 @@ and she left at 13:51.
 
 I assume all evaluation results are in. I'll analyse them now.
 
-## Feedback
+## Evaluation results
+
+Feedback from learners:
 
 - It's very nice to be able to through everything at your own pace,
   and still receive help/feedback on where you are,
@@ -75,8 +77,6 @@ I assume all evaluation results are in. I'll analyse them now.
 - Great work with creating engagement
 
 This is all nice to hear. Too bad it does not help me improve :-)
-
-## Analysis, only end
 
 ![All confidences](../../evaluations/20251127/all_confidences.png)
 
@@ -89,10 +89,6 @@ This exceeds my observations: I have seen only 1 learner use it...
 
 One person failed to use a text editor on his/her HPC cluster.
 I guess that this is the learner that could not log in...?
-
-- [ ] Consider use another Python reference
-
-## Analysis, pre and post
 
 ![All confidences](../../evaluations/20251127/all_confidences_pre_post.png)
 
@@ -130,3 +126,9 @@ This explains why we could all go home early.
 Kudos to 'I can run a Python script that uses a graphical library on an HPC
 cluster' for being both new and being the only impactful
 learning outcome, regardless of the small sample size.
+
+Conclusions so far: the new sessions did well, nothing needs to be changed.
+
+## Peer observation feedback
+
+
