@@ -15,31 +15,31 @@ both are equally fine.
 
 ???- info "A concept map to show how all themes are connected"
 
-  ```mermaid
-  flowchart TD
-    python[[Python]]
+    ```mermaid
+    flowchart TD
+      python[[Python]]
 
-    user_input[User input]
-    file_io[File I/O]
-    command_line_arguments[Command-line arguments]
-    variables[Variables]
-    operators[Operators]
-    functions[Functions]
-    python_packages[Python packages]
-    graphics[Graphics]
+      user_input[User input]
+      file_io[File I/O]
+      command_line_arguments[Command-line arguments]
+      variables[Variables]
+      operators[Operators]
+      functions[Functions]
+      python_packages[Python packages]
+      graphics[Graphics]
 
 
-    python --> |has| python_packages
-    python --> |has| variables
-    python --> |has| functions
-    python --> |has| operators
-    functions --> |use| variables
-    operators --> |work on| variables
-    python_packages --> |allow| graphics
-    python_packages --> |allow to use| user_input
-    python_packages --> |allow to do| file_io
-    python_packages --> |allow to use| command_line_arguments
-  ```
+      python --> |has| python_packages
+      python --> |has| variables
+      python --> |has| functions
+      python --> |has| operators
+      functions --> |use| variables
+      operators --> |work on| variables
+      python_packages --> |allow| graphics
+      python_packages --> |allow to use| user_input
+      python_packages --> |allow to do| file_io
+      python_packages --> |allow to use| command_line_arguments
+    ```
 
 
 In these sessions, we use the book
