@@ -20,10 +20,11 @@
 
 From [feedback.csv](feedback.csv):
 
-- It's very nice to be able to through everything at your own pace, and still receive help/feedback on where you are, independent of the rest of the group."
-- The instructor was so helpful and friendly and helped me a lot in learning new stuff and solving issues I had during the day"
-
-
+- It's very nice to be able to through everything at your own pace,
+  and still receive help/feedback on where you are,
+  independent of the rest of the group.
+- The instructor was so helpful and friendly and helped me a lot
+  in learning new stuff and solving issues I had during the day
 
 From [survey_end.csv](survey_end.csv):
 
