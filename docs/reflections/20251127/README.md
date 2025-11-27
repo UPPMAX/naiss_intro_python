@@ -94,16 +94,13 @@ I guess that this is the learner that could not log in...?
 
 ## Analysis, pre and post
 
-- [analyse_pre_post.R](analyse_pre_post.R)
-- [stats.txt](stats.txt)
+![All confidences](../../lesson_plans/20251127/all_confidences_pre_post.png)
 
-![All confidences](all_confidences_pre_post.png)
+![Average confidence per question](../../lesson_plans/20251127/average_confidences_per_question_pre_post.png)
 
-![Average confidence per question](average_confidences_per_question_pre_post.png)
+![Confidence per question as boxplot](../../lesson_plans/20251127/confidences_per_question_boxplot_pre_post.png)
 
-![Confidence per question as boxplot](confidences_per_question_boxplot_pre_post.png)
-
-![Confidence per question](confidences_per_question_pre_post.png)
+![Confidence per question](../../lesson_plans/20251127/confidences_per_question_pre_post.png)
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
