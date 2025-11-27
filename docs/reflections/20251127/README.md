@@ -64,3 +64,72 @@ and she left at 13:51.
 
 I assume all evaluation results are in. I'll analyse them now.
 
+## Feedback
+
+- It's very nice to be able to through everything at your own pace,
+  and still receive help/feedback on where you are,
+  independent of the rest of the group.
+- The instructor was so helpful and friendly and helped me a lot
+  in learning new stuff and solving issues I had during the day
+- Great teaching!
+- Great work with creating engagement
+
+This is all nice to hear. Too bad it does not help me improve :-)
+
+## Analysis, only end
+
+![All confidences](../../lesson_plans/20251127/all_confidences.png)
+
+![Average confidence per question](../../lesson_plans/20251127/average_confidences_per_question.png)
+
+![Confidences per question](../../lesson_plans/20251127/confidences_per_question.png)
+
+Taking a look, the Python book was used by 2 out of 3 learners.
+This exceeds my observations: I have seen only 1 learner use it...
+
+One person failed to use a text editor on his/her HPC cluster.
+I guess that this is the learner that could not log in...?
+
+- [ ] Consider use another Python reference
+
+## Analysis, pre and post
+
+- [analyse_pre_post.R](analyse_pre_post.R)
+- [stats.txt](stats.txt)
+
+![All confidences](all_confidences_pre_post.png)
+
+![Average confidence per question](average_confidences_per_question_pre_post.png)
+
+![Confidence per question as boxplot](confidences_per_question_boxplot_pre_post.png)
+
+![Confidence per question](confidences_per_question_pre_post.png)
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+|question                                                                  | mean_pre| mean_post|   p_value|different |
+|:-------------------------------------------------------------------------|--------:|---------:|---------:|:---------|
+|I am comfortable using the documentation of my HPC center                 | 2.888889|  4.000000| 0.3422436|FALSE     |
+|I am comfortable using a Python book                                      | 3.000000|  2.666667| 1.0000000|FALSE     |
+|I am comfortable learning Python                                          | 4.111111|  5.000000| 0.1400165|FALSE     |
+|I can load a Python version on my HPC cluster                             | 2.777778|  5.000000| 0.0502103|FALSE     |
+|I can describe what the Python interpreter is                             | 2.222222|  4.333333| 0.0598090|FALSE     |
+|I can use a text editor on my HPC cluster                                 | 2.875000|  3.666667| 0.3964871|FALSE     |
+|I can create a Python script                                              | 3.666667|  5.000000| 0.1480539|FALSE     |
+|I can run a Python script                                                 | 3.888889|  5.000000| 0.0803306|FALSE     |
+|I can run a Python script that uses a graphical library on an HPC cluster | 1.444444|  4.333333| 0.0218998|TRUE      |
+|I can create and use a variable in Python                                 | 3.666667|  5.000000| 0.2251043|FALSE     |
+|I can convert a simple equation to Python code                            | 3.333333|  5.000000| 0.0908019|FALSE     |
+|I can convert a simple text question to Python code                       | 3.222222|  5.000000| 0.0529253|FALSE     |
+|I can read and write to/from a file in Python                             | 3.777778|  4.666667| 0.2814836|FALSE     |
+
+<!-- markdownlint-enable MD013 -->
+
+Only 3 people filled in the survey at the end.
+
+Do notice that the initial knowledge was high.
+This explains why we could all go home early.
+
+Kudos to 'I can run a Python script that uses a graphical library on an HPC
+cluster' for being both new and being the only impactful
+learning outcome, regardless of the small sample size.
