@@ -5,8 +5,9 @@
 - [Reflection](../../reflections/20251127/README.md)
 - Number of non-duplicate registrations: 42
 - Number of cancellations: unknown
-- Number of active participants, whole day: 8 (19%)
+- Number of active participants: 8 (19%)
 - Number of evaluations: 3 (38% fill-in rate)
+- Part of the 4-day HPC Python course
 
 ## Results
 

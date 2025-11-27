@@ -1,6 +1,11 @@
 # Reflection
 
 - Date: 2025-11-27
+- Part of the 4-day HPC Python course
+- Number of active participants: 8
+- [Lesson plan](../../lesson_plans/20251127/README.md)
+- [Evaluation](../../evaluations/20251127/README.md)
+- [Reflection](../../reflections/20251127/README.md)
 
 Upon entering the Zoom room, I see that I am not a host. I asked
 my colleague to do so. Not a nice start... I do trust her I will be
@@ -52,4 +57,10 @@ The group of learners was a pleasure to work with!
 ## 13:15
 
 At 13:00 there were zero learners, which I felt fine with.
-At 13:07, a learner showed  
+At 13:07, a learner showed up. I helped her with useful things
+and she left at 13:51.
+
+## 15:24
+
+I assume all evaluation results are in. I'll analyse them now.
+
