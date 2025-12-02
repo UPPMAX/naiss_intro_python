@@ -163,13 +163,13 @@ Tetralith  |`3.10.4`
 
     HPC Cluster|Documentation
     -----------|-------------------------------------------------
-    Alvis      |`module load Python/3.12.3-GCCcore-13.3.0`
-    Bianca     |`module load python/3.11.4`
+    Alvis      |`module load Python/3.13.5-GCCcore-14.3.0`
+    Bianca     |`module load python/3.12.7`
     COSMOS     |`module load GCCcore/13.2.0 Python/3.11.5`
     Dardel     |`module load PDC python/3.12.3`
     Kebnekaise |`module load GCC/12.3.0 Python/3.11.3`
     LUMI       |`module load cray-python/3.11.7`
-    Pelle      |`module load Python/3.13.1-GCCcore-14.2.0`
+    Pelle      |`module load Python/3.13.5-GCCcore-14.3.0`
     Rackham    |`module load python/3.12.7`
     Tetralith  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
