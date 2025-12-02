@@ -147,13 +147,13 @@ This should be easy, as this is
 
 HPC Cluster|Python version
 -----------|--------------
-Alvis      |`3.12.3`
-Bianca     |`3.11.4`
+Alvis      |`3.13.5`
+Bianca     |`3.12.7`
 COSMOS     |`3.11.5`
 Dardel     |`3.12.3`
 Kebnekaise |`3.11.3`
 LUMI       |`3.11.7`
-Pelle      |`3.13.1`
+Pelle      |`3.13.5`
 Rackham    |`3.12.7`
 Tetralith  |`3.10.4`
 
