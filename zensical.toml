@@ -164,7 +164,3 @@ features = [
     # https://zensical.org/docs/setup/navigation/#navigation-integration
     "toc.integrate",
 ]
-
-[project.extra.analytics]
-provider = "google"
-property = "G-CW0S3VK5Z0"
