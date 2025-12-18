@@ -16,7 +16,7 @@ need those breakout rooms.
 ## 11:21
 
 I enjoy how this day has unfolded:
-at the start there were 7 learners, of wich only 2 learners
+at the start there were 7 learners, of which only 2 learners
 are still in the course. The other 5 finished their exercises
 and left. I think only 1 or 2 will come back after lunch to do Python,
 as most either already know Python and 1 has 'just' done all the
@@ -42,7 +42,7 @@ One flaw was that I did not introduce my observer to the learners.
 When all learners were in their rooms and I did a first round,
 I had time to talk to her and discussed this. She apparently
 had a question and helped out. She felt it was OK to help out
-a bit and I trust her judgement. After the first break, I did introduce
+a bit and I trust her judgment. After the first break, I did introduce
 her properly :+1: . I enjoy(ed) having an observer around: let's see
 what she has written down :-)
 
@@ -130,5 +130,4 @@ learning outcome, regardless of the small sample size.
 Conclusions so far: the new sessions did well, nothing needs to be changed.
 
 ## Peer observation feedback
-
 
