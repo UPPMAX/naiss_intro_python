@@ -113,6 +113,10 @@ theme:
     - content.action.edit
     - content.action.view
 
+# For NAISS color gradient at top
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - toc:
       toc_depth: 3
