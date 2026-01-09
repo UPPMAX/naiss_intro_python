@@ -1,4 +1,4 @@
-# Welcome to the NAISS Intro to Python for HPC course
+# Welcome to the NAISS 'Intro to Python for HPC' course
 
 ![The NAISS logo](logo/naiss_logo_inverted.png)
 

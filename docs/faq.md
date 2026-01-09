@@ -250,6 +250,20 @@ which allows learner-centered teaching.
 
 ## Website
 
+### What is the goal of this website?
+
+To help teach, including preparation and evaluation,
+the learning outcomes of this course.
+
+This website provides:
+
+- Communication with learners
+- Course content
+- Evaluations
+- Lesson plans
+- Publicity material
+- Reflections
+
 ### Why is the repository owner `UPPMAX` instead of NAISS?
 
 Because NAISS does not have a GitHub owner page yet.

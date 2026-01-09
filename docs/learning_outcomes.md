@@ -22,7 +22,7 @@ These are the two main goals:
 Time     |Main goal
 ---------|--------------------------------------------------
 Morning  |To be able to run Python code on an HPC cluster
-Afternoon|To be able to read/write a variable from/to a file
+Afternoon|To be able to write your first Python code
 
 You can be reasonably sure you'll achieve this:
 
