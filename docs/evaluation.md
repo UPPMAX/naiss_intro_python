@@ -15,8 +15,8 @@ This is the page for evaluating the current iteration of the course.
 
 Goal                                         |Form
 ---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------
-Share any feedback anonymously during the day|[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfwKOmLzncBlAaChhAtqcwRuYnXoWE5tyf90HjtLi-gIimX4g/viewform?usp=publish-editor)
-Evaluate the course anonymously              |[Course evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSe8-m4OY2OeuwsTruoqS5rdi3Ee-aSh4bDLjf3DjIcFkrIqpw/viewform?usp=publish-editor)
+Share any feedback anonymously during the day|[TODO: Feedback form](https://github.com/UPPMAX/naiss_intro_python/issues/24)
+Evaluate the course anonymously              |[TODO: Course evaluation form](https://github.com/UPPMAX/naiss_intro_python/issues/24)
 
 <!-- markdownlint-enable MD013 -->
 
