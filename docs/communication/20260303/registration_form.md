@@ -25,4 +25,3 @@ Registration closes at around 2026-02-24 23:59.
 
 - `[open question]`
 
-

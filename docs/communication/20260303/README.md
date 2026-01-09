@@ -1,6 +1,11 @@
 # Communication
 
+
 - Course date: 2026-03-03
+
+## Workflow
+
+<!-- markdownlint-disable MD013 --><!-- Mermaid cannot be split up over lines, hence will break 80 characters per line -->
 
 ```mermaid
 flowchart TB
@@ -25,6 +30,9 @@ flowchart TB
     welcome_email_step_last_steps_own_project --> |Can login| reminder_in_morning_hpc
     welcome_email_step_last_steps_no_hpc ---> reminder_in_morning_no_hpc
 ```
+<!-- markdownlint-enable MD013 -->
+
+## Emails
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -37,9 +45,11 @@ Date                  |Description
 
 <!-- markdownlint-enable MD013 -->
 
-Action overview:
+## Administrative action overview
 
-Email               |Which HPC cluster?|Name of HPC cluster|Registered in SUPR|Sent|Action 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Email               |Which HPC cluster?|Name of HPC cluster|Registered in SUPR|Sent|Action
 --------------------|------------------|-------------------|------------------|----|----------------------------
 `pelle@uppmax.uu.se`|No HPC            |.                  |.                 |.   |Send `3c`
 `pelle@uppmax.uu.se`|Course HPC        |.                  |.                 |.   |Send `2a`
@@ -50,3 +60,4 @@ Email               |Which HPC cluster?|Name of HPC cluster|Registered in SUPR|S
 `pelle@uppmax.uu.se`|Own HPC           |Rackham            |.                 |`3b`|Done
 `pelle@uppmax.uu.se`|No HPC            |.                  |.                 |`3c`|Done
 
+<!-- markdownlint-enable MD013 -->

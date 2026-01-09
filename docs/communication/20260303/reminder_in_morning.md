@@ -1,5 +1,7 @@
 # Reminder email in the morning
 
+<!-- markdownlint-disable MD013 --><!-- Allow clean copy-paste of 80+ characters -->
+
 ## `[4a]` Intro to Python for HPC: see you at 9:00 sharp
 
 Dear learners,
@@ -38,10 +40,10 @@ I assume that you've done all the prerequisites for the course:
 
 Prerequisites 2, 3 and 4 do not apply to you,
 as you're registered to only follow the Python part of the course.
+If you have any questions, I will be in the Zoom room earlier :-)
 
 See you at 13:00 (sharp!) in the Zoom room below!
 
-If you have any questions, I will be in the Zoom room earlier :-)
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
