@@ -7,7 +7,7 @@ Intro to Python for HPC 2026-03-03
 This is the registration form for the UPPMAX course 'Intro to Python for HPC',
 [https://docs.uppmax.uu.se/courses_workshops/intro_to_python/](https://docs.uppmax.uu.se/courses_workshops/intro_to_python/)
 
-Registration closes at 2025-10-09.
+Registration closes at around 2026-02-24 23:59.
 
 ## What is your email address?
 

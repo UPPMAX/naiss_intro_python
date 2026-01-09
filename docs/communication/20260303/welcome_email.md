@@ -4,14 +4,6 @@
 
     This email is sent out to learners that recently registered.
 
-???- warning "For coordinators: progress"
-
-    This email has been sent to all learners to and including at timestamp
-    `08/10/2025 17:44:00`
-
-<!-- markdownlint-disable MD013 --><!-- Allow clean copy-paste of 80+ characters -->
-
-
 ## `[Email 2]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 step 2
 
 Dear learners,
