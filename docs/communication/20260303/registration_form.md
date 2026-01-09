@@ -23,10 +23,6 @@ Registration closes at around 2026-02-24 23:59.
 
 ## If you work on your own HPC cluster, what is its name?
 
-Be aware that there are only worked-out answers for the some
-NAISS HPC clusters (Alvis, Bianca, COSMOS, Dardel, Kebnekaise,
-LUMI, Pelle, Tetralith)
-
 - `[open question]`
 
 

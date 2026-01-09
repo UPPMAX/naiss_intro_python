@@ -80,44 +80,7 @@ See [prerequisites](prereqs/README.md).
 
 ### How can I check if I have registered?
 
-This course is used in multiple contexts:
-
-- When this course is part of
-  [the HPC Python course](https://www.hpc2n.umu.se/events/courses/2025/spring/hpc-python),
-  you'll get an email within a couple of days
-- When this course is stand-alone,
-  see the procedure below
-
-???- question "Prefer a video?"
-
-    You can see this question being answered
-    in [this YouTube video](https://youtu.be/T8iIuzmjeRI).
-
-- Go to [the course data](data/README.md) page
-- Go to the data of your course instance
-- View the registrations table. If the MD5 hash of your email address
-  is in that table, you are registered.
-
-???- question "Why use an MD5 hash?"
-
-    As a trade-off between privacy and pragmatism.
-
-    - Privacy: do not publish email addresses, however, oneone can find out
-      if an email address is registered
-    - Pragmatism: a learner should be able to confirm he/she has been registered
-
-???- question "How to use an MD5?"
-
-    Get the MD5 hash of your email address.
-    For example, using
-    [this website](https://www.md5hashgenerator.com/).
-    the email `john.doe@gmail.com` gives the MD5 hash of
-    `e13743a7f1db7f4246badd6fd6ff54ff`.
-    If this MD5 hash is found in the table of registrations,
-    hence, that email address is registered.
-
-Besides that, you should have gotten a welcome email within a couple
-of days.
+You should have gotten an email within a couple of days.
 
 When it doubt, [contact the main teacher](contact_us.md).
 
@@ -149,6 +112,9 @@ URL      |[`https://supr.naiss.se/project/32968`](https://supr.naiss.se/project/
 
 Yes, absolutely!
 
+Be aware that there are only worked-out answers for the some
+NAISS HPC clusters (Alvis, Bianca, COSMOS, Dardel, Kebnekaise,
+LUMI, Pelle, Tetralith).
 
 ### How can I get a user account on a Swedish academic HPC cluster?
 
@@ -308,7 +274,7 @@ Preferably:
 Else:
 
 - [Send an email to the main teacher](contact_us.md).
-  There is no guarantee on a quick reply here.
+  You should get a reply within a couple of days.
 
 ## References
 
