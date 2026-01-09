@@ -11,7 +11,8 @@
 
 <!-- markdownlint-disable MD013 --><!-- Allow clean copy-paste of 80+ characters -->
 
-## Welcome to the 'Intro to Python for HPC' course of 2026-03-03 step 2
+
+## `[Email 2]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 step 2
 
 Dear learners,
 
@@ -42,7 +43,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 `[Zoom invite text]`
 
 
-## Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (course project)
+## `[Email 3a]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (course project)
 
 Dear learners,
 
@@ -79,7 +80,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 
 `[Zoom invite text]`
 
-## Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (own project)
+## `[Email 3b]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (own project)
 
 Dear learners,
 
@@ -114,7 +115,7 @@ Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teac
 `[Zoom invite text]`
 
 
-## Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (no HPC)
+## `[Email 3c]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (no HPC)
 
 Dear learners,
 

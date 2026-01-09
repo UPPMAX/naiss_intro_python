@@ -6,11 +6,12 @@
 flowchart TB
     naiss_newletter[NAISS newsletter]
     registration_form[Registration form]
-    welcome_email_step_2_hpc[Welcome email step 2, use HPC]
-    welcome_email_step_last_steps_no_hpc[Welcome email, last steps, no HPC]
-    welcome_email_step_last_steps_course_project[Welcome email, last steps, course project]
-    welcome_email_step_last_steps_own_project[Welcome email, last steps, own project]
-    reminder_in_morning[Reminder in the morning]
+    welcome_email_step_2_hpc[2. Welcome email step 2, use HPC]
+    welcome_email_step_last_steps_no_hpc[3c. Welcome email, last steps, no HPC]
+    welcome_email_step_last_steps_course_project[3a. Welcome email, last steps, course project]
+    welcome_email_step_last_steps_own_project[3b. Welcome email, last steps, own project]
+    reminder_in_morning_hpc[4a. Reminder in the morning, HPC]
+    reminder_in_morning_no_hpc[4c. Reminder in the morning, no HPC]
 
     naiss_newletter -.-> |Informs| registration_form
     registration_form --> |Registered to course, HPC| welcome_email_step_2_hpc
@@ -20,9 +21,9 @@ flowchart TB
     welcome_email_step_2_hpc --> |Registered in SUPR, own project| welcome_email_step_last_steps_own_project
 
 
-    welcome_email_step_last_steps_course_project --> |Accepted NAISS project, can login| reminder_in_morning
-    welcome_email_step_last_steps_own_project --> |Can login| reminder_in_morning
-    welcome_email_step_last_steps_no_hpc --> reminder_in_morning
+    welcome_email_step_last_steps_course_project --> |Accepted NAISS project, can login| reminder_in_morning_hpc
+    welcome_email_step_last_steps_own_project --> |Can login| reminder_in_morning_hpc
+    welcome_email_step_last_steps_no_hpc ---> reminder_in_morning_no_hpc
 ```
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
@@ -36,28 +37,16 @@ Date                  |Description
 
 <!-- markdownlint-enable MD013 -->
 
-Course registration data
+Action overview:
 
-Email|Which HPC cluster?|Name
-
-## What is your email address?
-
-```text
-[field for one line of text]
-```
-
-## Which HPC cluster will you use?
-
-- I will not follow the HPC part of the course
-- (recommended) I will use the HPC cluster provided by the course
-- I will use the HPC cluster that I already work on
-
-## If you work on your own HPC cluster, what is its name?
-
-Be aware that there are only worked-out answers for the some
-NAISS HPC clusters (Alvis, Bianca, COSMOS, Dardel, Kebnekaise,
-LUMI, Pelle, Tetralith)
-
-- `[open question]`
-
+Email               |Which HPC cluster?|Name of HPC cluster|Registered in SUPR|Sent|Action 
+--------------------|------------------|-------------------|------------------|----|----------------------------
+`pelle@uppmax.uu.se`|No HPC            |.                  |.                 |.   |Send `3c`
+`pelle@uppmax.uu.se`|Course HPC        |.                  |.                 |.   |Send `2a`
+`pelle@uppmax.uu.se`|Course HPC        |.                  |No                |`2a`|Wait until SUPR registration
+`pelle@uppmax.uu.se`|Course HPC        |.                  |Yes               |`2a`|Send `3a`
+`pelle@uppmax.uu.se`|Course HPC        |.                  |Yes               |`3a`|Done
+`pelle@uppmax.uu.se`|Own HPC           |Rackham            |.                 |.   |Send `3b`
+`pelle@uppmax.uu.se`|Own HPC           |Rackham            |.                 |`3b`|Done
+`pelle@uppmax.uu.se`|No HPC            |.                  |.                 |`3c`|Done
 
