@@ -131,3 +131,6 @@ Conclusions so far: the new sessions did well, nothing needs to be changed.
 
 ## Peer observation feedback
 
+Peer observation feedback can be found at
+[my teaching repository](https://richelbilderbeek.github.io/teaching/peer_observations/20251127.pdf).
+
