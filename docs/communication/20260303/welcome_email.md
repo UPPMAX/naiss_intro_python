@@ -43,7 +43,9 @@ Dear learners,
 
 Welcome to the 'Intro to Python for HPC' course of 2026-03-03!
 
-Well done! You've already done two of the five prerequisites (as listed on <https://uppmax.github.io/naiss_intro_python/prereqs/> ):
+You've picked to use the HPC cluster recommended by the course. Great!
+
+This means you've already done two of the five course prerequisites (as listed on <https://uppmax.github.io/naiss_intro_python/prereqs/> ):
 
 - [x] Prerequisite 1/5: You have registered at our registration form
 - [x] Prerequisite 2/5: You have registered at SUPR
