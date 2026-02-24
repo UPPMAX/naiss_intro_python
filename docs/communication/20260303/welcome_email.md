@@ -140,3 +140,28 @@ Please make sure you've done all your prerequisites and if yes, see you on March
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
 `[Zoom invite text]`
+
+
+## Reminder email: no SUPR account
+
+Dear learners,
+
+Welcome to the 'Intro to Python for HPC' course of 2026-03-03!
+
+I could not find you in SUPR yet, so I cannot give you access to the
+course project. This may be fine (the course is only next week),
+but maybe you got stuck...?
+
+The prerequisites (you are now at step 2) can be found at <https://uppmax.github.io/naiss_intro_python/prereqs/#prerequisites> :-)
+
+Help, answers and videos can be found at the course's FAQ page at <https://uppmax.github.io/naiss_intro_python/faq/#prerequisites> .
+
+The course assumes you can log in to an HPC cluster, so let's make that work :-) .
+
+If you have any questions, never hesitate to contact me.
+
+Please make sure you've done all your prerequisites and if yes, see you on March 3 9:00 (sharp!) at the Zoom room below this email.
+
+Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
+
+`[Zoom invite text]`
