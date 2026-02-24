@@ -58,7 +58,7 @@ Next steps are numbers 3, 4 and 5.
 - For step 3: accept the SUPR email you've gotten to get access to this course's
   project. Alternatively, you can request access to the project
   yourself: the project is called 'NAISS Intro to Python course',
-  with URL <https://supr.naiss.se/project/32968>
+  with URL <https://supr.naiss.se/project/37201>
 - For step 4: follow the documentation and/or video at
   <https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster>
 - For step 5: please do this, it will be more fun for everybody!
