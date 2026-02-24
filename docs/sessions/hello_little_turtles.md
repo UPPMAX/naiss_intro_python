@@ -487,14 +487,14 @@ Now we try to make this script work!
 
 Read:
 
-- [the UPPMAX documentation 'Loading Python packages'](http://docs.uppmax.uu.se/software/python/#loading-python-packages)
-- [the UPPMAX documentation 'Modules'](http://docs.uppmax.uu.se/cluster_guides/modules/)
+- [the UPPMAX documentation 'Loading Python packages'](https://docs.uppmax.uu.se/software/python/#loading-python-packages)
+- [the UPPMAX documentation 'Modules'](https://docs.uppmax.uu.se/cluster_guides/modules/)
 
 Now, try to get the script to work.
 
 When running the code, there should be a visible pop-up window. If not,
 re-read
-[the UPPMAX documentation page 'Login to Rackham'](http://docs.uppmax.uu.se/getting_started/login_rackham/)
+[the UPPMAX documentation page 'Login to Rackham'](https://docs.uppmax.uu.se/getting_started/login_rackham/)
 and enable X-forwarding. If X-forwarding does not work,
 use the Rackham remote desktop environment.
 

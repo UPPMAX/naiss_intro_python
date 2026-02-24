@@ -116,7 +116,7 @@ This should be easy, as this is
   find the documentation on how to load a Python software module.
   Search **for a maximum of 5 minutes**!
   If you cannot find it, use
-  [the UPPMAX documentation about Python](http://docs.uppmax.uu.se/software/python/)
+  [the UPPMAX documentation about Python](https://docs.uppmax.uu.se/software/python/)
   or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
 ???- question "Answer"
@@ -135,8 +135,8 @@ This should be easy, as this is
     Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)
     Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)
     LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)
-    Pelle      |[Documentation](http://docs.uppmax.uu.se/software/python/)
-    Rackham    |[Documentation](http://docs.uppmax.uu.se/software/python/)
+    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python/)
+    Rackham    |[Documentation](https://docs.uppmax.uu.se/software/python/)
     Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)
 
     <!-- markdownlint-enable MD013 -->
