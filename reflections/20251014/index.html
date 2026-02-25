@@ -1,0 +1,1945 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+    
+    
+      
+        <title>2025-10-14 - Intro to Python for HPC</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Lato";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#2025-10-14" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Intro to Python for HPC" class="md-header__button md-logo" aria-label="Intro to Python for HPC" data-md-component="logo">
+      
+  <img src="../../logo/naiss_logo_white.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Intro to Python for HPC
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              2025-10-14
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/UPPMAX/naiss_intro_python" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Start
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../learning_outcomes/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Learning outcomes
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../prereqs/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Prerequisites
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../course_dates/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Course dates
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../schedule/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Schedule
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../sessions/introduction_getting_it_to_run/" class="md-tabs__link">
+          
+  
+  
+  Getting it to run
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../sessions/introduction_basic_python/" class="md-tabs__link">
+          
+  
+  
+  Basic Python
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../acknowledgements/" class="md-tabs__link">
+          
+  
+  
+  Misc
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../contact_us/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Contact us
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Intro to Python for HPC" class="md-nav__button md-logo" aria-label="Intro to Python for HPC" data-md-component="logo">
+      
+  <img src="../../logo/naiss_logo_white.png" alt="logo">
+
+    </a>
+    Intro to Python for HPC
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/UPPMAX/naiss_intro_python" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Start
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learning_outcomes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learning outcomes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prereqs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prerequisites
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../course_dates/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Course dates
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../schedule/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schedule
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting it to run
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Getting it to run
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/introduction_getting_it_to_run/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction 'Getting it to run'
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/using_the_python_interpreter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Using the Python interpreter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/working_with_python_scripts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Working with Python scripts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/working_with_graphics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Working with graphics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Basic Python
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Basic Python
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/introduction_basic_python/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/the_way_of_the_program/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Way Of The Program
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/variables_expressions_and_statements_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Variables, expressions and statements, variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/variables_expressions_and_statements_2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Variables, expressions and statements, operators
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/variables_expressions_and_statements_3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Variables, expressions and statements, user input
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/files/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    File IO
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/command_line_arguments/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Command-line arguments
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../summary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Summary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../further_learning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Further learning
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Misc
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Misc
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../acknowledgements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Acknowledgements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../topics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    All topics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CODE_OF_CONDUCT/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Code of conduct
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CONTRIBUTING/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../communication/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Communication
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../data/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Data
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deploy_locally/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Deploy locally
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evaluation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evaluation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evaluations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evaluations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../misc/exercise_procedure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exercise procedure
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../faq/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Frequently asked questions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lesson_plans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lesson plans
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/hello_little_turtles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Obsolete session 'Modules and Python packages'
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sessions/functions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Obsolete and unfinished session 'Functions'
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../misc/project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Project
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reflections
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contact_us/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contact us
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+    <a href="https://github.com/UPPMAX/naiss_intro_python/blob/main/docs/reflections/20251014/README.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/UPPMAX/naiss_intro_python/raw/main/docs/reflections/20251014/README.md" title="View source of this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.2 8.2 0 0 1-1.23-2"/></svg>
+    </a>
+  
+
+
+<h1 id="2025-10-14">2025-10-14<a class="headerlink" href="#2025-10-14" title="Anchor link to this section for reference">&para;</a></h1>
+<ul>
+<li><a href="../../lesson_plans/20251014/">Lesson plan</a></li>
+<li><a href="../../evaluations/20251014/">Evaluation</a></li>
+<li><a href="./">Reflection</a></li>
+</ul>
+<h2 id="before-teaching">Before teaching<a class="headerlink" href="#before-teaching" title="Anchor link to this section for reference">&para;</a></h2>
+<p>When I started sending out the emails (at 'Communication'),
+I received 3 cancellations. I wonder how this number compares
+to other courses and/or how it compares to emails that are less
+welcoming.</p>
+<p>The 'Hello little turtles' session took me too much time to get
+to get to work. After one hour, I think it is better if this
+session starts in a remote desktop environment (ignoring X forwarding).</p>
+<ul>
+<li>[ ] Schedule at 4 hours to fix 'Hello little turtles'</li>
+<li>[ ] Consider to do so for 'Graphics' instead</li>
+<li>[ ] Add one of these to the morning sessions schedule</li>
+<li>[ ] Update goal: to be able to run a Python script on an HPC cluster,
+  that runs a graphical library</li>
+</ul>
+<h2 id="morning-session">Morning session<a class="headerlink" href="#morning-session" title="Anchor link to this section for reference">&para;</a></h2>
+<p>I clearly marked the two different parts of the day.
+This part had a clear end goal: to be able to run a Python
+script on an HPC cluster.</p>
+<p>I did feel there were too many Priors in it.</p>
+<ul>
+<li>[x] Remove the parts about the 3 types of bugs</li>
+</ul>
+<p>With a clear end goal in mind, I sent the faster workers back earlier.</p>
+<ul>
+<li>[ ] Make more explicit: when done, we go home. When working together,
+  we will go home sooner</li>
+</ul>
+<p>I enjoyed working with this group.</p>
+<h2 id="afternoon-session">Afternoon session<a class="headerlink" href="#afternoon-session" title="Anchor link to this section for reference">&para;</a></h2>
+<p>This session had a goal, but it could have been
+clearer: to be able to read/write a variable from/to a file.</p>
+<ul>
+<li>[ ] Make goal of second half clearer:
+  to be able to read/write a variable from/to a file</li>
+</ul>
+<p>Also, the session was too cut up.</p>
+<ul>
+<li>[ ] Merge sessions 'Variables, expressions and statements'
+  into 1 page</li>
+</ul>
+<p>Also, there were useless intermediate goals.</p>
+<ul>
+<li>[x] Remove useless intermediate goals</li>
+</ul>
+<p>Also, there were mentions of HPC cluster doc.</p>
+<ul>
+<li>[x] Remove needless mentions of HPC cluster doc in the LOs</li>
+</ul>
+<p>Also, TOCs of pages were too deep: make exercises of type header 2.</p>
+<ul>
+<li>[x] make exercises of type header 2</li>
+</ul>
+<p>In this part of the day, I sent learners back home earlier.
+It felt OK.</p>
+<p>I enjoyed working with this group, including the new additions:
+they blended in well.</p>
+<p>The end of my day was weak: I was mentally exhausted.</p>
+<h2 id="learning-outcomes">Learning outcomes<a class="headerlink" href="#learning-outcomes" title="Anchor link to this section for reference">&para;</a></h2>
+<p><img alt="All confidences" src="../../evaluations/20251014/all_confidences.png" /></p>
+<p><img alt="Average confidence per question" src="../../evaluations/20251014/average_confidences_per_question.png" /></p>
+<ul>
+<li>
+<p>[x] Remove 'I can login to my HPC cluster' as this is a prerequisite</p>
+</li>
+<li>
+<p>[x] Remove 'I can describe what the Python programming language is',
+  as this is untested</p>
+</li>
+</ul>
+<p><img alt="Confidences per question" src="../../evaluations/20251014/confidences_per_question.png" /></p>
+<p><img alt="All confidences" src="../../evaluations/20251014/all_confidences_pre_post.png" /></p>
+<p><img alt="Average confidence per question" src="../../evaluations/20251014/average_confidences_per_question_pre_post.png" /></p>
+<p><img alt="Confidence per question as boxplot" src="../../evaluations/20251014/confidences_per_question_boxplot_pre_post.png" /></p>
+<p><img alt="Confidence per question" src="../../evaluations/20251014/confidences_per_question_pre_post.png" /></p>
+<!-- markdownlint-disable MD013 -->
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">question</th>
+<th style="text-align: right;">mean_pre</th>
+<th style="text-align: right;">mean_post</th>
+<th style="text-align: right;">p_value</th>
+<th style="text-align: left;">different</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">I am comfortable using the documentation of my HPC center</td>
+<td style="text-align: right;">2.727273</td>
+<td style="text-align: right;">4.500000</td>
+<td style="text-align: right;">0.0099316</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I am comfortable using a Python book</td>
+<td style="text-align: right;">2.181818</td>
+<td style="text-align: right;">4.666667</td>
+<td style="text-align: right;">0.0048339</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I am comfortable learning Python</td>
+<td style="text-align: right;">3.272727</td>
+<td style="text-align: right;">4.833333</td>
+<td style="text-align: right;">0.0039403</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can login to my HPC cluster</td>
+<td style="text-align: right;">4.000000</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0197055</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can load a Python version on my HPC cluster</td>
+<td style="text-align: right;">2.818182</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0045775</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can describe what the Python programming language is</td>
+<td style="text-align: right;">2.181818</td>
+<td style="text-align: right;">4.000000</td>
+<td style="text-align: right;">0.0268995</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can describe what the Python interpreter is</td>
+<td style="text-align: right;">1.636364</td>
+<td style="text-align: right;">4.000000</td>
+<td style="text-align: right;">0.0065500</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can use a text editor on my HPC cluster</td>
+<td style="text-align: right;">2.909091</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0046626</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can create a Python script</td>
+<td style="text-align: right;">2.090909</td>
+<td style="text-align: right;">4.833333</td>
+<td style="text-align: right;">0.0074328</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can run a Python script</td>
+<td style="text-align: right;">2.636364</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0045213</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">In Python, I can create a variable</td>
+<td style="text-align: right;">2.000000</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0046912</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">In Python, I can use a variable</td>
+<td style="text-align: right;">2.000000</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0019569</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can convert a simple equation to Python code</td>
+<td style="text-align: right;">1.909091</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0019982</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">In Python, I can find and use the operator for exponentiation</td>
+<td style="text-align: right;">1.272727</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0016461</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">In Python, I know what the modulo operator is and when to use it</td>
+<td style="text-align: right;">1.181818</td>
+<td style="text-align: right;">5.000000</td>
+<td style="text-align: right;">0.0016461</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+<tr>
+<td style="text-align: left;">I can convert a simple text question to Python code</td>
+<td style="text-align: right;">1.181818</td>
+<td style="text-align: right;">4.500000</td>
+<td style="text-align: right;">0.0011858</td>
+<td style="text-align: left;">TRUE</td>
+</tr>
+</tbody>
+</table>
+<!-- markdownlint-enable MD013 -->
+
+<p>Blimey, all things went up significantly!</p>
+<h2 id="feedback">Feedback<a class="headerlink" href="#feedback" title="Anchor link to this section for reference">&para;</a></h2>
+<ul>
+<li>Very well designed and beginner friendly training!</li>
+<li>A very nice basic Python course for beginners
+  who want to start using Python on HPC.
+  The course website is very informative and tidy. Thanks a lot!</li>
+<li>On the whole I feel the course was good, just not on the right level for me.
+  However, the materials for the 4-day course
+  (<a href="https://uppmax.github.io/HPC-python/index.html">https://uppmax.github.io/HPC-python/index.html</a>)
+  led me to some more advanced stuff: automatic code optimization with Numba,
+  and indirectly to automatic parallelization with DECO.</li>
+</ul>
+<p>Agree: it is a beginners course. It should be made more explicit:</p>
+<ul>
+<li>[ ] Put in non-goals: 'do complex Python'</li>
+<li>
+<p>[ ] Refer to HPC Python course more</p>
+</li>
+<li>
+<p>Very nice course for the Python beginner!</p>
+</li>
+<li>Great course, beginner-friendly!</li>
+<li>Overall, it was a good course for complete beginners.
+  However, it would have been nicer to have more discussion
+  and less independent reading.
+  Much of the material from the Python book could have been replaced
+  by direct (faster) explanations from the instructor,
+  followed by group discussions and more strictly collaborative exercises.
+  This approach would likely have led to faster and more effective learning.</li>
+</ul>
+<p>I am happy to hear a fellow teacher here. I am unsure if this is true,
+as reading is active learning, where listening is not. Sure, a discussion
+is active too and we indeed did not have many. Making the exercises
+'strictly collaborative' seems like an interesting idea.</p>
+<p>All in all: I wish I could talk with him/her about this.</p>
+<ul>
+<li>
+<p>[ ] Think on how to implement this</p>
+</li>
+<li>
+<p>Since there are already plenty of Python tutorials available online,
+  a course like this should focus on being more interactive rather
+  than being a space where to work independently through existing materials.
+  I also would have appreciated covering some more essential
+  yet slightly advanced topics—such as functions, available python packages,
+  and similar concepts—instead of spending as much time on very basic material,
+  like simple arithmetic with operators.</p>
+</li>
+</ul>
+<p>Another fellow teacher! Also here: make the exercises more collaborative.
+I also see some ideas here, such as using the book to write simple programs.
+Also here: I wish I could talk with him/her about this.</p>
+<ul>
+<li>[ ] Think on how to implement to make exercises more collaborative,
+  e.g. let them write their own code (as a group) based on the book?</li>
+</ul>
+<p>Fun!</p>
+<h2 id="conclusion">Conclusion<a class="headerlink" href="#conclusion" title="Anchor link to this section for reference">&para;</a></h2>
+<p>The course was appreciated as a beginner course and criticized for being to
+non-collaborative. I agree that there is room for improvement there!</p>
+<p>I would rate my own teaching a 7 out of 10, as the end was weak.</p>
+<!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["toc.integrate", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.path", "navigation.footer", "navigation.expand", "search.suggest", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.action.edit", "content.action.view"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
