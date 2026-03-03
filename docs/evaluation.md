@@ -1,6 +1,9 @@
 ---
 tags:
   - evaluation
+  - feedback
+  - share opinion
+  - share idea
 ---
 
 # Evaluation
@@ -15,7 +18,7 @@ This is the page for evaluating the current iteration of the course.
 
 Goal                                         |Form
 ---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------
-Share any feedback anonymously during the day|[TODO: Feedback form](https://github.com/UPPMAX/naiss_intro_python/issues/24)
+Share any feedback anonymously during the day|[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZHwlMBO11NemdpeelJ5RhLbepBClKlOaoBnhrHH2P9tYqTA/viewform?usp=publish-editor)
 Evaluate the course anonymously              |[TODO: Course evaluation form](https://github.com/UPPMAX/naiss_intro_python/issues/24)
 
 <!-- markdownlint-enable MD013 -->

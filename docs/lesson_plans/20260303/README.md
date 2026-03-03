@@ -4,6 +4,6 @@
 
 - [Done] Send out email reminders to all learners
 - [Done] Answer emails
-- [1/3] Prepare forms
+- [2/3] Prepare forms
 - Prepare lesson
 - Letter of participation for Fabio Zaccarini
