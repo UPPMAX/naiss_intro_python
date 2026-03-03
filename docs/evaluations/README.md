@@ -19,7 +19,7 @@ No |Date      |Evaluations                     |Success score
 4  |2025-04-24|[Evaluation](20250424/README.md)|[92%](20250424/success_score.txt)
 5  |2025-10-14|[Evaluation](20251014/README.md)|[95%](20251014/success_score.txt)
 6  |2025-11-27|[Evaluation](20251127/README.md)|[90%](20251127/success_score.txt)
-7  |2026-03-03|[Evaluation](20260303/README.md)|.
+7  |2026-03-03|[Evaluation](20260303/README.md)|[88%](20260303/success_score.txt)
 8  |2026-04-20|[Evaluation](20260420/README.md)|.
 
 - The 'Success score' is the average confidence the learners
