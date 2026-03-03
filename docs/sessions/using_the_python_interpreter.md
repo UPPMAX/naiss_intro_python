@@ -219,11 +219,11 @@ Tetralith  |`3.10.4`
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
     HPC Cluster|Solution
-    -----------|--------
+    -----------|---------
     Alvis      |`python`
     Bianca     |`python`
     COSMOS     |`python`
-    Dardel     |`python`
+    Dardel     |`python3`
     Kebnekaise |`python`
     LUMI       |`python`
     Pelle      |`python`
