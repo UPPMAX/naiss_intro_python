@@ -1,0 +1,17 @@
+question,mean
+I am comfortable learning Python,4.833333333333333
+I am comfortable using a Python book,4.666666666666667
+I am comfortable using the documentation of my HPC center,4.5
+I can convert a simple equation to Python code,5
+I can convert a simple text question to Python code,4.5
+I can create a Python script,4.833333333333333
+I can describe what the Python interpreter is,4
+I can describe what the Python programming language is,4
+I can load a Python version on my HPC cluster,5
+I can login to my HPC cluster,5
+I can run a Python script,5
+I can use a text editor on my HPC cluster,5
+"In Python, I can create a variable",5
+"In Python, I can find and use the operator for exponentiation",5
+"In Python, I can use a variable",5
+"In Python, I know what the modulo operator is and when to use it",5
