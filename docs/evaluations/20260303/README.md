@@ -66,6 +66,20 @@ From [survey_end.csv](survey_end.csv):
   Great teaching, it was particularly accommodating
   of different technical and personal needs/learning styles!
 
+From emails:
+
+
+```bash 
+Dear Richel,
+
+It has been very nice going through your excellent documentation this morning to refresh my Python knowledge. I have almost finished the Python part of this afternoon’s course. I initially planned to attend the session, but since I am already close to completing it, I think I will instead go to my group meeting, if that is okay.
+I also noticed some additional courses listed under “Further Learning” that I am interested in. Is it okay if I go through the material on my own, or should I register for the course before doing so?
+Thank you very much for today. I will fill in the evaluation.
+Best regards,
+[name]
+```
+
+
 ## Analysis, only end
 
 - script used: [analyse.R](analyse.R)
