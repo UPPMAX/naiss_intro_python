@@ -38,7 +38,7 @@ From [survey_end.csv](survey_end.csv):
   The current practices have touched upon this issue a little
   but no systematic introduction.
 - Great course, especially the HPC intro.
-  A great way to lower the threshold of using HCP clusters.
+  A great way to lower the threshold of using HPC clusters.
 - Great course! It was exactly the right amount of content.
   I liked that the teacher asked questions to everybody
   and that he also made sure you could feel comfortable
