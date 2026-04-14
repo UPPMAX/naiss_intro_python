@@ -32,6 +32,8 @@ this question feels best answered at the third hour, which is from 11:15-12:00.
 
 - She will join from 9:00-10:00 and 15:15 to the end. If there are no learners
   anymore at 15:15, we'll discuss the lesson
+- I will introduce her purpose and the interaction rules. I will not
+  ask her to introduce herself
 
 ## References
 
