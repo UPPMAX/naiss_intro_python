@@ -1,6 +1,7 @@
 # Lesson plan 2026-04-20
 
 - As part of the HPC Python course
+- Working form: mostly in breakout rooms
 
 ## Question to observer
 
@@ -20,6 +21,9 @@ Feedback in a plenary part, but because of the different levels of the
 learners, I do no want to disturb/stress/slow_down the learners
 and let this slide too.
 **Do you think my judgement here is reasonable?**
+
+Taking a look at [the schedule](https://uppmax.github.io/naiss_intro_python/schedule/),
+this question feels best answered at the third hour, which is from 11:15-12:00.
 
 ## References
 
