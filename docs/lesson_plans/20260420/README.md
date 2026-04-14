@@ -30,6 +30,9 @@ and let this slide too.
 Taking a look at [the schedule](https://uppmax.github.io/naiss_intro_python/schedule/),
 this question feels best answered at the third hour, which is from 11:15-12:00.
 
+- She will join from 9:00-10:00 and 15:15 to the end. If there are no learners
+  anymore at 15:15, we'll discuss the lesson
+
 ## References
 
 - `[Bell, 2020]` Bell, Mike. The fundamentals of teaching:
