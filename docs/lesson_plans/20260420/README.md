@@ -8,7 +8,7 @@
 Goal of the meeting:
 
 - [Agree on peer observation](https://richelbilderbeek.github.io/teaching/peer_observations/)
-- Discuss observation question, the context and logistics needed 
+- Discuss observation question, the context and logistics needed
 
 I follow the five-step model from `[Bell, 2020]`, which are:
 
