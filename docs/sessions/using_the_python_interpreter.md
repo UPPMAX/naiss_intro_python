@@ -112,7 +112,7 @@ This should be easy, as this is
 
 ## Exercise 2: load the Python module
 
-- Find the user documentation for that specific HPC cluster
+- Find the user documentation for your favorite HPC cluster
 
 ???- question "Answer"
 
@@ -138,8 +138,8 @@ This should be easy, as this is
 
     <!-- markdownlint-enable MD013 -->
 
-- For your favorite HPC center,
-  find the documentation on how to load a Python software module.
+- Using the user documentation for your favorite HPC cluster,
+  find on how to load a Python software module.
   Search **for a maximum of 5 minutes**!
   If you cannot find it, use
   [the UPPMAX documentation about Python](https://docs.uppmax.uu.se/software/python/)
