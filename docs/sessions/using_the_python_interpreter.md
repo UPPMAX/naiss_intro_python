@@ -112,6 +112,32 @@ This should be easy, as this is
 
 ## Exercise 2: load the Python module
 
+- Find the user documentation for that specific HPC cluster
+
+???- question "Answer"
+
+    To find this user documentation, search the internet for a search term
+    such as `[cluster name] user documentation`,
+    e.g. `Dardel user documentation`.
+
+    These are the user documentation pages for each HPC center,
+    sorted by HPC cluster:
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC center |HPC cluster|HPC cluster-specific documentation
+    -----------|-----------|------------------------------------------------------------
+    C3SE       |Alvis      |[Documentation](https://www.c3se.chalmers.se)
+    UPPMAX     |Bianca     |[Documentation](https://docs.uppmax.uu.se)
+    LUNARC     |COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io)
+    PDC        |Dardel     |[Documentation](https://support.pdc.kth.se)
+    HPC2N      |Kebnekaise |[Documentation](https://docs.hpc2n.umu.se)
+    CSC        |LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/)
+    UPPMAX     |Pelle      |[Documentation](https://docs.uppmax.uu.se)
+    NSC        |Tetralith  |[Documentation](https://www.nsc.liu.se)
+
+    <!-- markdownlint-enable MD013 -->
+
 - For your favorite HPC center,
   find the documentation on how to load a Python software module.
   Search **for a maximum of 5 minutes**!
