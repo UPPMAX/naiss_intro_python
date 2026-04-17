@@ -48,7 +48,7 @@ For this exercise, we will use this code:
 import matplotlib.pyplot as plt
 
 plt.plot([0, 1, 4, 9, 16])
-plt.savefig('my_plot.png')
+plt.savefig("my_plot.png")
 ```
 
 This Python code will create a minimal plot and save it to file.

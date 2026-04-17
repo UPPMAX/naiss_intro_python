@@ -112,7 +112,7 @@ without new theory.
 - Copy-paste the following content into the script:
 
 ```python
-print('Hello, world!')
+print("Hello, world!")
 ```
 
 ???- question "Answer"

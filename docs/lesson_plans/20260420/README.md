@@ -2,6 +2,8 @@
 
 - As part of the HPC Python course
 - Working form: mostly in breakout rooms
+- Registrations: 50
+
 
 ## Question to observer
 
