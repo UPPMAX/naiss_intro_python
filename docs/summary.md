@@ -9,7 +9,8 @@ tags:
 ## Python on HPC
 
 HPC centers have different quality of documentation:
-you are encouraged to [file a support ticket](https://www.naiss.se/support/)
+you are encouraged to
+[file a support ticket](https://hpc.pages.naiss.se/user-documentation/support-docs/contact/contact_support/)
 to request better documentation.
 
 To login to your HPC cluster via the terminal, one can use SSH

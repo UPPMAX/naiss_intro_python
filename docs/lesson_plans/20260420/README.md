@@ -22,12 +22,12 @@ I follow the five-step model from `[Bell, 2020]`, which are:
 
 I am unsure about my 'Feedback': I give 1-on-1 feedback in breakout rooms,
 but sometimes I do not want to disturb and let it slide.
-**Do you think my judgement is reasonable?**
+**Do you think my judgment is reasonable?**
 Alternatively, I do sometimes give
 Feedback in a plenary part, but because of the different levels of the
 learners, I do no want to disturb/stress/slow_down the learners
 and let this slide too.
-**Do you think my judgement here is reasonable?**
+**Do you think my judgment here is reasonable?**
 
 Taking a look at [the schedule](https://uppmax.github.io/naiss_intro_python/schedule/),
 this question feels best answered at the third hour, which is from 11:15-12:00.
