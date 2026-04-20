@@ -291,6 +291,9 @@ What happens when you run this script?
     python my_script.py
     ```
 
+    There will be no output.
+    No output is correct :-)
+
 ## Exercise 2.4: Question 1.12.6c
 
 Now change the script contents to:
