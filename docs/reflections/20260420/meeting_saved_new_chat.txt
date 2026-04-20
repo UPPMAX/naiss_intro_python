@@ -1,0 +1,151 @@
+2026-04-20 08:57:52 From [Person 1] To Everyone:
+	Thanks! Good morning everyone!
+	
+2026-04-20 09:13:29 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/
+	
+2026-04-20 09:17:25 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/introduction_getting_it_to_run/#exercises
+	
+2026-04-20 09:24:30 From [Teacher] Richèl 'Rea-shell' Bilderbeek To [Unknown, Dardell] [Person 2] (direct message):
+	Hi [Person 2], I see you filled in at the registration form to use 'a local HPC custer'. Where do you work?
+	
+2026-04-20 09:25:16 From [Unknown, Dardell] [Person 2] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	I work in [Department], Umeå University
+	
+2026-04-20 09:25:38 From [Teacher] Richèl 'Rea-shell' Bilderbeek To [Unknown, Dardell] [Person 2] (direct message):
+	Sounds like Kebnekase to me :-)
+	
+	Could that be correct?
+	
+2026-04-20 09:25:59 From [Unknown, Dardell] [Person 2] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Yes, I think so.
+	
+2026-04-20 09:26:16 From [Teacher] Richèl 'Rea-shell' Bilderbeek To [Unknown, Dardell] [Person 2] (direct message):
+	I assume you have logged in: it was a prerequisite...?
+	
+	Else, we'll try to help you today
+	
+2026-04-20 09:27:38 From [Unknown, Dardell] [Person 2] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Thank you!
+	
+2026-04-20 09:27:49 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/schedule/
+	
+2026-04-20 09:37:47 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/using_the_python_interpreter/
+	
+2026-04-20 09:42:34 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/using_the_python_interpreter/#exercises
+	
+2026-04-20 09:45:28 From [Alvis] [Person 3] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Richel, I feel that I am too experienced with python for this course, so I will leave for today and be back on wednesday. Thank you for today and good luck with todays lecture!
+	
+2026-04-20 09:47:33 From [Observer] [Person 4] To Everyone:
+	Do others have “transfer to room” at the bottom? It doesn’t seem to work the same way as “breakout rooms”
+	
+2026-04-20 10:15:07 From [LUNARC - Cosmos] [Person 5] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	I have just gotten back from LU and have not had a chance to apply for the account as we were supposed to. Is it possible to speed this up or should I come back for another course?
+	
+2026-04-20 10:44:15 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://docs.hpc2n.umu.se/documentation/access/
+	
+2026-04-20 10:44:26 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://youtu.be/pIiKOKBHIeY
+	
+2026-04-20 11:00:19 From [Kebnekaise] [Person 2] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Hi, I need to leave for 30 mins. Thank you!
+	
+2026-04-20 11:04:23 From [Tetralith] [Person 6] To Everyone:
+	sorry, I just joined now, I will try to catch up with the instructions
+	
+2026-04-20 11:05:47 From [Teacher] Richèl 'Rea-shell' Bilderbeek To [Tetralith] [Person 6] (direct message):
+	Hi [Person 6], no worrries, welcome to the course! I can get you someone willing to help you get started if you want. Would you like that?
+	
+2026-04-20 11:06:56 From [Tetralith] [Person 6] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	yes please!
+	
+2026-04-20 11:09:44 From [Teacher] Richèl 'Rea-shell' Bilderbeek To [Tetralith] [Person 6] (direct message):
+	Fun! You will get [Person 8].. I will set you two up now :-)
+	
+2026-04-20 11:10:14 From [Teacher] Richèl 'Rea-shell' Bilderbeek To [Pelle] [Person 8] (direct message):
+	Hi [Person 8], there is a new learner called [Person 6]. He would enjoy someone to bring him up to speed. Are you still up for that?
+	
+2026-04-20 11:14:17 From [Tetralith] [Person 6] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Replying to "Fun! You will get [Person 8].. I will set you two up...":
+	thank you!
+	
+2026-04-20 11:14:57 From [Person 2] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	I will be here, listening now for 30 mins.
+	
+2026-04-20 11:15:34 From [Pelle] [Person 8] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Replying to "Hi [Person 8], there is a new learner called [Person 6]....":
+	Sorry, I didn't see the message. Sure! I will stay until lunch :)
+	
+2026-04-20 11:24:05 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/working_with_python_scripts/#working-with-python-scripts
+	
+2026-04-20 11:24:27 From [Dardel] [Person 9] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	i am working with graphics
+	
+2026-04-20 11:25:35 From [Dardel] [Person 9] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	I would like to work alone with the graphics, is that ok?
+	
+2026-04-20 11:40:32 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	module load python/3.12.3 ; pip3 install matplotlib
+	
+2026-04-20 11:43:54 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	pip3 list
+	
+2026-04-20 11:56:33 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/HPC-python/index.html
+	
+2026-04-20 11:58:11 From [Dardel] [Person 10] To [Teacher] Richèl 'Rea-shell' Bilderbeek (direct message):
+	Thank you for today Richél! It was nice to see you again and learn from  you. Unfortunately I have to get back to my work. See you other days in the course!
+	
+2026-04-20 12:01:28 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://mobaxterm.mobatek.net/
+	
+2026-04-20 12:02:31 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	Lunch until 13:00 (sharp!) See you then!
+	
+2026-04-20 13:03:16 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/the_way_of_the_program/
+	
+2026-04-20 13:07:12 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/the_way_of_the_program/#exercises
+	
+2026-04-20 13:10:00 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	mobaXterm
+	
+2026-04-20 13:12:21 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/the_way_of_the_program/#exercises
+	
+2026-04-20 14:59:29 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	BREAKTIME! Please take a break until 15:15!
+	
+2026-04-20 15:29:00 From (Dardel) [Person 11] To Everyone:
+	Variables, expressions and statements, variables - Intro to Python for HPC
+	
+2026-04-20 15:34:21 From (Dardel) [Person 11] To Everyone:
+	
+	>>> 12 % 15
+	
+2026-04-20 15:40:30 From [Dardel] [Person 9] To Everyone:
+	Thanks for a great session! see you on Wednesday perhaps! Thanks Richel!
+	
+2026-04-20 15:42:26 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/summary/
+	
+2026-04-20 15:47:13 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/further_learning/
+	
+2026-04-20 15:48:41 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://docs.score.nbis.se/courses/
+	
+2026-04-20 15:51:02 From [Teacher] Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://docs.google.com/forms/d/e/1FAIpQLSeOIy0ipUL_yqUOb27Cb6xVjIhtJESHDlL_R8W1SiXLGAyGRQ/viewform
+	
+2026-04-20 15:52:34 From [Kebnekaise] [Person 12] To Everyone:
+	Thanks! It was great!
+	
