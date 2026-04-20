@@ -141,8 +141,8 @@ The later sessions focus on learning Python.
 
 ## Exercise 1: add your HPC cluster to your name
 
-Change your Zoom name, to include your HPC cluster and favorite
-programming language, e.g. make `Sven` into `[Alvis] Sven`.
+Change your Zoom name, to include your HPC cluster,
+e.g. make `Sven` into `[Alvis] Sven`.
 
 You can do so by right-click on the video of yourself,
 then click 'Rename' to change your Zoom name.
