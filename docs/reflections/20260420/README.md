@@ -21,6 +21,12 @@ input from the observer), then suddenly I was able to fix the problem.
 It was painful, though, to move all the learners into their
 own breakout rooms.
 
+I did prepare with the new Zoom update, on Friday (with my teaching
+assistant), on Sunday (with a random person) and this morning
+again  (with my teaching
+assistant). Still, it was my worry that made me draw a wrong
+conclusion initially.
+
 The new Zoom interface, however, is definitely more sluggish
 and less snappy when scrolling though breakout rooms. And with 20 breakout
 rooms in use, this made my jumping around way slower than usually.
@@ -33,7 +39,9 @@ Due to this, it took the first two hours to do session 1 (out of 3):
 'Using the Python interpreter'. I did round it off with a proper Feedback
 at 10:45. I regret that my observer already had left (I was aware, my
 course just went unexpectedly sluggish), as it will not help me answer
-my observationb question. I informed her of my regrets.
+my observationb question. I informed her of my regrets. I hope she
+has seen something that was interesting to her. She will be back
+later that day, let's hope that there is a proper Feedback then.
 
 In the third hour, I properly introduced the second session, with a proper
 Feedback at the end. 
