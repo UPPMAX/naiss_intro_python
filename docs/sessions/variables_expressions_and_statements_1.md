@@ -121,6 +121,22 @@ and record what happens when you rerun the program.
 
     Commenting out the first line:
 
+    ```python
+    #a = 'All'
+    b = 'work'
+    c = 'and'
+    d = 'no'
+    e = 'play'
+    f = 'makes'
+    g = 'Jack'
+    h = 'a'
+    i = 'dull'
+    j = 'boy'
+    print(a, b, c, d, e, f, g, h, i, j)
+    ```
+
+    Then, this gives the following error message:
+
     ```text
         print(a, b, c, d, e, f, g, h, i, j)
               ^
