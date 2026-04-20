@@ -43,9 +43,10 @@ I measured if I achieved my teaching goals:
 ![](goals.png)
 
 - 13x: Yes
-- 1x: No
-- 3x: No response. However, I know: 1x was done and 1x away. Only 1x I think
-  this may have been a 'no'
+- 1x: No (a Dardel user)
+- 3x: No response. However, I know: 1x was done (he just has Zoom problems)
+  and 1x away (he notified us). Only once I think
+  this *may* have been a 'no'
 
 Most negatively, I have 15 out of 17 is 88% of my learners that have achieved
 the goals of the morning session. I am unhappy with this. I hope this
