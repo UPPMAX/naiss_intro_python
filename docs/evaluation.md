@@ -19,7 +19,7 @@ This is the page for evaluating the current iteration of the course.
 Goal                                         |Form
 ---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------
 Share any feedback anonymously during the day|[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZHwlMBO11NemdpeelJ5RhLbepBClKlOaoBnhrHH2P9tYqTA/viewform?usp=publish-editor)
-Evaluate the course anonymously              |[Course evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSe7yQMPboIL-SmHfRVyGIt3gvdeauFMQQj-GIpgZ_TA7fYSDw/viewform?usp=publish-editor)
+Evaluate the course anonymously              |[Course evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSeOIy0ipUL_yqUOb27Cb6xVjIhtJESHDlL_R8W1SiXLGAyGRQ/viewform?usp=publish-editor)
 
 <!-- markdownlint-enable MD013 -->
 

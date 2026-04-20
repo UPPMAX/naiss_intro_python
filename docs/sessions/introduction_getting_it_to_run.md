@@ -152,7 +152,7 @@ then click 'Rename' to change your Zoom name.
 The goal of this exercise is to find out
 what you will learn today.
 
-- Go to [this form](https://docs.google.com/forms/d/e/1FAIpQLScUCzk3mzYBBRLjh3_JO6kSqYDhTYqQ2azcatIoCzTXTxBhLA/viewform?usp=publish-editor)
+- Go to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeJ1ZmexYF-0nQoKEI_dHxLF7RmfhQJ2L45wVmUVlePg4CBpw/viewform?usp=publish-editor)
   and fill it in
 
 ???- question "For teachers: what is in that form?"
