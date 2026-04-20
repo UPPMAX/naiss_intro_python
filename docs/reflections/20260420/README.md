@@ -72,3 +72,7 @@ and 1 about the COSMOS documentation.
 My intern was a great help! I have not been able to check him,
 but I do know him a bit. I know we has helped some learners with their
 problems successfully. 
+
+In the end of the afternoon, I have been able to speak with all learners
+1-on-1 at least once. Even though I wish I would have had more contact with
+them, this course iteration did not work well enough for that.
