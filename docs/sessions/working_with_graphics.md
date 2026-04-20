@@ -205,7 +205,7 @@ a clumsy option that works too.
     Alvis      |`module load matplotlib`
     Bianca     |Not needed: no registrations
     COSMOS     |`module load GCC/13.3.0 matplotlib/3.9.2`
-    Dardel     |`module load PDCOLD/23.12 matplotlib/3.8.2-cpeGNU-23.12`
+    Dardel     |`module load python/3.12.3 ; pip3 install matplotlib`
     Kebnekaise |`module load GCC/13.2.0 matplotlib/3.8.2`
     LUMI       |Not needed: no registrations
     Pelle      |`module load matplotlib`
