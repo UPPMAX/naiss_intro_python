@@ -9,6 +9,10 @@ tags:
 
     Go to [evaluation](../evaluation.md) (singular) :-)
 
+???- question "Where can I find other (non-evaluation) data about past courses?"
+
+    At [the 'data' page](../data/README.md)
+
 Here are the evaluation results of this course:
 
 No |Date      |Evaluations                     |Success score
