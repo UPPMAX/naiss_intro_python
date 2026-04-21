@@ -43,7 +43,7 @@ it took the first two hours to do session 1 (out of 3):
 'Using the Python interpreter'. I did round it off with a proper Feedback
 at 10:45. I regret that my observer already had left (I was aware, my
 course just went unexpectedly sluggish), as it will not help me answer
-my observationb question. I informed her of my regrets. I hope she
+my observation question. I informed her of my regrets. I hope she
 has seen something that was interesting to her. She will be back
 later that day, let's hope that there is a proper Feedback then.
 
