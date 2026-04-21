@@ -20,7 +20,7 @@ No |Date      |Evaluations                     |Success score
 5  |2025-10-14|[Evaluation](20251014/README.md)|[95%](20251014/success_score.txt)
 6  |2025-11-27|[Evaluation](20251127/README.md)|[90%](20251127/success_score.txt)
 7  |2026-03-03|[Evaluation](20260303/README.md)|[88%](20260303/success_score.txt)
-8  |2026-04-20|[Evaluation](20260420/README.md)|.
+8  |2026-04-20|[Evaluation](20260420/README.md)|[84%](20260420/success_score.txt)
 
 - The 'Success score' is the average confidence the learners
   have on each of the learning outcomes of the course
