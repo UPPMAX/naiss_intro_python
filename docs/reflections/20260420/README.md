@@ -8,12 +8,12 @@
 
 ## 12:06
 
-The morning felt sluggish. 
+The morning felt sluggish.
 
 I was worried about the new Zoom update
 causing problems. That **worry** was what caused part of the problem.
 The clearest example was when I opened the breakout rooms.
-I *intended* to allow learners to move around freely. 
+I *intended* to allow learners to move around freely.
 However, it behaved differently. The observer stated that I may have
 clicked the wrong thing. I felt confident I did the right thing and felt it
 was likelier that Zoom was the problem. Turned out: she was right. When
@@ -48,11 +48,11 @@ has seen something that was interesting to her. She will be back
 later that day, let's hope that there is a proper Feedback then.
 
 In the third hour, I properly introduced the second session, with a proper
-Feedback at the end. 
+Feedback at the end.
 
 I measured if I achieved my teaching goals:
 
-![](goals.png)
+![Poll of teaching goals being reached](goals.png)
 
 - 13x: Yes
 - 1x: No (a Dardel user)

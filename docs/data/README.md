@@ -25,7 +25,6 @@ No |Date      |Source                                         |`Nr`|`Nlm`|`Nla`|
 - `Ne`: Number of evaluations filled in. `.` means 'Not measured'
 
 
-
 ## Number of learners present
 
 No |Date      |Data
@@ -52,5 +51,7 @@ No |Date      |Source                                         |`Aic`|`Afc`
 
 <!-- markdownlint-enable MD013 -->
 
-- `Aic`: average initial confidence, one a scale from zero (none) to five ('I can absolutely do this'). `.` means 'Not measured'
-- `Afc`: average final confidence, one a scale from zero (none) to five ('I can absolutely do this'). `.` means 'Not measured'
+- `Aic`: average initial confidence, one a scale from zero (none) to five
+  ('I can absolutely do this'). `.` means 'Not measured'
+- `Afc`: average final confidence, one a scale from zero (none) to five
+  ('I can absolutely do this'). `.` means 'Not measured'
