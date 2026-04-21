@@ -20,8 +20,6 @@
 
 ## Feedback
 
-From [any_feedback.csv](any_feedback.csv):
-
 ![No feedback](no_any_feedback_responses.png)
 
 No feedback here.
