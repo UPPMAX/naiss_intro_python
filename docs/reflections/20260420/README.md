@@ -109,15 +109,29 @@ with the most important first:
 [The anonymous feedback for the whole day](../../evaluations/20260420/survey_end_text_question.txt):
 
 - Great course, thanks!
+
+:-)
+
 - Very good and concise yet cheerful and helpful teaching.
+
+I am happy that my conciseness is appreciated.
+
 - All good I think, I like the pace
+
+I am happy that following the pace of the learners is appreciated.
+
 - Great experience! I needed some time to catch up,
   but it was good to practice. I believe that I can learn Python! Thank You
+
+I am happy that I could take the time to let this learner catch up.
+The course goal has been achieved :-)
+
 - The first day of the Python course was really good.
   Richèl is a great teacher and made the course very enjoyable.
   I really appreciated that he provided the Python textbook,
   which was very helpful for learning more and completing the exercises.
 
+I am happy this learner enjoyed this day and the book.
 
 [Success score](../../evaluations/20260420/success_score.txt): 84%
 
