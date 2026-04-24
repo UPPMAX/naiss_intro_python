@@ -197,4 +197,10 @@ I conclude that 2.0 is a common value (i.e. not an outlier).
 
 ## Discussion with observer
 
+Questions:
+
+- How did you experience the pace of the session?
+- Did the parts of the introduction flow into each other naturally?
+- Was there a part that had an unclear purpose?
+
 ...
