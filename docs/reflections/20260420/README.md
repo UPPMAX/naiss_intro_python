@@ -186,3 +186,5 @@ Did I make a significant difference?
 
 <!-- markdownlint-enable MD013 -->
 
+Yes, it seems I have made a significant difference for all learning outcomes.
+This hints at all sessions being useful.
