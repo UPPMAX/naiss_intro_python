@@ -188,3 +188,9 @@ Did I make a significant difference?
 
 Yes, it seems I have made a significant difference for all learning outcomes.
 This hints at all sessions being useful.
+
+I wondered if the initial average self-confidence of 2.0
+was lower than usual and made an overview at
+[the 'data' page](../../data/#self-rated-confidence).
+With other initial average self-confidences of 3.1, 2.2, 3.1 and 1.9
+I conclude that 2.0 is a common value (i.e. not an outlier).
