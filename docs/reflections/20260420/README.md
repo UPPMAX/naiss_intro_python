@@ -139,6 +139,21 @@ I am happy this learner enjoyed this day and the book.
 
 ![Average confidence per question](../../evaluations/20260420/average_confidences_per_question.png)
 
+Let's go through the lowest rated ones:
+
+- 'I am comfortable using the documentation of my HPC center',
+  with an average confidence of 3.5: this is something that I cannot fix myself.
+  HPC centers vary in the quality of their documentation.
+  And worse: some do not even allow one/me to help improve it
+- 'I can run a Python script that uses a graphical library on an HPC cluster',
+  with an average confidence of 3.5:
+  this seems right, as we did not discuss this and, hence, only the faster
+  learners were able to do this.
+- 'I can read and write to/from a file in Python'
+  with an average confidence of 3.7:
+  this seems right, as we did not discuss this and, hence, only the faster
+  learners were able to do this.
+
 ![Confidences per question](../../evaluations/20260420/confidences_per_question.png)
 
 ![All confidences](../../evaluations/20260420/all_confidences_pre_post.png)
