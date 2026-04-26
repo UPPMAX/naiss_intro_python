@@ -33,7 +33,6 @@
     - For those that use Bianca, it may take some time to get a login node.
       Encourage those to try Pelle while waiting
 
-
 ## Why software modules are important
 
 Software modules allows users of any HPC cluster

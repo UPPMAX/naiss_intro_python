@@ -40,7 +40,6 @@
       what is the calculation you do in your head?'
     - What is the modulo operator?
 
-
 ## Overview
 
 In any non-trivial calculation, we want to let our computer remember

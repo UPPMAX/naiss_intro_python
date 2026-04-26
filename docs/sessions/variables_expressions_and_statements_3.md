@@ -40,7 +40,6 @@
     - In which ways can we get user input?
     - Why would you want to use user input in your program?
 
-
 ## Overview
 
 In any non-trivial calculation, we want to let our computer remember

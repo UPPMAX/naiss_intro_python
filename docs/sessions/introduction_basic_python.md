@@ -41,7 +41,6 @@ both are equally fine.
       python_packages --> |allow to use| command_line_arguments
     ```
 
-
 In these sessions, we use the book
 [How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html).
 
@@ -65,4 +64,3 @@ Hour|Book chapter                                                               
 .   |(fast) Your favorite chapter                                                                  |Learn what you need most
 
 <!-- markdownlint-enable MD013 -->
-

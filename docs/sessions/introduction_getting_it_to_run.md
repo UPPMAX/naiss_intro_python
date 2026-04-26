@@ -17,7 +17,6 @@ an HPC cluster and is aimed at complete beginners.
     - Have included HPC cluster name in Zoom username,
       e.g. `[Dardel] Sven Svensson`
 
-
 ???- question "For teachers: Lesson plan"
 
     Prior questions:

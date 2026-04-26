@@ -47,7 +47,6 @@ Then do:
 - Run that code
 - Verify that it works as expected
 
-
 ## Exercise 2: read and create a simple text file
 
 Read the following sections of
@@ -84,7 +83,6 @@ with the lines in reversed order
     ```
 
     In modern Python, there are better solutions.
-
 
 ???- info "A better solution"
 
