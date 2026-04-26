@@ -134,8 +134,8 @@ Teaching form:
 
 - Use rooms called after the HPC clusters first. Keep these
   rooms until all have logged in
-  - [x] Check how easy this is to do in Zoom
-    - This needs to be done by hand. Hence, use a table instead
+    - [x] Check how easy this is to do in Zoom
+        - This needs to be done by hand. Hence, use a table instead
 - Randomly shuffle people when we start doing 'regular Python'
 
 With that, I think I am ready to go!

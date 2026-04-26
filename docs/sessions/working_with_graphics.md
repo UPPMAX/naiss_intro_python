@@ -220,20 +220,20 @@ However, it is quite practical to be able to see your plot directly.
 - Login to your HPC cluster in a way that allows for graphics
   (if you have not done so already).
   There are two ways:
-  - Login to the **remote desktop environment** of your HPC cluster:
+    - Login to the **remote desktop environment** of your HPC cluster:
       a remote desktop environment has graphics enabled.
       You can find an overview at
       [this course's FAQ 'How can I login to an HPC cluster'](https://uppmax.github.io/naiss_intro_python/faq/#how-can-i-login-to-an-hpc-cluster).
-  - Login via **SSH with X-forwarding enabled**:
+    - Login via **SSH with X-forwarding enabled**:
       this allows displaying simple graphics.
       In short: use `ssh -X [username]@[hpc_cluster]`
       (instead of omitting the `-X`).
       This may already work or this may never work.
 
 - View the plot:
-  - In a remote desktop environment, this is straightforward:
+    - In a remote desktop environment, this is straightforward:
       click on the image from a file explorer
-  - When using SSH with X-forwarding enabled:
+    - When using SSH with X-forwarding enabled:
       use the way as shown below in the table.
 
 !!! info "How display an image in SSH with X-forwarding enabled"

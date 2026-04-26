@@ -218,6 +218,8 @@ Let's take a look at that email..
 
 ???- question "What is the email text?"
 
+    <!-- markdownlint-disable MD013 --><!-- Verbatim text cannot be split up over lines, hence will break 80 characters per line -->
+
     ```text
     Hello!
 
@@ -337,6 +339,8 @@ Let's take a look at that email..
 
     Sahar, Richel, Pedro, Jayant, Björn, Birgitte
     ```
+
+    <!-- markdownlint-enable MD013 -->
 
 I feel it is mostly the length of the email that may make the learners
 uncomfortable. The mentioning of recording is not that prominent.
