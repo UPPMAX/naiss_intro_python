@@ -70,7 +70,6 @@ I wonder where that quick skip from basic to intermediate happened.
 I'd guess at file IO, which indeed is a jump from book chapter 3 to chapter 13.
 Next time, I should invest some time in bridging this gap.
 
-
 > For the Python session in the last day, we got a lot of practice time
 > but time was much behind
 > the schedule. I was also stuck with some errors.

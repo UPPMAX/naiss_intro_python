@@ -36,7 +36,6 @@ From [survey_end_text_question.txt](survey_end_text_question.txt):
   I really appreciated that he provided the Python textbook,
   which was very helpful for learning more and completing the exercises.
 
-
 ## Analysis, only end
 
 - script used: [analyse.R](analyse.R)
@@ -81,4 +80,3 @@ From [survey_end_text_question.txt](survey_end_text_question.txt):
 |I can read and write to/from a file in Python                             | 1.7619048|       3.7| 0.0072581|TRUE      |
 
 <!-- markdownlint-enable MD013 -->
-

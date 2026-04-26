@@ -38,9 +38,7 @@ Please make sure you've done all your prerequisites and if yes, see you on Octob
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
-
 `[Zoom invite text]`
-
 
 ## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps (course project)
 
@@ -76,7 +74,6 @@ Please make sure you've done all your prerequisites and if yes, see you on Octob
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
-
 `[Zoom invite text]`
 
 ## Welcome to the 'Intro to Python for HPC' course of 2025-10-14 last steps (own project)
@@ -109,7 +106,6 @@ If you have any questions, never hesitate to contact me.
 Please make sure you've done all your prerequisites and if yes, see you on October 14th 9:00 (sharp!) at the Zoom room below this email.
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
-
 
 `[Zoom invite text]`
 

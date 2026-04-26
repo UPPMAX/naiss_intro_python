@@ -67,7 +67,6 @@ From [survey_end.csv](survey_end.csv):
 
 From emails:
 
-
 ```bash
 Dear Richel,
 
@@ -84,7 +83,6 @@ Thank you very much for today. I will fill in the evaluation.
 Best regards,
 [name]
 ```
-
 
 ## Analysis, only end
 
@@ -130,4 +128,3 @@ Best regards,
 |I can read and write to/from a file in Python                             | 1.6190476|  4.000000| 0.0008541|TRUE      |
 
 <!-- markdownlint-enable MD013 -->
-

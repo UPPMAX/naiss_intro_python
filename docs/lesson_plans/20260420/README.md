@@ -4,7 +4,6 @@
 - Working form: mostly in breakout rooms
 - Registrations: 50
 
-
 ## Question to observer
 
 Goal of the meeting:

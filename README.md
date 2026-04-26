@@ -25,4 +25,3 @@ Filename                                    |Description
 [`.markdownlintignore`](.markdownlintignore)|Files ignored by the Markdown linter, use [`./scripts/fix_markdown_style_errors.sh`](scripts/fix_markdown_style_errors.sh) to do markdown linting locally
 
 <!-- markdownlint-enable MD013 -->
-

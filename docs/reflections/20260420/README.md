@@ -351,7 +351,7 @@ to encourage camera usage.
 She said the parts flowed naturally into one another. She did mention
 that the Priors felt rushed. And I agree with that. My intention
 is to ask a question, wait three seconds and then prompt for an answer.
-I feel that due to Zoom uncertainty I went too quick. 
+I feel that due to Zoom uncertainty I went too quick.
 
 - [ ] Wait 3 seconds after asking a question in the Prior
 
@@ -360,7 +360,7 @@ visually as text. I agreed with that idea; to have two types of inputs
 and I did look for captions in Zoom (and could not find it).
 However, I feel I should at least try this once, to see how this feels.
 
-- [ ] Try out two input methods for asking a question in the Prior 
+- [ ] Try out two input methods for asking a question in the Prior
 
 - Was there a part that had an unclear purpose?
 

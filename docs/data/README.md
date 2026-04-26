@@ -24,7 +24,6 @@ No |Date      |Source                                         |`Nr`|`Nlm`|`Nla`|
 - `Nla`: Number of learners in the afternoon. `.` means 'Not measured'
 - `Ne`: Number of evaluations filled in. `.` means 'Not measured'
 
-
 ## Number of learners present
 
 No |Date      |Data

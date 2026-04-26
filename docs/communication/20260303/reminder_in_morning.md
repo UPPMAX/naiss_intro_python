@@ -44,7 +44,6 @@ If you have any questions, I will be in the Zoom room earlier :-)
 
 See you at 13:00 (sharp!) in the Zoom room below!
 
-
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
 `[Zoom invite text]`

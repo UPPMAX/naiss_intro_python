@@ -72,25 +72,25 @@ this: learners can change their name themselves.
 ## Feedback Linus
 
 - What went well?
-    - All students went through all of the important things
-        - RB: definitely!
-    - Sending more advanced Python students home was a good thing;
+  - All students went through all of the important things
+    - RB: definitely!
+  - Sending more advanced Python students home was a good thing;
       they came there for the HPC part
-        - RB: agree
-    - Exercises and material is very good
+    - RB: agree
+  - Exercises and material is very good
 
 - What are features of the course?
 
-    - Some learners get lost in the book (it's a good book),
+  - Some learners get lost in the book (it's a good book),
       doing exercises on their own
 
 - What could be improved?
 
-    - Students that already know Python could be sent back home earlier
-        - RB: agree, at 11:00 we could let the first people go :-)
-    - Some learners do the exercises in the book and then forget about
+  - Students that already know Python could be sent back home earlier
+    - RB: agree, at 11:00 we could let the first people go :-)
+  - Some learners do the exercises in the book and then forget about
       the course material.
-        - RB: agree: remove the mention of the exercises in the book
+    - RB: agree: remove the mention of the exercises in the book
           and sent them to the exercises in the course material (only)
 
 ## Evaluation results

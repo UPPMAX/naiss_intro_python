@@ -37,7 +37,6 @@
 
 ![Confidences per question](confidences_per_question.png)
 
-
 ## Analysis, pre and post
 
 - [analyse_pre_post.R](analyse_pre_post.R)

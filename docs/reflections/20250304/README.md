@@ -6,7 +6,6 @@
 - Number of registrations: 63
 - Number of learners: 32 learners (50% show-up rate)
 
-
 ## Schedule
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
@@ -142,7 +141,6 @@ In Python, I can use a for loop|1.8|Agree: was not taught
   next but lowest: I need to create an image somewhere :-)
 
 - [ ] Add an image to show what an interpreter does
-
 
 Texts:
 

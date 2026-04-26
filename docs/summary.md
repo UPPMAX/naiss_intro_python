@@ -111,4 +111,3 @@ for v in xs:
     g.write(v)
 g.close()
 ```
-

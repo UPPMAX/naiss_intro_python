@@ -86,4 +86,3 @@ Negative feedback that I will not enjoy and not respond to:
  14:15-15:00   | File IO, command line arguments
  15:00-15:15   | Break
  15:15-16:00   | Graphics, functions
-

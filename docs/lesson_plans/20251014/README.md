@@ -49,4 +49,3 @@ Let's first go through the last reflections:
   no time
 - [Low] Assume variables are understood well enough:
   no time
-

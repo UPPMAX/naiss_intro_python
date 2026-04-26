@@ -176,4 +176,3 @@ The course was appreciated as a beginner course and criticized for being to
 non-collaborative. I agree that there is room for improvement there!
 
 I would rate my own teaching a 7 out of 10, as the end was weak.
-

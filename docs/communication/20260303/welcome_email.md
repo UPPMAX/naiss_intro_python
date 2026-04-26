@@ -33,9 +33,7 @@ Please make sure you've done all your prerequisites and if yes, see you on March
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
-
 `[Zoom invite text]`
-
 
 ## `[Email 3a]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (course project)
 
@@ -73,7 +71,6 @@ Please make sure you've done all your prerequisites and if yes, see you on March
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
-
 `[Zoom invite text]`
 
 ## `[Email 3b]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (own project)
@@ -109,9 +106,7 @@ Please make sure you've done all your prerequisites and if yes, see you on March
 
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
-
 `[Zoom invite text]`
-
 
 ## `[Email 3c]` Welcome to the 'Intro to Python for HPC' course of 2026-03-03 last steps (no HPC)
 
@@ -140,7 +135,6 @@ Please make sure you've done all your prerequisites and if yes, see you on March
 Thanks and cheers, Richèl Bilderbeek, NAISS 'Intro to Python for HPC' main teacher
 
 `[Zoom invite text]`
-
 
 ## Reminder email: no SUPR account
 
