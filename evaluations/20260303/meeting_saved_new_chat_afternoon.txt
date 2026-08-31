@@ -1,0 +1,41 @@
+12:57:45 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://docs.score.nbis.se/courses/
+	
+13:04:55 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/introduction_basic_python/
+	
+13:06:56 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://uppmax.github.io/naiss_intro_python/sessions/the_way_of_the_program/
+	
+13:22:54 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	module unload
+	
+13:54:57 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	cpython
+	
+13:59:43 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://supr.naiss.se/round/
+	
+14:24:23 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	# print("Hello")
+	
+14:25:02 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	# Do something
+	
+14:55:07 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	# In-place reverse
+	list.reverse()
+	
+	# WILL NOT WORK!
+	new_list = list.reverse()
+	
+	# Will work
+	new_list = list.reversed()
+	
+	# Will work too :-)
+	new_list = list
+	new_list.reverse()
+	
+15:50:48 From Richèl 'Rea-shell' Bilderbeek To Everyone:
+	https://docs.google.com/forms/d/e/1FAIpQLSe7yQMPboIL-SmHfRVyGIt3gvdeauFMQQj-GIpgZ_TA7fYSDw/viewform?usp=publish-editor
+	
