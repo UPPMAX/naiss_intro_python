@@ -19,7 +19,6 @@ tags:
 
 Week    |Date                         |Times     |Registration closes|Registration form                                                                                                                          |Remarks
 --------|-----------------------------|----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------
-42      |?Tuesday 2026-10-13          |9:00-16:00|TBA                |TBA                                                                                                                                        |1-day stand-alone course
 47      |Monday 2026-11-16            |9:00-16:00|TBA                |TBA                                                                                                                                        |As part of [the 5-day HPC Python course](https://uppmax.github.io/HPC-python/index.html)
 
 <!-- markdownlint-enable MD013 -->
