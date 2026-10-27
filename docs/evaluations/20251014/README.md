@@ -31,7 +31,7 @@ From [survey_end.csv](survey_end.csv):
 
 - On the whole I feel the course was good, just not on the right level for me.
   However, the materials for the 4-day course
-  (<https://uppmax.github.io/HPC-python/index.html>)
+  (<https://hpc.pages.naiss.se/training/HPC-python/>)
   led me to some more advanced stuff: automatic code optimization with Numba,
   and indirectly to automatic parallelization with DECO.
 - Very nice course for the Python beginner!
