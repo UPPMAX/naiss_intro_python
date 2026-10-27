@@ -14,7 +14,7 @@ This course is aimed at complete beginners.
 
 Below are the learning outcomes of this course,
 as copied from [its evaluation](evaluation.md).
-The course is learner-centered ([why?](faq.md#why-is-the-course-learner-centered)),
+The course is learner-centered ([why?](faq/README.md#why-is-the-course-learner-centered)),
 hence the pace is determined be the learners (i.e. not by the clock).
 
 These are the two main goals:
@@ -51,9 +51,9 @@ These are non-goals:
 
 Non-goal                                 |Example of course that does teach this
 -----------------------------------------|--------------------------------------------------------------
-Run useful calculations                  |[The NAISS HPC Python course 'Basic batch and Slurm' session](https://uppmax.github.io/HPC-python/day2/basic_batch_slurm.html)
-Use parallel computations                |[The NAISS HPC Python course 'Parallel computing' session](https://uppmax.github.io/HPC-python/day4/parallel.html)
+Run useful calculations                  |[The NAISS HPC Python course 'Basic batch and Slurm' session](https://hpc.pages.naiss.se/training/HPC-python/day2/basic_batch_slurm/)
+Use parallel computations                |[The NAISS HPC Python course 'Parallel computing' session](https://hpc.pages.naiss.se/training/HPC-python/day4/parallel/)
 Professional software development        |[The Programming Formalisms course](https://uppmax.github.io/programming_formalisms/)
-The software module system               |[The NAISS HPC Python course 'Using packages' session](https://uppmax.github.io/HPC-python/day2/use_packages.html)
-Matplotlib                               |[The NAISS HPC Python course 'Matplotlib' session](https://uppmax.github.io/HPC-python/day3/matplotlib/README.html)
+The software module system               |[The NAISS HPC Python course 'Using packages' session](https://hpc.pages.naiss.se/training/HPC-python/day2/use_packages/)
+Matplotlib                               |[The NAISS HPC Python course 'Matplotlib' session](https://hpc.pages.naiss.se/training/HPC-python/day3/matplotlib/)
 Transferring files to/from an HPC cluster|[The NAISS 'Connecting and File Transfer' course](https://hpc.pages.naiss.se/training/connect-transfer/)

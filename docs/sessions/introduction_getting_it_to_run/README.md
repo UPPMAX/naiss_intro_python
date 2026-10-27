@@ -9,13 +9,13 @@ an HPC cluster and is aimed at complete beginners.
 
     - Understand the learning outcomes of this part of the day
     - Understand how this part of the day is organized
-    - Can find the [schedule](../schedule.md)
+    - Can find the [schedule](../../schedule.md)
     - Have seen where to put
-      [anonymous feedback during the day](../evaluation.md)
+      [anonymous feedback during the day](../../evaluation.md)
     - Have seen
-      [the evaluation form](../evaluation.md)
+      [the evaluation form](../../evaluation.md)
     - Have included HPC cluster name in Zoom username,
-      e.g. `[Dardel] Sven Svensson`
+      e.g. `[Arrhenius] Svante`
 
 ???- question "For teachers: Lesson plan"
 

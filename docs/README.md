@@ -20,7 +20,7 @@ on the NAISS HPC clusters.
 [Learning outcomes](learning_outcomes.md){ .md-button .md-button--primary }
 [Course dates](course_dates.md){ .md-button .md-button--primary }
 [Schedule](schedule.md){ .md-button .md-button--primary }
-[Getting it to run](sessions/introduction_getting_it_to_run.md){ .md-button .md-button--primary }
-[Basic Python](sessions/introduction_basic_python.md){ .md-button .md-button--primary }
+[Getting it to run](sessions/introduction_getting_it_to_run/README.md){ .md-button .md-button--primary }
+[Basic Python](sessions/introduction_basic_python/README.md){ .md-button .md-button--primary }
 
 <!-- markdownlint-enable MD013 -->

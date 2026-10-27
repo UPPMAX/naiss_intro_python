@@ -5,7 +5,7 @@ repo_url = "https://github.com/UPPMAX/naiss_intro_python"
 edit_uri = "blob/main/docs/"
 
 nav = [
-  { "Start" = "index.md"},
+  { "Start" = "README.md"},
   {"Learning outcomes" = "learning_outcomes.md"},
   {"Prerequisites" = "prereqs/README.md"},
   {"Course dates" = "course_dates.md"},

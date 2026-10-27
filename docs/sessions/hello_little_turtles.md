@@ -285,18 +285,18 @@ wn.mainloop()             # Wait for user to close window
 HPC Cluster|Python version
 -----------|--------------
 Alvis      |`3.12.3`
+Arrhenius  |TODO
 Bianca     |`3.11.4`
 COSMOS     |`3.11.5`
 Dardel     |`3.12.3`
 Kebnekaise |`3.11.3`
 LUMI       |`3.11.7`
 Pelle      |`3.13.1`
-Rackham    |`3.12.7`
 Tetralith  |`3.10.4`
 
 ???- question "Reminder"
 
-    See [Exercise 3 of 'Using the Python interpreter'](using_the_python_interpreter.md#exercise-3-load-the-python-module)
+    See [Exercise 3 of 'Using the Python interpreter'](using_the_python_interpreter/README.md#exercise-3-load-the-python-module)
 
 - Run the script on your HPC cluster using `python`
   (now: with the modules loaded).
@@ -308,13 +308,13 @@ Tetralith  |`3.10.4`
     HPC Cluster|Will `turtle` work with modules loaded?
     -----------|-------------------------------------------------------
     Alvis      |?
+    Arrhenius  |?
     Bianca     |Never
     COSMOS     |Yes
     Dardel     |TODO
     Kebnekaise |?
     LUMI       |?
     Pelle      |Yes
-    Rackham    |Yes
     Tetralith  |Yes
 
     Here is the error:
