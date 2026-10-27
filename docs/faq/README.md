@@ -122,25 +122,7 @@ Register at [https://supr.naiss.se/person/register/](https://supr.naiss.se/perso
 
 ### Which HPC cluster should I use?
 
-There are the HPC clusters that have worked-out answers to the exercises:
-
-<!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
-
-HPC cluster name|Description
-----------------|------------------------------------------------------------
-Alvis           |AI focussed, uses SSH keys for authentication
-Bianca          |Sensitive data, uses passwords and two-factor authentication
-COSMOS          |General-purpose, Lund university staff only
-Dardel          |General-purpose, uses SSH keys for authentication
-Kebnekaise      |General-purpose, Umeå university staff only
-LUMI            |General-purpose for heavy calculations, uses SSH keys for authentication, use containers to make software available
-Pelle           |General-purpose, uses passwords for authentication
-Rackham         |General-purpose, Uppsala university staff only. Being decommissioned
-Tetralith       |General-purpose, uses passwords for authentication
-
-<!-- markdownlint-enable MD013 -->
-
-Without any additional information, Tetralith is recommended.
+The Arrhenius HPC cluster.
 
 ### How can I login to an HPC cluster?
 
@@ -153,6 +135,8 @@ HPC cluster|Login method             |Documentation                             
 -----------|-------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------
 Alvis      |SSH                      |[Documentation](https://www.c3se.chalmers.se/documentation/connecting/ssh/)                                  |[YouTube video](https://youtu.be/PJZ3W907qCU)
 Alvis      |**Website**              |[Documentation](https://www.c3se.chalmers.se/documentation/connecting/remote_graphics/)                      |[YouTube video](https://youtu.be/KO98JvEB2oc)
+Arrhenius  |SSH                      |[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/login/login/)       |[YouTube video](https://youtu.be/oBTzgT3ODjM)
+Arrhenius  |**Local ThinLinc client**|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/login/thinlinc/)    |[YouTube video](https://youtu.be/7fBitTggm7E)
 Bianca     |SSH                      |[Documentation](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)                    |[YouTube video](https://youtu.be/7mKDxnXqi_M)
 Bianca     |**Website**              |[Documentation](https://docs.uppmax.uu.se/getting_started/login_bianca_remote_desktop_website/)              |[YouTube video](https://youtu.be/Ni9nyCf7me8)
 COSMOS     |**Local ThinLinc client**|[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/using_hpc_desktop/)    |[YouTube video](https://youtu.be/wn7TgElj_Ng)
@@ -179,8 +163,8 @@ Tetralith  |SSH                      |[Documentation](https://www.nsc.liu.se/sup
     How it looks like                                                         |How to access your HPC cluster               | Features
     --------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------
     ![Website](rackham_remote_desktop_via_website_480_x_270.png)              | Remote desktop via a website                | Familiar remote desktop, clumsy, clunky, no need to install software, not available at all centers
-    ![Local ThinLinc client](thinlinc_local_rackham_zoom.png)                 | Remote desktop via a local ThinLinc client  | Familiar remote desktop, clumsy, need to install ThinLinc
-    ![Console environment](login_rackham_via_terminal_terminal_409_x_290.png) | Console environment using an SSH client     | A console environment, powerful, need to install an SSH client
+    ![Local ThinLinc client](login_thinlinc_arrhenius.png)                    | Remote desktop via a local ThinLinc client  | Familiar remote desktop, clumsy, need to install ThinLinc
+    ![Console environment](login_console_arrhenius.png)                       | Console environment using an SSH client     | A console environment, powerful, need to install an SSH client
 
     <!-- markdownlint-enable MD013 -->
 
