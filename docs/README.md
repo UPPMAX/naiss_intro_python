@@ -22,6 +22,6 @@ on the NAISS HPC clusters.
 [Schedule](schedule.md){ .md-button .md-button--primary }
 [Getting it to run](sessions/introduction_getting_it_to_run/README.md){ .md-button .md-button--primary }
 [Basic Python](sessions/introduction_basic_python/README.md){ .md-button .md-button--primary }
-[Videos](videos.md){ .md-button .md-button--primary }
+[Videos](sessions/videos.md){ .md-button .md-button--primary }
 
 <!-- markdownlint-enable MD013 -->
