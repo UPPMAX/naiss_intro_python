@@ -155,5 +155,5 @@ the things below?
 - Where to [share anonymous feedback during the day](../../evaluation.md)
 - Where to [evaluate the course](../../evaluation.md)
 - [Further learning](../../further learning.md)
-- [The frequently asked questions](../../faq.md)
+- [The frequently asked questions](../../faq/README.md)
 - [Earlier evaluation results](../../evaluations/README.md)

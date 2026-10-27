@@ -54,7 +54,7 @@ nav = [
 #variant = "classic"
 
 # https://zensical.org/docs/customization/#extending-the-theme
-custom_dir = "docs/overrides"
+#custom_dir = "docs/overrides"
 
 # favicon = "favicon.ico"
 logo = "logo/naiss_logo_white.png"

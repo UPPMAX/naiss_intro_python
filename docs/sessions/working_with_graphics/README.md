@@ -79,6 +79,7 @@ a clumsy option that works too.
     HPC Cluster|YouTube video
     -----------|-------------------------------------
     Alvis      |[YouTube video](https://youtu.be/s90KtPCByK0)
+    Arrhenius  |TODO
     Bianca     |Not needed: no registrations
     COSMOS     |[YouTube video](https://youtu.be/Vexc7VgPTL0)
     Dardel     |[YouTube video](https://youtu.be/McMIgozEVC0)
@@ -98,6 +99,8 @@ a clumsy option that works too.
     HPC cluster name|Environment   |Documentation|How to view images?   |Difficulty
     ----------------|--------------|-------------|----------------------|----------
     Alvis           |Console       |None         |ImageMagick           |Hard
+    Arrhenius       |Console       |TODO         |TODO                  |TODO
+    Arrhenius       |Remote desktop|TODO         |TODO                  |TODO
     Bianca          |Console       |Excellent    |Copy to local computer|Medium
     COSMOS          |Console       |None         |Present               |Medium
     Dardel          |Console       |None         |ImageMagick           |**Impossible?**
@@ -117,11 +120,12 @@ a clumsy option that works too.
 ???- question "Answer"
 
     We did this in the previous session,
-    ['Working with Python scripts'](working_with_python_scripts.md).
+    ['Working with Python scripts'](../working_with_python_scripts/README.md).
 
     HPC Cluster|How to run `nano`
     -----------|-------------------------------------
     Alvis      |`nano create_plot.py`
+    Arrhenius  |`nano create_plot.py`
     Bianca     |`nano create_plot.py`
     COSMOS     |`nano create_plot.py`
     Dardel     |`module load nano ; nano create_plot.py`
@@ -175,6 +179,7 @@ a clumsy option that works too.
     HPC Cluster|Documentation
     -----------|----------------------------------------------------------
     Alvis      |:warning: [Closest documentation](https://www.c3se.chalmers.se/documentation/module_system/python/?h=matplotlib#matplotlib)
+    Arrhenius  |TODO
     Bianca     |Not needed: no registrations
     COSMOS     |:warning: [Closest documentation](https://lunarc-documentation.readthedocs.io/en/latest/software/installed_software/)
     Dardel     |:warning: None
@@ -202,6 +207,7 @@ a clumsy option that works too.
     HPC Cluster|Documentation
     -----------|----------------------------------------------------------
     Alvis      |`module load matplotlib`
+    Arrhenius  |TODO
     Bianca     |Not needed: no registrations
     COSMOS     |`module load GCC/13.3.0 matplotlib/3.9.2`
     Dardel     |`module load python/3.12.3 ; pip3 install matplotlib`

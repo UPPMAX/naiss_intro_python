@@ -109,7 +109,7 @@ These exercises will ensure you are able to run a minimal Python program.
 
 Login to your favorite HPC cluster.
 This should be easy, as this is
-[a prerequisite for this course](../prereqs/README.md).
+[a prerequisite for this course](../../prereqs/README.md).
 
 ## Exercise 2: load the Python module
 

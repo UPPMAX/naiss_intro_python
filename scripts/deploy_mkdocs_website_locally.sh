@@ -18,4 +18,6 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
+mkdocs build --strict
+
 mkdocs serve
