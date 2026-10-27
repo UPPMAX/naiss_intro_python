@@ -8,7 +8,7 @@ tags:
 
 !!! info "The course is learner-centered"
 
-    The course is learner-centered ([Why?](faq.md#why-is-the-course-learner-centered)).
+    The course is learner-centered ([Why?](faq/README.md#why-is-the-course-learner-centered)).
     This means that the pace is determined
     be the learners (i.e. not by the clock).
 
