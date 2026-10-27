@@ -15,7 +15,7 @@ tags:
 
     > Great course. Now, Python is not scary anymore.
 
-    A learner from this course ([source](evaluations/20240830/README.md))
+    A learner from this course ([source](../evaluations/20240830/README.md))
 
 When you want to get started with Python.
 
@@ -37,7 +37,7 @@ These are the reasons to consider to **not** follow this course:
     > But this really reinforced the basics for me
     > and I'm still glad that I did it.
 
-    A learner from this course ([source](evaluations/20240830/README.md))
+    A learner from this course ([source](../evaluations/20240830/README.md))
 
 When you have written your first scripts in Python and
 expect to learn new and more advanced things.
@@ -64,25 +64,25 @@ learner had to say on this:
     > As a learner, you do not want to be berated when giving an answer.
     > Richel tries to gently deal with a wrong answer and he does this great
 
-    A learner from this course ([source](https://uppmax.github.io/naiss_intro_python/evaluations/20240118/))
+    A learner from this course ([source](../evaluations/20240118/README.md))
 
 You are welcome to try and leave anytime you want.
 The course material is made for self-study too, with videos
 for all exercises.
-Do fill in [the evaluation](evaluation.md)
+Do fill in [the evaluation](../evaluation.md)
 when you leave early :-)
 
 ## Prerequisites
 
 ### What are the prerequisites for following this course?
 
-See [prerequisites](prereqs/README.md).
+See [prerequisites](../prereqs/README.md).
 
 ### How can I check if I have registered?
 
 You should have gotten an email within a couple of days.
 
-When it doubt, [contact the main teacher](contact_us.md).
+When it doubt, [contact the main teacher](../contact_us.md).
 
 ### How can I check if I have a user account on a Swedish academic HPC cluster?
 
@@ -98,15 +98,14 @@ When you can login at [https://supr.naiss.se/](https://supr.naiss.se/).
 
 At [the SUPR NAISS website](https://supr.naiss.se),
 in 'Projects', click on 'Request Membership in Project'
-and search for `NAISS 2026/4-278` or 'NAISS Intro to Python
-course' (pick the one for Tetralith!).
+and search for `NAISS 2026/4-1022` or 'NAISS training courses'.
 
 ### Where is the NAISS project for this course?
 
 Parameter|Value
 ---------|----------------------------------------------------------------------------
-Name     |NAISS Intro to Python course
-URL      |[`https://supr.naiss.se/project/37201`](https://supr.naiss.se/project/37201)
+Name     |NAISS training courses, fall 2026
+URL      |[`https://supr.naiss.se/project/38409/`](https://supr.naiss.se/project/38409/)
 
 ### I already have a project on a NAISS HPC cluster. Can I use that one?
 
@@ -195,7 +194,7 @@ Probably: yes
 
     > Thank you for creating very interactive [class] room
 
-    A learner from this course ([source](evaluations/20240830/README.md))
+    A learner from this course ([source](../evaluations/20240830/README.md))
 
 No.
 
@@ -210,7 +209,7 @@ It would be weird to the other learners.
 
     > I liked Ri-kjells teaching style!
 
-    A learner from this course ([source](evaluations/20240830/README.md))
+    A learner from this course ([source](../evaluations/20240830/README.md))
 
 Because that is good teaching.
 
@@ -268,7 +267,7 @@ Preferably:
 
 Else:
 
-- [Send an email to the main teacher](contact_us.md).
+- [Send an email to the main teacher](../contact_us.md).
   You should get a reply within a couple of days.
 
 ## References
