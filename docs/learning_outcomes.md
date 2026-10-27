@@ -24,7 +24,7 @@ Time     |Main goal
 Morning  |You have run Python code on an HPC cluster
 Afternoon|You have written your first Python code
 
-???- question "Subgoals of 'You have run Python code on an HPC cluster'"
+???- question "Sub-goals of 'You have run Python code on an HPC cluster'"
 
     Subgoals are:
 
@@ -37,7 +37,7 @@ Afternoon|You have written your first Python code
     - You have run a Python script
     - You have a Python script that uses a graphical library on your HPC cluster
 
-???- question "Subgoals of 'You have written your first Python code'"
+???- question "Sub-goals of 'You have written your first Python code'"
 
     Subgoals are:
 
