@@ -21,44 +21,31 @@ These are the two main goals:
 
 Time     |Main goal
 ---------|--------------------------------------------------
-Morning  |To be able to run Python code on an HPC cluster
-Afternoon|To be able to write your first Python code
+Morning  |You have run Python code on an HPC cluster
+Afternoon|You have written your first Python code
 
-You can be reasonably sure you'll achieve this:
+???- question "Subgoals of 'You have run Python code on an HPC cluster'"
 
-- I am comfortable using the documentation of my HPC center
-- I am comfortable using the Python book
-- I am comfortable learning Python
-- I can load a Python version on my HPC cluster
-- I can describe what the Python interpreter is
-- I can use a text editor on my HPC cluster
-- I can create a Python script
-- I can run a Python script
-- I can run a Python script that uses a graphical library on an HPC cluster
-- In Python, I can create a variable
-- In Python, I can use a variable
-- I can convert a simple equation to Python code
-- In Python, I can find and use the operator for exponentiation
-- In Python, I know what the modulo operator is and when to use it
-- I can convert a simple text question to Python code
-- In Python, I can write text to a file
+    Subgoals are:
 
-Here are the rest of the learning outcomes, each item being less and less
-likely to be discussed:
+    - You have used the documentation of your HPC center
+    - You have used a Python book
+    - You haved loaded Python on your HPC cluster
+    - You have started the Python interpreter
+    - You have used a text editor on your HPC cluster
+    - You have created a Python script
+    - You have run a Python script
+    - You have a Python script that uses a graphical library on your HPC cluster
 
-- In Python, I can ask a user for input
-- In Python, I can use user input in a calculation
-- I can find and use a Python module on my HPC cluster
-- In Python, I can read a file
-- In Python, I can create a file
-- In Python, I can use command-line arguments
-- In Python, I can import the `matplotlib` library
-- In Python, I can use a for loop
-- In Python,
-  I can write a function without an argument and without a return type
-- In Python, I can write a function that calls a function
-- In Python, I can write a function that requires an argument
-- In Python, I can write a function with a return value
+???- question "Subgoals of 'You have written your first Python code'"
+
+    Subgoals are:
+
+    - In Python, you have created a variable
+    - In Python, you have used a variable
+    - You have converted a simple equation to Python code
+    - You have converted a simple text question to Python code
+    - In Python, you have written text to a file
 
 These are non-goals:
 
