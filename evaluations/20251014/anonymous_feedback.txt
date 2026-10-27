@@ -1,0 +1,3 @@
+Timestamp,Any feedback?
+14/10/2025 09:27:06,Very well designed and beginner friendly training!
+14/10/2025 14:59:31,A very nice basic Python course for beginners who want to start using Python on HPC. The course website is very informative and tidy. Thanks a lot!

@@ -1,0 +1,14 @@
+question,mean
+I am comfortable learning Python,4.545454545454546
+I am comfortable using a Python book,4.363636363636363
+I am comfortable using the documentation of my HPC center,3.8181818181818183
+I can convert a simple equation to Python code,4.545454545454546
+I can convert a simple text question to Python code,4.454545454545454
+I can create a Python script,4.363636363636363
+I can create and use a variable in Python,4.636363636363637
+I can describe what the Python interpreter is,4.454545454545454
+I can load a Python version on my HPC cluster,4.454545454545454
+I can read and write to/from a file in Python,4
+I can run a Python script,5
+I can run a Python script that uses a graphical library on an HPC cluster,3.727272727272727
+I can use a text editor on my HPC cluster,4.909090909090909

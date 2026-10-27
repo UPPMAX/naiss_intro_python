@@ -1,0 +1,12 @@
+Timestamp,Give you confidence levels of the following statements below: [I am comfortable using the documentation of my HPC center],Give you confidence levels of the following statements below: [I am comfortable using a Python book],Give you confidence levels of the following statements below: [I am comfortable learning Python],Give you confidence levels of the following statements below: [I can login to my HPC cluster],Give you confidence levels of the following statements below: [I can load a Python version on my HPC cluster],Give you confidence levels of the following statements below: [I can describe what the Python programming language is],Give you confidence levels of the following statements below: [I can describe what the Python interpreter is],Give you confidence levels of the following statements below: [I can use a text editor on my HPC cluster],Give you confidence levels of the following statements below: [I can create a Python script],Give you confidence levels of the following statements below: [I can run a Python script],"Give you confidence levels of the following statements below: [In Python, I can create a variable]","Give you confidence levels of the following statements below: [In Python, I can use a variable]",Give you confidence levels of the following statements below: [I can convert a simple equation to Python code],"Give you confidence levels of the following statements below: [In Python, I can find and use the operator for exponentiation]","Give you confidence levels of the following statements below: [In Python, I know what the modulo operator is and when to use it]",Give you confidence levels of the following statements below: [I can convert a simple text question to Python code]
+14/10/2025 09:18:49,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2
+14/10/2025 09:19:41,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,3
+14/10/2025 09:20:39,2,1,3,5,5,1,1,4,0,3,1,1,0,0,0,0
+14/10/2025 09:21:05,1,1,3,3,0,1,0,3,3,3,3,3,3,2,1,2
+14/10/2025 09:21:16,4,4,4,4,3,3,3,3,2,3,0,0,0,0,0,0
+14/10/2025 09:21:23,2,3,4,4,3,4,4,2,5,5,4,4,4,1,1,3
+14/10/2025 09:21:44,4,2,3,3,0,1,0,1,0,0,0,0,0,0,0,0
+14/10/2025 09:21:51,3,3,4,3,3,3,2,1,2,2,5,4,4,4,4,2
+14/10/2025 09:22:19,3,0,2,5,4,2,1,5,1,1,1,1,1,0,0,0
+14/10/2025 09:22:47,0,2,3,4,1,1,1,1,1,3,1,1,1,0,0,1
+14/10/2025 09:22:53,3,0,2,5,4,0,0,4,2,2,0,1,1,0,0,0
