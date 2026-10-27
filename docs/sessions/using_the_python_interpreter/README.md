@@ -103,7 +103,6 @@ These exercises will ensure you are able to run a minimal Python program.
     LUMI            |No       |Yes           |No       |Reasonable   |Medium
     Kebnekaise      |No       |No            |No       |Good         |Easy
     Pelle           |No       |No            |No       |Excellent    |Easy
-    Rackham         |No       |No            |No       |Excellent    |Easy
     Tetralith       |No       |No            |Yes      |Good         |Easy
 
 ## Exercise 1: login to your HPC cluster

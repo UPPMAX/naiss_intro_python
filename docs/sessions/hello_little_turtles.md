@@ -102,7 +102,6 @@ Then:
     Kebnekaise |`ssh sven@kebnekaise.hpc2n.umu.se`
     LUMI       |`ssh -i ~/.ssh/id_rsa_lumi svensson@lumi.csc.fi`
     Pelle      |`ssh pelle@rackham.uppmax.uu.se`
-    Rackham    |`ssh sven@rackham.uppmax.uu.se`
     Tetralith  |`ssh x_svesv@tetralith.nsc.liu.se`
 
 - Do **not** load a Python module: it is the point of this exercise
