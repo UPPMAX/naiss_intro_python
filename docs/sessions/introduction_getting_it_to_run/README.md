@@ -126,11 +126,11 @@ an HPC cluster:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Session name                                                   |Goal
----------------------------------------------------------------|---------------------------------------------------
-[Using the Python interpreter](using_the_python_interpreter.md)|Run Python on HPC
-[Working with Python scripts](working_with_python_scripts.md)  |Run a Python script on HPC
-[Working with graphics](working_with_graphics.md)              |Run a Python script with something graphical on HPC
+Session name                                                             |Goal
+-------------------------------------------------------------------------|---------------------------------------------------
+[Using the Python interpreter](../using_the_python_interpreter/README.md)|Run Python on HPC
+[Working with Python scripts](../working_with_python_scripts/README.md)  |Run a Python script on HPC
+[Working with graphics](../working_with_graphics/README.md)              |Run a Python script with something graphical on HPC
 
 <!-- markdownlint-enable MD013 -->
 
@@ -151,9 +151,9 @@ then click 'Rename' to change your Zoom name.
 Explore the website of the course. Where you can you find
 the things below?
 
-- The [schedule](../schedule.md)
-- Where to [share anonymous feedback during the day](../evaluation.md)
-- Where to [evaluate the course](../evaluation.md)
-- [Further learning](../further learning.md)
-- [The frequently asked questions](../faq.md)
-- [Earlier evaluation results](../evaluations/README.md)
+- The [schedule](../../schedule.md)
+- Where to [share anonymous feedback during the day](../../evaluation.md)
+- Where to [evaluate the course](../../evaluation.md)
+- [Further learning](../../further learning.md)
+- [The frequently asked questions](../../faq.md)
+- [Earlier evaluation results](../../evaluations/README.md)
