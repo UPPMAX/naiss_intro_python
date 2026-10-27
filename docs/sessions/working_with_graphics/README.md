@@ -207,7 +207,7 @@ a clumsy option that works too.
     HPC Cluster|Documentation
     -----------|----------------------------------------------------------
     Alvis      |`module load matplotlib`
-    Arrhenius  |TODO
+    Arrhenius  |`module load buildtool-easybuild/5.2.1-hpca3ef7d197 GCC/14.3.0 matplotlib/3.10.5`
     Bianca     |Not needed: no registrations
     COSMOS     |`module load GCC/13.3.0 matplotlib/3.9.2`
     Dardel     |`module load python/3.12.3 ; pip3 install matplotlib`
@@ -249,6 +249,7 @@ However, it is quite practical to be able to see your plot directly.
     HPC Cluster|How to display an image
     -----------|-----------------------------------------------------------------------
     Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
+    Arrhenius  |`eog my_plot.png`
     Bianca     |Impossible: X-forwarding is disabled. Use a remote desktop.
     COSMOS     |`eog my_plot.png`
     Dardel     |`module load imagemagick/7.1.1-41 ; display my_plot.png`
@@ -285,4 +286,4 @@ However, it is quite practical to be able to see your plot directly.
 
     In a remote desktop environment, this looks like:
 
-    ![The minimal plot on Dardel](working_with_graphics_plot_on_dardel.png)
+    ![The minimal plot on Arrhenius HPC](working_with_graphics_plot_on_arrhenius_console.png)
