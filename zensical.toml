@@ -15,10 +15,10 @@ nav = [
      "sessions/using_the_python_interpreter/README.md",
      "sessions/working_with_python_scripts/README.md",
      "sessions/working_with_graphics/README.md"
-     # "sessions/the_way_of_the_program.md"
   ]},
   {"Basic Python" = [
      "sessions/introduction_basic_python/README.md",
+     "sessions/the_way_of_the_program.md",
      "sessions/variables_expressions_and_statements_1.md",
      "sessions/variables_expressions_and_statements_2.md",
      "sessions/variables_expressions_and_statements_3.md",
