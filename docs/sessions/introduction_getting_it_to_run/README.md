@@ -141,50 +141,12 @@ The later sessions focus on learning Python.
 ## Exercise 1: add your HPC cluster to your name
 
 Change your Zoom name, to include your HPC cluster,
-e.g. make `Sven` into `[Alvis] Sven`.
+e.g. make `Svante` into `[Arrhenius] Svante`.
 
 You can do so by right-click on the video of yourself,
 then click 'Rename' to change your Zoom name.
 
-## Exercise 2: the learning outcomes of today
-
-The goal of this exercise is to find out
-what you will learn today.
-
-- Go to [this form](https://github.com/UPPMAX/naiss_intro_python/issues/27)
-  and fill it in
-
-???- question "For teachers: what is in that form?"
-
-    With this exercise, we'll discover what we'll learn today.
-
-    Give you confidence levels of the following statements,
-    using this scale:
-
-    - 0: I don't know even what this is about ...?
-    - 1: I have no confidence I can do this
-    - 2: I have low confidence I can do this
-    - 3: I have some confidence I can do this
-    - 4: I have good confidence I can do this
-    - 5: I absolutely can do this!
-
-    Give you confidence levels of the following statements below:
-
-    - I am comfortable using the documentation of my HPC center
-    - I am comfortable using a Python book
-    - I am comfortable learning Python
-    - I can load a Python version on my HPC cluster
-    - I can describe what the Python interpreter is
-    - I can use a text editor on my HPC cluster
-    - I can create a Python script
-    - I can run a Python script
-    - I can run a Python script that uses a graphical library on an HPC cluster
-    - I can create and use a variable in Python
-    - I can convert a simple equation to Python code
-    - I can convert a simple text question to Python code
-    - I can read and write to/from a file in Python
-
-## (optional) Exercise 3: where is what?
+## (optional) Exercise 2: where is what?
 
 Explore the website of the course. Where you can you find
 the things below?
