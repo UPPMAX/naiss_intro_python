@@ -44,7 +44,8 @@ nav = [
      "faq/README.md",
      "lesson_plans/README.md",
      "misc/project.md",
-     "reflections/README.md"
+     "reflections/README.md",
+     "videos.md"
   ]},
   "contact_us.md"
 ]
