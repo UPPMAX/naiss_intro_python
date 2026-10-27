@@ -248,7 +248,7 @@ Let's take a look at that email..
     3) Course GH repos
 
     - Monday: https://github.com/UPPMAX/naiss_intro_python
-    - Rest of the course: https://github.com/UPPMAX/HPC-python
+    - Rest of the course: https://gitlab.naiss.se/hpc/training/HPC-python
 
     4) Important information about the course is gathered here: https://nextcloud.naiss.se/s/pZTn9dxLZwqmfrt
 
