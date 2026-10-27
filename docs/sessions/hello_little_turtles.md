@@ -296,7 +296,7 @@ Tetralith  |`3.10.4`
 
 ???- question "Reminder"
 
-    See [Exercise 3 of 'Using the Python interpreter'](using_the_python_interpreter/README.md#exercise-3-load-the-python-module)
+    See [Exercise 2 of 'Using the Python interpreter'](using_the_python_interpreter/README.md#exercise-2-load-the-python-module)
 
 - Run the script on your HPC cluster using `python`
   (now: with the modules loaded).

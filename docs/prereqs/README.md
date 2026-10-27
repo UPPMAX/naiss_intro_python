@@ -25,4 +25,4 @@ Before the course, you must have done these **five** things:
 
 ???- question "What if I have another question?"
 
-    - See the [Frequently Asked Questions section](../faq.md)
+    - See the [Frequently Asked Questions section](../faq/README.md)

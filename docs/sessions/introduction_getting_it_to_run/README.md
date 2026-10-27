@@ -154,6 +154,6 @@ the things below?
 - The [schedule](../../schedule.md)
 - Where to [share anonymous feedback during the day](../../evaluation.md)
 - Where to [evaluate the course](../../evaluation.md)
-- [Further learning](../../further learning.md)
+- [Further learning](../../further_learning.md)
 - [The frequently asked questions](../../faq/README.md)
 - [Earlier evaluation results](../../evaluations/README.md)
