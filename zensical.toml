@@ -13,8 +13,9 @@ nav = [
   {"Getting it to run" = [
      "sessions/introduction_getting_it_to_run/README.md",
      "sessions/using_the_python_interpreter/README.md",
-     "sessions/the_way_of_the_program.md",
-     "sessions/working_with_python_scripts.md"
+     "sessions/working_with_python_scripts/README.md",
+     "sessions/working_with_graphics/README.md"
+     # "sessions/the_way_of_the_program.md"
   ]},
   {"Basic Python" = [
      "sessions/introduction_basic_python.md",
