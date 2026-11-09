@@ -30,7 +30,7 @@ nav = [
      "further_learning.md",
      "summary.md"
   ]},
-  {"Misc" = [
+  { "Misc" = [
      "acknowledgements.md",
      "topics.md",
      "CODE_OF_CONDUCT.md",
