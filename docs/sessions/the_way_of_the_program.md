@@ -246,7 +246,7 @@ Pick the simplest one if you do not already know a text editor.
 
     HPC Cluster  |Documentation
     -------------|------------------------------------------------------
-    Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/nano/arrhenius)
+    Arrhenius HPC|Not yet <!-- [Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/nano/arrhenius) -->
     Bianca       |[Documentation](https://docs.uppmax.uu.se/software/text_editors/)
     COSMOS       |:warning: None
     Dardel       |:warning: None
