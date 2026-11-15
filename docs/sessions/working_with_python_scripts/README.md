@@ -51,24 +51,43 @@ without new theory.
 
     You can find a video with solutions to these exercises:
 
-    HPC Cluster|YouTube video
-    -----------|-------------------------------------
-    Alvis      |[YouTube video](https://youtu.be/XTrCznq6_n4)
-    Bianca     |Not needed: no registrations
-    COSMOS     |[YouTube video](https://youtu.be/Lde4Rs1aJsM)
-    Dardel     |[YouTube video](https://youtu.be/kYSG_WtYBWY)
-    Kebnekaise |[YouTube video](https://youtu.be/IEB_HRR3Ibk)
-    LUMI       |Not needed: no registrations
-    Pelle      |[YouTube video](https://youtu.be/mo_OR_RoARw)
-    Tetralith  |[YouTube video](https://youtu.be/mfnnzWvjEK8)
+    HPC Cluster  |YouTube video
+    -------------|-------------------------------------
+    Alvis        |[YouTube video](https://youtu.be/XTrCznq6_n4)
+    Arrhenius HPC|[YouTube video](https://youtu.be/m5qyAiENPNE)
+    Bianca       |Not needed: no registrations
+    COSMOS       |[YouTube video](https://youtu.be/Lde4Rs1aJsM)
+    Dardel       |[YouTube video](https://youtu.be/kYSG_WtYBWY)
+    Kebnekaise   |[YouTube video](https://youtu.be/IEB_HRR3Ibk)
+    LUMI         |Not needed: no registrations
+    Pelle        |[YouTube video](https://youtu.be/mo_OR_RoARw)
+    Tetralith    |[YouTube video](https://youtu.be/mfnnzWvjEK8)
 
 ## Exercise 1: create a Python script
 
-- For your favorite HPC center, find the documentation on how to create a file.
-  Search **for a maximum of 5 minutes**!
-  If you cannot find it, use
-  [the UPPMAX documentation about `nano`](https://docs.uppmax.uu.se/software/nano/)
-  or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
+Go to the user documentation for your favorite HPC cluster:
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+HPC cluster|User documentation
+-----------|------------------------------------------------------------
+Alvis      |[User documentation](https://www.c3se.chalmers.se)
+Arrhenius  |[User documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/quickstart)
+Bianca     |[User documentation](https://docs.uppmax.uu.se)
+COSMOS     |[User documentation](https://lunarc-documentation.readthedocs.io)
+Dardel     |[User documentation](https://support.pdc.kth.se)
+Kebnekaise |[User documentation](https://docs.hpc2n.umu.se)
+LUMI       |[User documentation](https://docs.lumi-supercomputer.eu/)
+Pelle      |[User documentation](https://docs.uppmax.uu.se)
+Tetralith  |[User documentation](https://www.nsc.liu.se)
+
+<!-- markdownlint-enable MD013 -->
+
+For your favorite HPC center, find the documentation on how to create a file.
+Search **for a maximum of 5 minutes**!
+If you cannot find it, use
+[the UPPMAX documentation about `nano`](https://docs.uppmax.uu.se/software/nano/)
+or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
 ???- question "Answer"
 
@@ -78,38 +97,40 @@ without new theory.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation
-    -----------|----------------------------------------------------------
-    Alvis      |None
-    Bianca     |Not needed: no registrations
-    COSMOS     |None
-    Dardel     |None
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#simple__commands__for__nano)
-    LUMI       |Not needed: no registrations
-    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/nano/)
-    Tetralith  |None
+    HPC Cluster  |Documentation
+    -------------|----------------------------------------------------------
+    Alvis        |None
+    Arrhenius HPC|None
+    Bianca       |Not needed: no registrations
+    COSMOS       |None
+    Dardel       |None
+    Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#simple__commands__for__nano)
+    LUMI         |Not needed: no registrations
+    Pelle        |[Documentation](https://docs.uppmax.uu.se/software/nano/)
+    Tetralith    |None
 
     <!-- markdownlint-enable MD013 -->
 
-- On your HPC cluster, create a file called `hello_world.py`,
-  using a text editor or Linux commands
+On your HPC cluster, create a file called `hello_world.py`,
+using a text editor or Linux commands
 
 ???- question "Answer"
 
     Creating a Python script `hello_world.py` using `nano`:
 
-    HPC Cluster|How to run `nano`
-    -----------|-------------------------------------
-    Alvis      |`nano create_plot.py`
-    Bianca     |`nano create_plot.py`
-    COSMOS     |`nano create_plot.py`
-    Dardel     |`module load nano ; nano create_plot.py`
-    Kebnekaise |`nano create_plot.py`
-    LUMI       |`nano create_plot.py`
-    Pelle      |`nano create_plot.py`
-    Tetralith  |`nano create_plot.py`
+    HPC Cluster  |How to run `nano`
+    -------------|-------------------------------------
+    Alvis        |`nano create_plot.py`
+    Arrhenius HPC|`nano create_plot.py`
+    Bianca       |`nano create_plot.py`
+    COSMOS       |`nano create_plot.py`
+    Dardel       |`module load nano ; nano create_plot.py`
+    Kebnekaise   |`nano create_plot.py`
+    LUMI         |`nano create_plot.py`
+    Pelle        |`nano create_plot.py`
+    Tetralith    |`nano create_plot.py`
 
-- Copy-paste the following content into the script:
+Copy-paste the following content into the script:
 
 ```python
 print("Hello, world!")
@@ -119,21 +140,21 @@ print("Hello, world!")
 
     To paste into a terminal, use `CTRL + SHIFT + V` (i.e. add `SHIFT`).
 
-- Save the script
+Save the script
 
 ???- question "Answer"
 
     In [`nano`](https://docs.uppmax.uu.se/software/nano/), you can do
     so with `CTRL + O`
 
-- Close the text editor
+Close the text editor
 
 ???- question "Answer"
 
     In [`nano`](https://docs.uppmax.uu.se/software/nano/), you can do
     so with `CTRL + X`
 
-- Verify that the script has its contents saved
+Verify that the script has its contents saved
 
 ???- question "Answer"
 
@@ -145,12 +166,12 @@ print("Hello, world!")
 
 ## Exercise 2: run a Python script
 
-- For your favorite HPC center, find the documentation on how to run
-  a Python script.
-  Search **for a maximum of 5 minutes**!
-  If you cannot find it, use
-  [the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)
-  or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
+For your favorite HPC center, find the documentation on how to run
+a Python script.
+Search **for a maximum of 5 minutes**!
+If you cannot find it, use
+[the UPPMAX documentation about how to run a Python script](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)
+or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
 ???- question "Answer"
 
@@ -159,16 +180,17 @@ print("Hello, world!")
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation                                                                                                                                                                             |Solution
-    -----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
-    Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|.
-    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
-    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |.
-    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |.
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |.
-    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |.
-    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
-    Tetralith  |:warning: [Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                        |`python hello_world.py`
+    HPC Cluster  |Documentation                                                                                                                                                                             |Solution
+    -------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
+    Alvis        |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|.
+    Arrhenius HPC|No documentation yet
+    Bianca       |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
+    COSMOS       |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |.
+    Dardel       |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |.
+    Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |.
+    LUMI         |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |.
+    Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
+    Tetralith    |:warning: [Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                        |`python hello_world.py`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -179,12 +201,18 @@ print("Hello, world!")
       You are encouraged
       to contact your HPC center to help them help you better
 
-- Run the Python script you just created
+Run the Python script you just created
 
 ???- question "Answer"
 
-    You can run this Python script in the shell by:
-
-    ```bash
-    python hello_world.py
-    ```
+    HPC Cluster  |How to run `create_plot.py`
+    -------------|-------------------------------------
+    Alvis        |`python create_plot.py`
+    Arrhenius HPC|`python create_plot.py`
+    Bianca       |`python create_plot.py`
+    COSMOS       |`python create_plot.py`
+    Dardel       |`python create_plot.py`
+    Kebnekaise   |`python create_plot.py`
+    LUMI         |`python create_plot.py`
+    Pelle        |`python create_plot.py`
+    Tetralith    |`python create_plot.py`

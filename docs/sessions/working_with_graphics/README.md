@@ -76,18 +76,18 @@ a clumsy option that works too.
 
     You can find a video with solutions to these exercises:
 
-    HPC Cluster|YouTube video
-    -----------|-------------------------------------
-    Alvis      |[YouTube video](https://youtu.be/s90KtPCByK0)
-    Arrhenius  |TODO
-    Bianca     |Not needed: no registrations
-    COSMOS     |[YouTube video](https://youtu.be/Vexc7VgPTL0)
-    Dardel     |[YouTube video](https://youtu.be/McMIgozEVC0)
-    Dardel     |Failing using SSH: [YouTube video](https://youtu.be/dlrJl9N7cxI)
-    Kebnekaise |[YouTube video](https://youtu.be/x-orEs1mChM)
-    LUMI       |Not needed: no registrations
-    Pelle      |[YouTube video](https://youtu.be/MMgQ1tpxhUE)
-    Tetralith  |[YouTube video](https://youtu.be/hp-p_LdJmto)
+    HPC Cluster  |YouTube video
+    -------------|-------------------------------------
+    Alvis        |[YouTube video](https://youtu.be/s90KtPCByK0)
+    Arrhenius HPC|TODO
+    Bianca       |Not needed: no registrations
+    COSMOS       |[YouTube video](https://youtu.be/Vexc7VgPTL0)
+    Dardel       |[YouTube video](https://youtu.be/McMIgozEVC0)
+    Dardel       |Failing using SSH: [YouTube video](https://youtu.be/dlrJl9N7cxI)
+    Kebnekaise   |[YouTube video](https://youtu.be/x-orEs1mChM)
+    LUMI         |Not needed: no registrations
+    Pelle        |[YouTube video](https://youtu.be/MMgQ1tpxhUE)
+    Tetralith    |[YouTube video](https://youtu.be/hp-p_LdJmto)
 
 ???- question "How difficult will this exercise be?"
 
@@ -99,8 +99,7 @@ a clumsy option that works too.
     HPC cluster name|Environment   |Documentation|How to view images?   |Difficulty
     ----------------|--------------|-------------|----------------------|----------
     Alvis           |Console       |None         |ImageMagick           |Hard
-    Arrhenius       |Console       |TODO         |TODO                  |TODO
-    Arrhenius       |Remote desktop|TODO         |TODO                  |TODO
+    Arrhenius HPC   |Remote desktop|TODO         |TODO                  |TODO
     Bianca          |Console       |Excellent    |Copy to local computer|Medium
     COSMOS          |Console       |None         |Present               |Medium
     Dardel          |Console       |None         |ImageMagick           |**Impossible?**
@@ -114,31 +113,65 @@ a clumsy option that works too.
 
 ## Exercise 1: Use Matplotlib to create a plot
 
-- Create a Python script called `create_plot.py`
-  with the content of the example code in it.
+Create a Python script called `create_plot.py`
+with the content of the example code in it.
 
 ???- question "Answer"
 
     We did this in the previous session,
     ['Working with Python scripts'](../working_with_python_scripts/README.md).
 
-    HPC Cluster|How to run `nano`
-    -----------|-------------------------------------
-    Alvis      |`nano create_plot.py`
-    Arrhenius  |`nano create_plot.py`
-    Bianca     |`nano create_plot.py`
-    COSMOS     |`nano create_plot.py`
-    Dardel     |`module load nano ; nano create_plot.py`
-    Kebnekaise |`nano create_plot.py`
-    LUMI       |`nano create_plot.py`
-    Pelle      |`nano create_plot.py`
-    Tetralith  |`nano create_plot.py`
+    HPC Cluster  |How to run `nano`
+    -------------|-------------------------------------
+    Alvis        |`nano create_plot.py`
+    Arrhenius HPC|`nano create_plot.py`
+    Bianca       |`nano create_plot.py`
+    COSMOS       |`nano create_plot.py`
+    Dardel       |`module load nano ; nano create_plot.py`
+    Kebnekaise   |`nano create_plot.py`
+    LUMI         |`nano create_plot.py`
+    Pelle        |`nano create_plot.py`
+    Tetralith    |`nano create_plot.py`
 
-- Run the Python script (i.e. without loading the Matplotlib module)
-  and observe the error. The error should be mentioning Matplotlib
-  (if not: the answer shows how to fix this)
-  
+Run the Python script (i.e. without loading the Matplotlib module)
+and observe the error. The error should be mentioning Matplotlib
+(if not: the 'Troubleshooting' section below the anser shows how to fix this)
+
 ???- question "Answer"
+
+    Loading the Python module again:
+
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster|Documentation
+    -----------|-------------------------------------------------
+    Alvis      |`module load Python/3.13.5-GCCcore-14.3.0`
+    Arrhenius  |`module load Python/3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
+    Bianca     |`module load python/3.12.7`
+    COSMOS     |`module load GCCcore/13.2.0 Python/3.11.5`
+    Dardel     |`module load PDC python/3.12.3`
+    Kebnekaise |`module load GCC/12.3.0 Python/3.11.3`
+    LUMI       |`module load cray-python/3.11.7`
+    Pelle      |`module load Python/3.13.5-GCCcore-14.3.0`
+    Tetralith  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
+
+    <!-- markdownlint-enable MD013 -->
+
+    Now you can run this Python script in the shell by:
+
+    HPC Cluster  |How to run `hello_world.py`
+    -------------|-------------------------------------
+    Alvis        |`python hello_world.py`
+    Arrhenius HPC|`python hello_world.py`
+    Bianca       |`python hello_world.py`
+    COSMOS       |`python hello_world.py`
+    Dardel       |`python hello_world.py`
+    Kebnekaise   |`python hello_world.py`
+    LUMI         |`python hello_world.py`
+    Pelle        |`python hello_world.py`
+    Tetralith    |`python hello_world.py`
+  
+???- question "Troubleshooting"
 
     These are the errors that may occur:
 
@@ -162,12 +195,34 @@ a clumsy option that works too.
     ModuleNotFoundError: No module named 'matplotlib'
     ```
 
-- For your favorite HPC center, find the documentation on how to use Matplotlib.
-  Search **for a maximum of 5 minutes**!
-  If you cannot find it, (try to) apply the steps in
-  [the UPPMAX documentation about Matplotlib](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
-  **for a maximum of 5 minutes**!
-  After that, simply copy-paste the answer of the next question.
+Now we have created the Python script, we now need to get Matplotlib
+to work.
+
+Go to the user documentation for your favorite HPC cluster:
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+HPC cluster|User documentation
+-----------|------------------------------------------------------------
+Alvis      |[User documentation](https://www.c3se.chalmers.se)
+Arrhenius  |[User documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/quickstart)
+Bianca     |[User documentation](https://docs.uppmax.uu.se)
+COSMOS     |[User documentation](https://lunarc-documentation.readthedocs.io)
+Dardel     |[User documentation](https://support.pdc.kth.se)
+Kebnekaise |[User documentation](https://docs.hpc2n.umu.se)
+LUMI       |[User documentation](https://docs.lumi-supercomputer.eu/)
+Pelle      |[User documentation](https://docs.uppmax.uu.se)
+Tetralith  |[User documentation](https://www.nsc.liu.se)
+
+<!-- markdownlint-enable MD013 -->
+
+
+For your favorite HPC center, find the documentation on how to use Matplotlib.
+Search **for a maximum of 5 minutes**!
+If you cannot find it, (try to) apply the steps in
+[the UPPMAX documentation about Matplotlib](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
+**for a maximum of 5 minutes**!
+After that, simply copy-paste the answer of the next question.
 
 ???- question "Answer"
 
@@ -179,7 +234,7 @@ a clumsy option that works too.
     HPC Cluster|Documentation
     -----------|----------------------------------------------------------
     Alvis      |:warning: [Closest documentation](https://www.c3se.chalmers.se/documentation/module_system/python/?h=matplotlib#matplotlib)
-    Arrhenius  |TODO
+    Arrhenius  |[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/matplotlib/arrhenius/)
     Bianca     |Not needed: no registrations
     COSMOS     |:warning: [Closest documentation](https://lunarc-documentation.readthedocs.io/en/latest/software/installed_software/)
     Dardel     |:warning: None
@@ -204,17 +259,17 @@ a clumsy option that works too.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation
-    -----------|----------------------------------------------------------
-    Alvis      |`module load matplotlib`
-    Arrhenius  |`module load buildtool-easybuild/5.2.1-hpca3ef7d197 GCC/14.3.0 matplotlib/3.10.5`
-    Bianca     |Not needed: no registrations
-    COSMOS     |`module load GCC/13.3.0 matplotlib/3.9.2`
-    Dardel     |`module load python/3.12.3 ; pip3 install matplotlib`
-    Kebnekaise |`module load GCC/13.2.0 matplotlib/3.8.2`
-    LUMI       |Not needed: no registrations
-    Pelle      |`module load matplotlib`
-    Tetralith  |`module load buildtool-easybuild/4.9.4-hpc71cbb0050 GCC/13.2.0 matplotlib/3.8.2`
+    HPC Cluster  |Documentation
+    -------------|----------------------------------------------------------
+    Alvis        |`module load matplotlib`
+    Arrhenius HPC|`module load buildtool-easybuild/5.2.1-hpca3ef7d197 GCC/14.3.0 matplotlib/3.10.5`
+    Bianca       |Not needed: no registrations
+    COSMOS       |`module load GCC/13.3.0 matplotlib/3.9.2`
+    Dardel       |`module load python/3.12.3 ; pip3 install matplotlib`
+    Kebnekaise   |`module load GCC/13.2.0 matplotlib/3.8.2`
+    LUMI         |Not needed: no registrations
+    Pelle        |`module load matplotlib`
+    Tetralith    |`module load buildtool-easybuild/4.9.4-hpc71cbb0050 GCC/13.2.0 matplotlib/3.8.2`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -246,17 +301,17 @@ However, it is quite practical to be able to see your plot directly.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|How to display an image
-    -----------|-----------------------------------------------------------------------
-    Alvis      |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
-    Arrhenius  |`eog my_plot.png`
-    Bianca     |Impossible: X-forwarding is disabled. Use a remote desktop.
-    COSMOS     |`eog my_plot.png`
-    Dardel     |`module load imagemagick/7.1.1-41 ; display my_plot.png`
-    Kebnekaise |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
-    LUMI       |Not needed: no registrations
-    Pelle      |`eog my_plot.png`
-    Tetralith  |`eog my_plot.png`
+    HPC Cluster  |How to display an image
+    -------------|-----------------------------------------------------------------------
+    Alvis        |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
+    Arrhenius HPC|`eog my_plot.png`
+    Bianca       |Impossible: X-forwarding is disabled. Use a remote desktop.
+    COSMOS       |`eog my_plot.png`
+    Dardel       |`module load imagemagick/7.1.1-41 ; display my_plot.png`
+    Kebnekaise   |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
+    LUMI         |Not needed: no registrations
+    Pelle        |`eog my_plot.png`
+    Tetralith    |`eog my_plot.png`
 
     <!-- markdownlint-enable MD013 -->
 

@@ -126,9 +126,6 @@ This should be easy, as this is
 
 Got to the user documentation for your favorite HPC cluster:
 
-These are the user documentation pages for each HPC center,
-sorted by HPC cluster:
-
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 HPC cluster|User documentation
