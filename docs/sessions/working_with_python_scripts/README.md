@@ -60,7 +60,6 @@ without new theory.
     Kebnekaise   |[YouTube video](https://youtu.be/IEB_HRR3Ibk)
     LUMI         |Not needed: no registrations
     Pelle        |[YouTube video](https://youtu.be/mo_OR_RoARw)
-    Tetralith    |[YouTube video](https://youtu.be/mfnnzWvjEK8)
 
 ## Exercise 1: create a Python script
 
@@ -77,7 +76,6 @@ Dardel       |[User documentation](https://support.pdc.kth.se)
 Kebnekaise   |[User documentation](https://docs.hpc2n.umu.se)
 LUMI         |[User documentation](https://docs.lumi-supercomputer.eu/)
 Pelle        |[User documentation](https://docs.uppmax.uu.se)
-Tetralith    |[User documentation](https://www.nsc.liu.se)
 
 <!-- markdownlint-enable MD013 -->
 
@@ -104,7 +102,6 @@ or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
     Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#simple__commands__for__nano)
     LUMI         |Not needed: no registrations
     Pelle        |[Documentation](https://docs.uppmax.uu.se/software/nano/)
-    Tetralith    |None
 
     <!-- markdownlint-enable MD013 -->
 
@@ -124,7 +121,6 @@ using a text editor or Linux commands
     Kebnekaise   |`nano create_plot.py`
     LUMI         |`nano create_plot.py`
     Pelle        |`nano create_plot.py`
-    Tetralith    |`nano create_plot.py`
 
 Copy-paste the following content into the script:
 
@@ -185,7 +181,6 @@ or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
     Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)                                                                                                        |.
     LUMI         |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)                                                                                |.
     Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
-    Tetralith    |:warning: [Documentation](https://www.nsc.liu.se/software/python/)                                                                                                                        |`python hello_world.py`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -209,4 +204,3 @@ Run the Python script you just created
     Kebnekaise   |`python create_plot.py`
     LUMI         |`python create_plot.py`
     Pelle        |`python create_plot.py`
-    Tetralith    |`python create_plot.py`

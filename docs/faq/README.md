@@ -113,7 +113,7 @@ Yes, absolutely!
 
 Be aware that there are only worked-out answers for the some
 NAISS HPC clusters (Arrhenius HPC, Bianca, COSMOS, Dardel, Kebnekaise,
-LUMI, Pelle, Tetralith).
+LUMI, Pelle).
 
 ### How can I get a user account on a Swedish academic HPC cluster?
 
@@ -146,8 +146,6 @@ Kebnekaise |**Website**              |[Documentation](https://docs.hpc2n.umu.se/
 LUMI       |**SSH**                  |[Documentation](https://docs.lumi-supercomputer.eu/firststeps/loggingin/)                                    |[YouTube video](https://youtu.be/bPdvn2gajgU)
 Pelle      |SSH                      |[Documentation](https://docs.uppmax.uu.se/getting_started/login_pelle_console_password/)                     |[YouTube video](https://youtu.be/zsw3QD_NinU)
 Pelle      |**Local ThinLinc client**|[Documentation](https://docs.uppmax.uu.se/getting_started/login_pelle_remote_desktop_local_thinlinc_client/) |[YouTube video](https://youtu.be/0rVy83X89Go)
-Tetralith  |**Local ThinLinc client**|[Documentation](https://www.nsc.liu.se/support/graphics/)                                                    |[YouTube video](https://youtu.be/JsHzQSFNGxY)
-Tetralith  |SSH                      |[Documentation](https://www.nsc.liu.se/support/getting-started/)                                             |[YouTube video](https://youtu.be/wtGIzSBiulY)
 
 <!-- markdownlint-enable MD013 -->
 

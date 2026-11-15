@@ -25,8 +25,7 @@ on these HPC clusters:
 - COSMOS
 - Dardel
 - Kebnekaise
-- Rackham
-- Tetralith
+- Pelle
 
 If your favorite HPC cluster is missing, you are encouraged to contact me and I will happily add answers/documentation/videos for your cluster.
 

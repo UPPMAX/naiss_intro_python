@@ -12,7 +12,6 @@ Session                                                                |HPC clus
 [Working with Python scripts](working_with_python_scripts/README.md)   | Dardel       |[YouTube video](https://youtu.be/kYSG_WtYBWY)
 [Working with Python scripts](working_with_python_scripts/README.md)   | Kebnekaise   |[YouTube video](https://youtu.be/IEB_HRR3Ibk)
 [Working with Python scripts](working_with_python_scripts/README.md)   | Pelle        |[YouTube video](https://youtu.be/mo_OR_RoARw)
-[Working with Python scripts](working_with_python_scripts/README.md)   | Tetralith    |[YouTube video](https://youtu.be/mfnnzWvjEK8)
 [Using the Python interpreter](using_the_python_interpreter/README.md) | Arrhenius HPC|[YouTube video](https://youtu.be/lNHk6WqRiiA)
 [Using the Python interpreter](using_the_python_interpreter/README.md) | Bianca       |[YouTube video](https://youtu.be/80AG-4niBgk)
 [Using the Python interpreter](using_the_python_interpreter/README.md) | COSMOS       |[YouTube video](https://youtu.be/aqqHUvvolds)
@@ -20,13 +19,11 @@ Session                                                                |HPC clus
 [Using the Python interpreter](using_the_python_interpreter/README.md) | Kebnekaise   |[YouTube video](https://youtu.be/DpnKUEOcIdE)
 [Using the Python interpreter](using_the_python_interpreter/README.md) | LUMI         |[YouTube video](https://youtu.be/bPdvn2gajgU)
 [Using the Python interpreter](using_the_python_interpreter/README.md) | Pelle        |[YouTube video](https://youtu.be/7VdutN-iUtg)
-[Using the Python interpreter](using_the_python_interpreter/README.md) | Tetralith    |[YouTube video](https://youtu.be/OBT9XuVktwg)
 [Working with graphics](working_with_graphics/README.md)               | Arrhenius HPC|[YouTube video](https://youtu.be/aj9sWd3RW2E)
 [Working with graphics](working_with_graphics/README.md)               | COSMOS       |[YouTube video](https://youtu.be/Vexc7VgPTL0)
 [Working with graphics](working_with_graphics/README.md)               | Dardel       |[YouTube video](https://youtu.be/McMIgozEVC0)
 [Working with graphics](working_with_graphics/README.md)               | Kebnekaise   |[YouTube video](https://youtu.be/x-orEs1mChM)
 [Working with graphics](working_with_graphics/README.md)               | Pelle        |[YouTube video](https://youtu.be/MMgQ1tpxhUE)
-[Working with graphics](working_with_graphics/README.md)               | Tetralith    |[YouTube video](https://youtu.be/hp-p_LdJmto)
 [Hello little turtles](hello_little_turtles.md)                        | Any          |[YouTube video](https://youtu.be/bnN-1uzsgvk)
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->

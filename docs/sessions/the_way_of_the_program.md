@@ -253,7 +253,6 @@ Pick the simplest one if you do not already know a text editor.
     Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#editors)
     LUMI         |:warning: None
     Pelle        |[Documentation](https://docs.uppmax.uu.se/software/nano/)
-    Tetralith    |[Documentation](https://www.nsc.liu.se/support/past-events/VASP_workshop_2023/quick_guide/)
 
     <!-- markdownlint-enable MD013 -->
 

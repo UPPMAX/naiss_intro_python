@@ -86,7 +86,6 @@ you cannot do Python programming.
     Kebnekaise   |SSH         |[Video](https://youtu.be/DpnKUEOcIdE)
     LUMI         |SSH         |[Video](https://youtu.be/bPdvn2gajgU)
     Pelle        |SSH         |[Video](https://youtu.be/7VdutN-iUtg)
-    Tetralith    |SSH         |[Video](https://youtu.be/OBT9XuVktwg)
 
 To develop code in Python on your HPC clusters, one needs to:
 
@@ -112,7 +111,6 @@ These exercises will ensure you are able to run a minimal Python program.
     LUMI            |No       |Yes           |No       |Reasonable   |Medium
     Kebnekaise      |No       |No            |No       |Good         |Easy
     Pelle           |No       |No            |No       |Excellent    |Easy
-    Tetralith       |No       |No            |Yes      |Good         |Easy
 
 ## Exercise 1: login to your HPC cluster
 
@@ -135,7 +133,6 @@ Dardel     |[User documentation](https://support.pdc.kth.se)
 Kebnekaise |[User documentation](https://docs.hpc2n.umu.se)
 LUMI       |[User documentation](https://docs.lumi-supercomputer.eu/)
 Pelle      |[User documentation](https://docs.uppmax.uu.se)
-Tetralith  |[User documentation](https://www.nsc.liu.se)
 
 <!-- markdownlint-enable MD013 -->
 
@@ -163,7 +160,6 @@ Tetralith  |[User documentation](https://www.nsc.liu.se)
     Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)
     LUMI         |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)
     Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python/)
-    Tetralith    |[Documentation](https://www.nsc.liu.se/software/python/)
 
     <!-- markdownlint-enable MD013 -->
 
@@ -180,7 +176,6 @@ Dardel       |`3.12.3`
 Kebnekaise   |`3.11.3`
 LUMI         |`3.11.7`
 Pelle        |`3.13.5`
-Tetralith    |`3.10.4`
 
 ???- question "Answer"
 
@@ -195,7 +190,6 @@ Tetralith    |`3.10.4`
     Kebnekaise   |`module load GCC/12.3.0 Python/3.11.3`
     LUMI         |`module load cray-python/3.11.7`
     Pelle        |`module load Python/3.13.5-GCCcore-14.3.0`
-    Tetralith    |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -225,7 +219,6 @@ Tetralith    |`3.10.4`
     Kebnekaise   |:warning:                                                                                                 |`python`
     LUMI         |:warning: [Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/)                 |`python`
     Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                |`python`
-    Tetralith    |[Documentation](https://www.nsc.liu.se/software/python/)                                                  |`python`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -250,7 +243,6 @@ Tetralith    |`3.10.4`
     Kebnekaise |`python`
     LUMI       |`python`
     Pelle      |`python`
-    Tetralith  |`python`
 
     <!-- markdownlint-enable MD013 -->
 

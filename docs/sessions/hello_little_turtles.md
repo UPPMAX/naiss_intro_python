@@ -101,7 +101,6 @@ Then:
     Kebnekaise |`ssh sven@kebnekaise.hpc2n.umu.se`
     LUMI       |`ssh -i ~/.ssh/id_rsa_lumi svensson@lumi.csc.fi`
     Pelle      |`ssh pelle@rackham.uppmax.uu.se`
-    Tetralith  |`ssh x_svesv@tetralith.nsc.liu.se`
 
 - Do **not** load a Python module: it is the point of this exercise
   to see what happens if you forget to do so!
@@ -144,7 +143,6 @@ wn.mainloop()             # Wait for user to close window
     LUMI       |No
     Pelle      |Yes
     Rackham    |Yes
-    Tetralith  |Yes
 
     Here is the error:
 
@@ -251,24 +249,6 @@ wn.mainloop()             # Wait for user to close window
         _tkinter.TclError: no display name and no $DISPLAY environment variable
         ```
 
-    === "Tetralith"
-
-        ```bash
-        [x_ricbi@tetralith3 ~]$ python my_turtle.py
-        Traceback (most recent call last):
-          File "/home/x_ricbi/my_turtle.py", line 2, in <module>
-            wn = turtle.Screen()      # Creates a playground for turtles
-          File "/usr/lib64/python3.9/turtle.py", line 3664, in Screen
-            Turtle._screen = _Screen()
-          File "/usr/lib64/python3.9/turtle.py", line 3680, in __init__
-            _Screen._root = self._root = _Root()
-          File "/usr/lib64/python3.9/turtle.py", line 435, in __init__
-            TK.Tk.__init__(self)
-          File "/usr/lib64/python3.9/tkinter/__init__.py", line 2270, in __init__
-            self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
-        _tkinter.TclError: no display name and no $DISPLAY environment variable
-        ```
-
 ???- question "For those that use MobaXterm that cannot get an error"
 
     It seems that for some MobaXterm users,
@@ -289,7 +269,6 @@ Dardel       |`3.12.3`
 Kebnekaise   |`3.11.3`
 LUMI         |`3.11.7`
 Pelle        |`3.13.5`
-Tetralith    |`3.10.4`
 
 ???- question "Reminder"
 
@@ -311,7 +290,6 @@ Tetralith    |`3.10.4`
     Kebnekaise |?
     LUMI       |?
     Pelle      |Yes
-    Tetralith  |Yes
 
     Here is the error:
 
@@ -450,25 +428,6 @@ Tetralith    |`3.10.4`
         [richel@rackham2 ~]$
         ```
 
-    === "Tetralith"
-
-        ```bash
-        [x_ricbi@tetralith3 ~]$ python my_turtle.py
-        Traceback (most recent call last):
-          File "/home/x_ricbi/my_turtle.py", line 2, in <module>
-            wn = turtle.Screen()      # Creates a playground for turtles
-          File "/usr/lib64/python3.9/turtle.py", line 3664, in Screen
-            Turtle._screen = _Screen()
-          File "/usr/lib64/python3.9/turtle.py", line 3680, in __init__
-            _Screen._root = self._root = _Root()
-          File "/usr/lib64/python3.9/turtle.py", line 435, in __init__
-            TK.Tk.__init__(self)
-          File "/usr/lib64/python3.9/tkinter/__init__.py", line 2270, in __init__
-            self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
-        _tkinter.TclError: no display name and no $DISPLAY environment variable
-        ```
-
-
 The error is `no display name and no $DISPLAY environment variable`.
 In simpler terms, this can be read as 'Nothing to show graphics with'.
 
@@ -519,7 +478,6 @@ use the Rackham remote desktop environment.
     LUMI       |`ssh -X -i ~/.ssh/id_rsa_lumi svensson@lumi.csc.fi`
     Pelle      |`ssh -X pelle@rackham.uppmax.uu.se`
     Rackham    |`ssh -X sven@rackham.uppmax.uu.se`
-    Tetralith  |`ssh -X x_svesv@tetralith.nsc.liu.se`
 
     It looks like this:
 

@@ -86,7 +86,6 @@ a clumsy option that works too.
     Kebnekaise   |[YouTube video](https://youtu.be/x-orEs1mChM)
     LUMI         |Not needed: no registrations
     Pelle        |[YouTube video](https://youtu.be/MMgQ1tpxhUE)
-    Tetralith    |[YouTube video](https://youtu.be/hp-p_LdJmto)
 
 ???- question "How difficult will this exercise be?"
 
@@ -105,7 +104,6 @@ a clumsy option that works too.
     LUMI            |Console       |None          |Unknown               |Unknown
     Kebnekaise      |Console       |Excellent     |ImageMagick           |Easy
     Pelle           |Console       |Excellent     |`eog`                 |Easy
-    Tetralith       |Console       |None          |`eog`                 |Medium
 
     <!-- markdownlint-enable MD013 -->
 
@@ -128,7 +126,6 @@ with the content of the example code in it.
     Kebnekaise   |`nano create_plot.py`
     LUMI         |`nano create_plot.py`
     Pelle        |`nano create_plot.py`
-    Tetralith    |`nano create_plot.py`
 
 Run the Python script (i.e. without loading the Matplotlib module)
 and observe the error. The error should be mentioning Matplotlib
@@ -149,7 +146,6 @@ and observe the error. The error should be mentioning Matplotlib
     Kebnekaise |`module load GCC/12.3.0 Python/3.11.3`
     LUMI       |`module load cray-python/3.11.7`
     Pelle      |`module load Python/3.13.5-GCCcore-14.3.0`
-    Tetralith  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -164,7 +160,6 @@ and observe the error. The error should be mentioning Matplotlib
     Kebnekaise   |`python hello_world.py`
     LUMI         |`python hello_world.py`
     Pelle        |`python hello_world.py`
-    Tetralith    |`python hello_world.py`
   
 ???- question "Troubleshooting"
 
@@ -206,7 +201,6 @@ Dardel     |[User documentation](https://support.pdc.kth.se)
 Kebnekaise |[User documentation](https://docs.hpc2n.umu.se)
 LUMI       |[User documentation](https://docs.lumi-supercomputer.eu/)
 Pelle      |[User documentation](https://docs.uppmax.uu.se)
-Tetralith  |[User documentation](https://www.nsc.liu.se)
 
 <!-- markdownlint-enable MD013 -->
 
@@ -234,7 +228,6 @@ After that, simply copy-paste the answer of the next question.
     Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/software/libs/matplotlib/#matplotlib)
     LUMI         |Not needed: no registrations
     Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
-    Tetralith    |:warning: [Closest](https://www.nsc.liu.se/software/python/)
 
     <!-- markdownlint-enable MD013 -->
 
@@ -261,7 +254,6 @@ After that, simply copy-paste the answer of the next question.
     Kebnekaise   |`module load GCC/13.2.0 matplotlib/3.8.2`
     LUMI         |Not needed: no registrations
     Pelle        |`module load matplotlib`
-    Tetralith    |`module load buildtool-easybuild/4.9.4-hpc71cbb0050 GCC/13.2.0 matplotlib/3.8.2`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -302,7 +294,6 @@ However, it is quite practical to be able to see your plot directly.
     Kebnekaise   |`module load GCCcore/13.2.0 ImageMagick/7.1.1-34 ; display my_plot.png`
     LUMI         |Not needed: no registrations
     Pelle        |`eog my_plot.png`
-    Tetralith    |`eog my_plot.png`
 
     <!-- markdownlint-enable MD013 -->
 

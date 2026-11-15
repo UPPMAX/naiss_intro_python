@@ -17,7 +17,7 @@ Registration closes at 2025-10-09.
 
 ## I want to use the HPC cluster
 
-- (recommended) ... that is provided by the course (called Tetralith)
+- (recommended) ... that is provided by the course (called Arrhenius HPC)
 - ... that I already work on
 
 ## If you work on your own HPC cluster, what is its name?
