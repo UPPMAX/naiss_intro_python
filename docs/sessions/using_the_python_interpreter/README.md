@@ -77,17 +77,17 @@ you cannot do Python programming.
 
     You can find a video with solutions to these exercises:
 
-    HPC Cluster|Login method|YouTube video
-    -----------|------------|-------------------------------------
-    Alvis      |SSH         |[Video](https://youtu.be/R_RxKo-Vma4)
-    Arrhenius  |ThinLinc    |TODO
-    Bianca     |SSH         |[Video](https://youtu.be/80AG-4niBgk)
-    COSMOS     |SSH         |[Video](https://youtu.be/aqqHUvvolds)
-    Dardel     |SSH         |[Video](https://youtu.be/BAD6y_a5xBQ)
-    Kebnekaise |SSH         |[Video](https://youtu.be/DpnKUEOcIdE)
-    LUMI       |SSH         |[Video](https://youtu.be/bPdvn2gajgU)
-    Pelle      |SSH         |[Video](https://youtu.be/7VdutN-iUtg)
-    Tetralith  |SSH         |[Video](https://youtu.be/OBT9XuVktwg)
+    HPC Cluster  |Login method|YouTube video
+    -------------|------------|-------------------------------------
+    Alvis        |SSH         |[Video](https://youtu.be/R_RxKo-Vma4)
+    Arrhenius HPC|ThinLinc    |[Video](https://youtu.be/lNHk6WqRiiA)
+    Bianca       |SSH         |[Video](https://youtu.be/80AG-4niBgk)
+    COSMOS       |SSH         |[Video](https://youtu.be/aqqHUvvolds)
+    Dardel       |SSH         |[Video](https://youtu.be/BAD6y_a5xBQ)
+    Kebnekaise   |SSH         |[Video](https://youtu.be/DpnKUEOcIdE)
+    LUMI         |SSH         |[Video](https://youtu.be/bPdvn2gajgU)
+    Pelle        |SSH         |[Video](https://youtu.be/7VdutN-iUtg)
+    Tetralith    |SSH         |[Video](https://youtu.be/OBT9XuVktwg)
 
 To develop code in Python on your HPC clusters, one needs to:
 
@@ -107,7 +107,7 @@ These exercises will ensure you are able to run a minimal Python program.
     HPC cluster name|Need VPN?|Need SSH keys?|Need 2FA?|Documentation|Difficulty
     ----------------|---------|--------------|---------|-------------|----------
     Alvis           |Yes      |No            |No       |Minimal      |Medium
-    Arrhenius       |No       |No            |No       |?            |Easy
+    Arrhenius HPC   |No       |No            |Yes      |Excellent    |Medium
     Bianca          |Yes      |No            |Yes      |Excellent    |Medium
     COSMOS          |No       |No            |Yes      |Good         |Easy
     Dardel          |No       |Yes           |No       |Minimal      |Medium
