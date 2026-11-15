@@ -40,9 +40,9 @@
 A software module is an installed pieces of software
 of a specific version.
 
-Here is an example to load Python version 3.12.7 on the Bianca HPC cluster: 
+Here is an example to load Python version 3.12.7 on the Bianca HPC cluster:
 
-```
+```bash
 module load python/3.12.7
 ```
 
