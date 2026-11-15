@@ -135,7 +135,7 @@ with the content of the example code in it.
 
 Run the Python script (i.e. without loading the Matplotlib module)
 and observe the error. The error should be mentioning Matplotlib
-(if not: the 'Troubleshooting' section below the anser shows how to fix this)
+(if not: the 'Troubleshooting' section below the answer shows how to fix this)
 
 ???- question "Answer"
 
