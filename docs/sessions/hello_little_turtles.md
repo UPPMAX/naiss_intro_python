@@ -95,7 +95,6 @@ Then:
 
     HPC Cluster|Example SSH login command
     -----------|-------------------------------------------------------
-    Alvis      |`ssh sven@alvis1.c3se.chalmers.se`
     Bianca     |`ssh sven@bianca.uppmax.uu.se`
     COSMOS     |`ssh sven@cosmos.lunarc.lu.se`
     Dardel     |`ssh -i ~/.ssh/id-ed25519-pdc svensv@dardel.pdc.kth.se`
@@ -138,7 +137,6 @@ wn.mainloop()             # Wait for user to close window
 
     HPC Cluster|Has `turtle` Python package installed by default?
     -----------|-------------------------------------------------------
-    Alvis      |.
     Bianca     |Yes
     COSMOS     |Yes
     Dardel     |No
@@ -284,7 +282,6 @@ wn.mainloop()             # Wait for user to close window
 
 HPC Cluster  |Python version
 -------------|--------------
-Alvis        |`3.13.5`
 Arrhenius HPC|`3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
 Bianca       |`3.12.7`
 COSMOS       |`3.11.5`
@@ -307,7 +304,6 @@ Tetralith    |`3.10.4`
 
     HPC Cluster|Will `turtle` work with modules loaded?
     -----------|-------------------------------------------------------
-    Alvis      |?
     Arrhenius  |?
     Bianca     |Never
     COSMOS     |Yes
@@ -516,7 +512,6 @@ use the Rackham remote desktop environment.
 
     HPC Cluster|Python version
     -----------|--------------
-    Alvis      |`ssh -X sven@alvis1.c3se.chalmers.se`
     Bianca     |You cannot. Instead, start a terminal from a remote desktop
     COSMOS     |`ssh -X sven@cosmos.lunarc.lu.se`
     Dardel     |`ssh -X -i ~/.ssh/id-ed25519-pdc svensv@dardel.pdc.kth.se`

@@ -20,7 +20,7 @@ Again, welcome to the 'Intro to Python' course of 2025-03-04!
 I've prepared videos on how to login and how to start Python
 on these HPC clusters:
 
-- Alvis
+- Arrhenius HPC
 - Bianca
 - COSMOS
 - Dardel

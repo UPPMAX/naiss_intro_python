@@ -53,7 +53,6 @@ without new theory.
 
     HPC Cluster  |YouTube video
     -------------|-------------------------------------
-    Alvis        |[YouTube video](https://youtu.be/XTrCznq6_n4)
     Arrhenius HPC|[YouTube video](https://youtu.be/m5qyAiENPNE)
     Bianca       |Not needed: no registrations
     COSMOS       |[YouTube video](https://youtu.be/Lde4Rs1aJsM)
@@ -69,17 +68,16 @@ Go to the user documentation for your favorite HPC cluster:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-HPC cluster|User documentation
------------|------------------------------------------------------------
-Alvis      |[User documentation](https://www.c3se.chalmers.se)
-Arrhenius  |[User documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/quickstart)
-Bianca     |[User documentation](https://docs.uppmax.uu.se)
-COSMOS     |[User documentation](https://lunarc-documentation.readthedocs.io)
-Dardel     |[User documentation](https://support.pdc.kth.se)
-Kebnekaise |[User documentation](https://docs.hpc2n.umu.se)
-LUMI       |[User documentation](https://docs.lumi-supercomputer.eu/)
-Pelle      |[User documentation](https://docs.uppmax.uu.se)
-Tetralith  |[User documentation](https://www.nsc.liu.se)
+HPC cluster  |User documentation
+-------------|------------------------------------------------------------
+Arrhenius HPC|[User documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/quickstart)
+Bianca       |[User documentation](https://docs.uppmax.uu.se)
+COSMOS       |[User documentation](https://lunarc-documentation.readthedocs.io)
+Dardel       |[User documentation](https://support.pdc.kth.se)
+Kebnekaise   |[User documentation](https://docs.hpc2n.umu.se)
+LUMI         |[User documentation](https://docs.lumi-supercomputer.eu/)
+Pelle        |[User documentation](https://docs.uppmax.uu.se)
+Tetralith    |[User documentation](https://www.nsc.liu.se)
 
 <!-- markdownlint-enable MD013 -->
 
@@ -99,7 +97,6 @@ or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
     HPC Cluster  |Documentation
     -------------|----------------------------------------------------------
-    Alvis        |None
     Arrhenius HPC|None
     Bianca       |Not needed: no registrations
     COSMOS       |None
@@ -120,7 +117,6 @@ using a text editor or Linux commands
 
     HPC Cluster  |How to run `nano`
     -------------|-------------------------------------
-    Alvis        |`nano create_plot.py`
     Arrhenius HPC|`nano create_plot.py`
     Bianca       |`nano create_plot.py`
     COSMOS       |`nano create_plot.py`
@@ -182,8 +178,7 @@ or ask the AI at [the UPPMAX documentation](https://docs.uppmax.uu.se)
 
     HPC Cluster  |Documentation                                                                                                                                                                             |Solution
     -------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------
-    Alvis        |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)|.
-    Arrhenius HPC|No documentation yet
+    Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/python/arrhenius/)                                                                                |`python hello_world.py`
     Bianca       |[Documentation](https://docs.uppmax.uu.se/software/python/#use-python-to-run-a-python-script)                                                                                             |`python hello_world.py`
     COSMOS       |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)                                                                                        |.
     Dardel       |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)                                  |.
@@ -207,7 +202,6 @@ Run the Python script you just created
 
     HPC Cluster  |How to run `create_plot.py`
     -------------|-------------------------------------
-    Alvis        |`python create_plot.py`
     Arrhenius HPC|`python create_plot.py`
     Bianca       |`python create_plot.py`
     COSMOS       |`python create_plot.py`

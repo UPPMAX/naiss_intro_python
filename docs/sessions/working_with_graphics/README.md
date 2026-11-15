@@ -78,7 +78,6 @@ a clumsy option that works too.
 
     HPC Cluster  |YouTube video
     -------------|-------------------------------------
-    Alvis        |[YouTube video](https://youtu.be/s90KtPCByK0)
     Arrhenius HPC|[YouTube video](https://youtu.be/aj9sWd3RW2E)
     Bianca       |Not needed: no registrations
     COSMOS       |[YouTube video](https://youtu.be/Vexc7VgPTL0)
@@ -98,7 +97,6 @@ a clumsy option that works too.
 
     HPC cluster name|Environment   |Documentation |How to view images?   |Difficulty
     ----------------|--------------|--------------|----------------------|----------
-    Alvis           |Console       |None          |ImageMagick           |Hard
     Arrhenius HPC   |Remote desktop|To be accepted|`eog`                 |Easy
     Bianca          |Console       |Excellent     |Copy to local computer|Medium
     COSMOS          |Console       |None          |Present               |Medium
@@ -123,7 +121,6 @@ with the content of the example code in it.
 
     HPC Cluster  |How to run `nano`
     -------------|-------------------------------------
-    Alvis        |`nano create_plot.py`
     Arrhenius HPC|`nano create_plot.py`
     Bianca       |`nano create_plot.py`
     COSMOS       |`nano create_plot.py`
@@ -145,7 +142,6 @@ and observe the error. The error should be mentioning Matplotlib
 
     HPC Cluster|Documentation
     -----------|-------------------------------------------------
-    Alvis      |`module load Python/3.13.5-GCCcore-14.3.0`
     Arrhenius  |`module load Python/3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
     Bianca     |`module load python/3.12.7`
     COSMOS     |`module load GCCcore/13.2.0 Python/3.11.5`
@@ -161,7 +157,6 @@ and observe the error. The error should be mentioning Matplotlib
 
     HPC Cluster  |How to run `hello_world.py`
     -------------|-------------------------------------
-    Alvis        |`python hello_world.py`
     Arrhenius HPC|`python hello_world.py`
     Bianca       |`python hello_world.py`
     COSMOS       |`python hello_world.py`
@@ -204,7 +199,6 @@ Go to the user documentation for your favorite HPC cluster:
 
 HPC cluster|User documentation
 -----------|------------------------------------------------------------
-Alvis      |[User documentation](https://www.c3se.chalmers.se)
 Arrhenius  |[User documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/quickstart)
 Bianca     |[User documentation](https://docs.uppmax.uu.se)
 COSMOS     |[User documentation](https://lunarc-documentation.readthedocs.io)
@@ -231,17 +225,16 @@ After that, simply copy-paste the answer of the next question.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation
-    -----------|----------------------------------------------------------
-    Alvis      |:warning: [Closest documentation](https://www.c3se.chalmers.se/documentation/module_system/python/?h=matplotlib#matplotlib)
-    Arrhenius  |[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/matplotlib/arrhenius/)
-    Bianca     |Not needed: no registrations
-    COSMOS     |:warning: [Closest documentation](https://lunarc-documentation.readthedocs.io/en/latest/software/installed_software/)
-    Dardel     |:warning: None
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/libs/matplotlib/#matplotlib)
-    LUMI       |Not needed: no registrations
-    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
-    Tetralith  |:warning: [Closest](https://www.nsc.liu.se/software/python/)
+    HPC Cluster  |Documentation
+    -------------|----------------------------------------------------------
+    Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/matplotlib/arrhenius/)
+    Bianca       |Not needed: no registrations
+    COSMOS       |:warning: [Closest documentation](https://lunarc-documentation.readthedocs.io/en/latest/software/installed_software/)
+    Dardel       |:warning: None
+    Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/software/libs/matplotlib/#matplotlib)
+    LUMI         |Not needed: no registrations
+    Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python_bundles/#matplotlib)
+    Tetralith    |:warning: [Closest](https://www.nsc.liu.se/software/python/)
 
     <!-- markdownlint-enable MD013 -->
 
@@ -261,7 +254,6 @@ After that, simply copy-paste the answer of the next question.
 
     HPC Cluster  |Documentation
     -------------|----------------------------------------------------------
-    Alvis        |`module load matplotlib`
     Arrhenius HPC|`module load buildtool-easybuild/5.2.1-hpca3ef7d197 GCC/14.3.0 matplotlib/3.10.5`
     Bianca       |Not needed: no registrations
     COSMOS       |`module load GCC/13.3.0 matplotlib/3.9.2`
@@ -303,7 +295,6 @@ However, it is quite practical to be able to see your plot directly.
 
     HPC Cluster  |How to display an image
     -------------|-----------------------------------------------------------------------
-    Alvis        |`module load ImageMagick/7.1.1-15-GCCcore-12.3.0 ; display my_plot.png`
     Arrhenius HPC|`eog my_plot.png`
     Bianca       |Impossible: X-forwarding is disabled. Use a remote desktop.
     COSMOS       |`eog my_plot.png`

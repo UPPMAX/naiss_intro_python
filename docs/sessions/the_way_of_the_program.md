@@ -242,15 +242,20 @@ Pick the simplest one if you do not already know a text editor.
 
 ???- question "Answer"
 
-    HPC Cluster|Documentation
-    -----------|------------------------------------------------------
-    Alvis      |:warning: None
-    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/text_editors/)
-    COSMOS     |:warning: None
-    Dardel     |:warning: None
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#editors)
-    LUMI       |:warning: None
-    Tetralith  |[Documentation](https://www.nsc.liu.se/support/past-events/VASP_workshop_2023/quick_guide/)
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+    HPC Cluster  |Documentation
+    -------------|------------------------------------------------------
+    Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/nano/arrhenius)
+    Bianca       |[Documentation](https://docs.uppmax.uu.se/software/text_editors/)
+    COSMOS       |:warning: None
+    Dardel       |:warning: None
+    Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/tutorials/quickstart/#editors)
+    LUMI         |:warning: None
+    Pelle        |[Documentation](https://docs.uppmax.uu.se/software/nano/)
+    Tetralith    |[Documentation](https://www.nsc.liu.se/support/past-events/VASP_workshop_2023/quick_guide/)
+
+    <!-- markdownlint-enable MD013 -->
 
     - :warning: means that the documentation present is either absent
       or incomplete.

@@ -79,7 +79,6 @@ you cannot do Python programming.
 
     HPC Cluster  |Login method|YouTube video
     -------------|------------|-------------------------------------
-    Alvis        |SSH         |[Video](https://youtu.be/R_RxKo-Vma4)
     Arrhenius HPC|ThinLinc    |[Video](https://youtu.be/lNHk6WqRiiA)
     Bianca       |SSH         |[Video](https://youtu.be/80AG-4niBgk)
     COSMOS       |SSH         |[Video](https://youtu.be/aqqHUvvolds)
@@ -106,7 +105,6 @@ These exercises will ensure you are able to run a minimal Python program.
 
     HPC cluster name|Need VPN?|Need SSH keys?|Need 2FA?|Documentation|Difficulty
     ----------------|---------|--------------|---------|-------------|----------
-    Alvis           |Yes      |No            |No       |Minimal      |Medium
     Arrhenius HPC   |No       |No            |Yes      |Excellent    |Medium
     Bianca          |Yes      |No            |Yes      |Excellent    |Medium
     COSMOS          |No       |No            |Yes      |Good         |Easy
@@ -130,7 +128,6 @@ Got to the user documentation for your favorite HPC cluster:
 
 HPC cluster|User documentation
 -----------|------------------------------------------------------------
-Alvis      |[User documentation](https://www.c3se.chalmers.se)
 Arrhenius  |[User documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/quickstart)
 Bianca     |[User documentation](https://docs.uppmax.uu.se)
 COSMOS     |[User documentation](https://lunarc-documentation.readthedocs.io)
@@ -159,7 +156,6 @@ Tetralith  |[User documentation](https://www.nsc.liu.se)
 
     HPC Cluster  |Documentation
     -------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    Alvis        |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)
     Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/python/arrhenius/)
     Bianca       |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)
     COSMOS       |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)
@@ -177,7 +173,6 @@ Tetralith  |[User documentation](https://www.nsc.liu.se)
 
 HPC Cluster  |Python version
 -------------|--------------
-Alvis        |`3.13.5`
 Arrhenius HPC|`3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
 Bianca       |`3.12.7`
 COSMOS       |`3.11.5`
@@ -193,7 +188,6 @@ Tetralith    |`3.10.4`
 
     HPC Cluster  |Documentation
     -------------|-------------------------------------------------
-    Alvis        |`module load Python/3.13.5-GCCcore-14.3.0`
     Arrhenius HPC|`module load Python/3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
     Bianca       |`module load python/3.12.7`
     COSMOS       |`module load GCCcore/13.2.0 Python/3.11.5`
@@ -224,7 +218,6 @@ Tetralith    |`3.10.4`
 
     HPC Cluster  |Documentation                                                                                             |Solution
     -------------|----------------------------------------------------------------------------------------------------------|--------
-    Alvis        |:warning:                                                                                                 |`python`
     Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/python/arrhenius/)|`python`
     Bianca       |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                |`python`
     COSMOS       |:warning:                                                                                                 |`python`
@@ -250,7 +243,6 @@ Tetralith    |`3.10.4`
 
     HPC Cluster|Solution
     -----------|---------
-    Alvis      |`python`
     Arrhenius  |`python`
     Bianca     |`python`
     COSMOS     |`python`

@@ -112,7 +112,7 @@ URL      |[`https://supr.naiss.se/project/38409/`](https://supr.naiss.se/project
 Yes, absolutely!
 
 Be aware that there are only worked-out answers for the some
-NAISS HPC clusters (Alvis, Bianca, COSMOS, Dardel, Kebnekaise,
+NAISS HPC clusters (Arrhenius HPC, Bianca, COSMOS, Dardel, Kebnekaise,
 LUMI, Pelle, Tetralith).
 
 ### How can I get a user account on a Swedish academic HPC cluster?
@@ -132,8 +132,6 @@ For beginners: the **bold** login method is recommended.
 
 HPC cluster|Login method             |Documentation                                                                                                |YouTube video
 -----------|-------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------
-Alvis      |SSH                      |[Documentation](https://www.c3se.chalmers.se/documentation/connecting/ssh/)                                  |[YouTube video](https://youtu.be/PJZ3W907qCU)
-Alvis      |**Website**              |[Documentation](https://www.c3se.chalmers.se/documentation/connecting/remote_graphics/)                      |[YouTube video](https://youtu.be/KO98JvEB2oc)
 Arrhenius  |SSH                      |[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/login/login/)       |[YouTube video](https://youtu.be/oBTzgT3ODjM)
 Arrhenius  |**Local ThinLinc client**|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/arrhenius_hpc/login/thinlinc/)    |[YouTube video](https://youtu.be/7fBitTggm7E)
 Bianca     |SSH                      |[Documentation](https://docs.uppmax.uu.se/getting_started/login_bianca_console_password/)                    |[YouTube video](https://youtu.be/7mKDxnXqi_M)
