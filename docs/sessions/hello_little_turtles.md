@@ -282,17 +282,17 @@ wn.mainloop()             # Wait for user to close window
 
 - Load the Python software module of the correct version
 
-HPC Cluster|Python version
------------|--------------
-Alvis      |`3.12.3`
-Arrhenius  |TODO
-Bianca     |`3.11.4`
-COSMOS     |`3.11.5`
-Dardel     |`3.12.3`
-Kebnekaise |`3.11.3`
-LUMI       |`3.11.7`
-Pelle      |`3.13.1`
-Tetralith  |`3.10.4`
+HPC Cluster  |Python version
+-------------|--------------
+Alvis        |`3.13.5`
+Arrhenius HPC|`3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
+Bianca       |`3.12.7`
+COSMOS       |`3.11.5`
+Dardel       |`3.12.3`
+Kebnekaise   |`3.11.3`
+LUMI         |`3.11.7`
+Pelle        |`3.13.5`
+Tetralith    |`3.10.4`
 
 ???- question "Reminder"
 

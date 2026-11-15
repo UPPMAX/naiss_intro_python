@@ -157,17 +157,17 @@ Tetralith  |[User documentation](https://www.nsc.liu.se)
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation
-    -----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    Alvis      |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)
-    Arrhenius  |TODO
-    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)
-    COSMOS     |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)
-    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)
-    Kebnekaise |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)
-    LUMI       |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)
-    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python/)
-    Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)
+    HPC Cluster  |Documentation
+    -------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Alvis        |[Short documentation](https://www.c3se.chalmers.se/documentation/module_system/python_example/) or [long documentation](https://www.c3se.chalmers.se/documentation/module_system/modules/)
+    Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/python/arrhenius/)
+    Bianca       |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)
+    COSMOS       |[Documentation](https://lunarc-documentation.readthedocs.io/en/latest/guides/applications/Python/)
+    Dardel       |:warning: [Documentation](https://support.pdc.kth.se/doc/software/module/) and [more documentation](https://support.pdc.kth.se/doc/applications/python/)
+    Kebnekaise   |[Documentation](https://docs.hpc2n.umu.se/software/userinstalls/#python__packages)
+    LUMI         |[Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/#use-the-cray-python-module)
+    Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python/)
+    Tetralith    |[Documentation](https://www.nsc.liu.se/software/python/)
 
     <!-- markdownlint-enable MD013 -->
 
@@ -175,33 +175,33 @@ Tetralith  |[User documentation](https://www.nsc.liu.se)
   load a Python software module of the version indicated in the
   table below.
 
-HPC Cluster|Python version
------------|--------------
-Alvis      |`3.13.5`
-Arrhenius  |`3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
-Bianca     |`3.12.7`
-COSMOS     |`3.11.5`
-Dardel     |`3.12.3`
-Kebnekaise |`3.11.3`
-LUMI       |`3.11.7`
-Pelle      |`3.13.5`
-Tetralith  |`3.10.4`
+HPC Cluster  |Python version
+-------------|--------------
+Alvis        |`3.13.5`
+Arrhenius HPC|`3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
+Bianca       |`3.12.7`
+COSMOS       |`3.11.5`
+Dardel       |`3.12.3`
+Kebnekaise   |`3.11.3`
+LUMI         |`3.11.7`
+Pelle        |`3.13.5`
+Tetralith    |`3.10.4`
 
 ???- question "Answer"
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation
-    -----------|-------------------------------------------------
-    Alvis      |`module load Python/3.13.5-GCCcore-14.3.0`
-    Arrhenius  |`module load Python/3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
-    Bianca     |`module load python/3.12.7`
-    COSMOS     |`module load GCCcore/13.2.0 Python/3.11.5`
-    Dardel     |`module load PDC python/3.12.3`
-    Kebnekaise |`module load GCC/12.3.0 Python/3.11.3`
-    LUMI       |`module load cray-python/3.11.7`
-    Pelle      |`module load Python/3.13.5-GCCcore-14.3.0`
-    Tetralith  |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
+    HPC Cluster  |Documentation
+    -------------|-------------------------------------------------
+    Alvis        |`module load Python/3.13.5-GCCcore-14.3.0`
+    Arrhenius HPC|`module load Python/3.13.5-bundle-SciPy-2025.07-mpi4py-4.1.0-gcc-2025b-eb`
+    Bianca       |`module load python/3.12.7`
+    COSMOS       |`module load GCCcore/13.2.0 Python/3.11.5`
+    Dardel       |`module load PDC python/3.12.3`
+    Kebnekaise   |`module load GCC/12.3.0 Python/3.11.3`
+    LUMI         |`module load cray-python/3.11.7`
+    Pelle        |`module load Python/3.13.5-GCCcore-14.3.0`
+    Tetralith    |`module load Python/3.10.4-env-hpc2-gcc-2022a-eb`
 
     <!-- markdownlint-enable MD013 -->
 
@@ -222,17 +222,17 @@ Tetralith  |`3.10.4`
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC Cluster|Documentation                                                                              |Solution
-    -----------|-------------------------------------------------------------------------------------------|--------
-    Alvis      |:warning:                                                                                  |`python`
-    Arrhenius  |TODO                                                                                       |`python`
-    Bianca     |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                 |`python`
-    COSMOS     |:warning:                                                                                  |`python`
-    Dardel     |:warning: [Documentation](https://support.pdc.kth.se/doc/applications/python/)             |`python`
-    Kebnekaise |:warning:                                                                                  |`python`
-    LUMI       |:warning: [Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/)  |`python`
-    Pelle      |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                 |`python`
-    Tetralith  |[Documentation](https://www.nsc.liu.se/software/python/)                                   |`python`
+    HPC Cluster  |Documentation                                                                                             |Solution
+    -------------|----------------------------------------------------------------------------------------------------------|--------
+    Alvis        |:warning:                                                                                                 |`python`
+    Arrhenius HPC|[Documentation](https://hpc.pages.naiss.se/user-documentation/support-docs/applications/python/arrhenius/)|`python`
+    Bianca       |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                |`python`
+    COSMOS       |:warning:                                                                                                 |`python`
+    Dardel       |:warning: [Documentation](https://support.pdc.kth.se/doc/applications/python/)                            |`python`
+    Kebnekaise   |:warning:                                                                                                 |`python`
+    LUMI         |:warning: [Documentation](https://docs.lumi-supercomputer.eu/software/installing/python/)                 |`python`
+    Pelle        |[Documentation](https://docs.uppmax.uu.se/software/python/#loading-python)                                |`python`
+    Tetralith    |[Documentation](https://www.nsc.liu.se/software/python/)                                                  |`python`
 
     <!-- markdownlint-enable MD013 -->
 

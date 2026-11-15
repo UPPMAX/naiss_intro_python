@@ -96,18 +96,18 @@ a clumsy option that works too.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-    HPC cluster name|Environment   |Documentation|How to view images?   |Difficulty
-    ----------------|--------------|-------------|----------------------|----------
-    Alvis           |Console       |None         |ImageMagick           |Hard
-    Arrhenius HPC   |Remote desktop|TODO         |TODO                  |TODO
-    Bianca          |Console       |Excellent    |Copy to local computer|Medium
-    COSMOS          |Console       |None         |Present               |Medium
-    Dardel          |Console       |None         |ImageMagick           |**Impossible?**
-    Dardel          |Remote desktop|None         |ImageMagick           |Medium
-    LUMI            |Console       |None         |Unknown               |Unknown
-    Kebnekaise      |Console       |Excellent    |ImageMagick           |Easy
-    Pelle           |Console       |Excellent    |`eog`                 |Easy
-    Tetralith       |Console       |None         |`eog`                 |Medium
+    HPC cluster name|Environment   |Documentation |How to view images?   |Difficulty
+    ----------------|--------------|--------------|----------------------|----------
+    Alvis           |Console       |None          |ImageMagick           |Hard
+    Arrhenius HPC   |Remote desktop|To be accepted|`eog`                 |Easy
+    Bianca          |Console       |Excellent     |Copy to local computer|Medium
+    COSMOS          |Console       |None          |Present               |Medium
+    Dardel          |Console       |None          |ImageMagick           |**Impossible?**
+    Dardel          |Remote desktop|None          |ImageMagick           |Medium
+    LUMI            |Console       |None          |Unknown               |Unknown
+    Kebnekaise      |Console       |Excellent     |ImageMagick           |Easy
+    Pelle           |Console       |Excellent     |`eog`                 |Easy
+    Tetralith       |Console       |None          |`eog`                 |Medium
 
     <!-- markdownlint-enable MD013 -->
 
