@@ -35,6 +35,17 @@
     - For those that use Bianca, it may take some time to get a login node.
       Encourage those to try Pelle while waiting
 
+## What are software modules?
+
+A software module is an installed pieces of software
+of a specific version.
+
+Here is an example to load Python version 3.12.7 on the Bianca HPC cluster: 
+
+```
+module load python/3.12.7
+```
+
 ## Why software modules are important
 
 Software modules allows users of any HPC cluster
