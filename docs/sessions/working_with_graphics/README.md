@@ -79,7 +79,7 @@ a clumsy option that works too.
     HPC Cluster  |YouTube video
     -------------|-------------------------------------
     Alvis        |[YouTube video](https://youtu.be/s90KtPCByK0)
-    Arrhenius HPC|TODO
+    Arrhenius HPC|[YouTube video](https://youtu.be/aj9sWd3RW2E)
     Bianca       |Not needed: no registrations
     COSMOS       |[YouTube video](https://youtu.be/Vexc7VgPTL0)
     Dardel       |[YouTube video](https://youtu.be/McMIgozEVC0)
