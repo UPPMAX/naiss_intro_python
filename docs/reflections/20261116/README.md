@@ -6,8 +6,7 @@
 - [Reflection](../../reflections/20261116/README.md)
 
 
-
-# To do next time
+## To do next time
 
 - [ ] Try out two input methods for asking a question in the Prior
 - [ ] Try out a soft group activity
