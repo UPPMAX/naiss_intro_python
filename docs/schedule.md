@@ -36,7 +36,7 @@ Time        |Focus |Topic                                                       
 11:15-12:00 |HPC   | [Working with graphics](sessions/working_with_graphics/README.md)                                       |Richèl Bilderbeek
 .           |Course| [Evaluation](evaluation.md)                                                                             |Richèl Bilderbeek
 12:00-13:00 |.     | Break                                                                                                   |.
-13:00-14:00 |Course| [Introduction](sessions/introduction_basic_python.md)                                                   |Richèl Bilderbeek
+13:00-14:00 |Course| [Introduction](sessions/introduction_basic_python/README.md)                                            |Richèl Bilderbeek
 .           |Python| [Variables, expressions and statements: variables](sessions/variables_expressions_and_statements_1.md)  |Richèl Bilderbeek
 14:00-14:15 |.     | Break                                                                                                   |.
 14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md)  |Richèl Bilderbeek
