@@ -200,7 +200,7 @@ COSMOS       |`3.11.5`
 Dardel       |`3.12.3`
 Kebnekaise   |`3.11.3`
 LUMI         |`3.11.7`
-Pelle        |`3.13.5`
+Pelle        |`3.11.5-GCCcore-13.2.0`
 
 ???- question "Answer"
 
