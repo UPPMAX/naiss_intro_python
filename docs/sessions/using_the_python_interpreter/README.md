@@ -112,6 +112,31 @@ These exercises will ensure you are able to run a minimal Python program.
     Kebnekaise      |No       |No            |No       |Good         |Easy
     Pelle           |No       |No            |No       |Excellent    |Easy
 
+### Exercise 0: be assigned a Zoom room
+
+We will use breakout rooms, as this is best for
+interaction and learning. However, some prefer to work alone.
+In this course, we allow for both.
+
+For a quick process, we follow the following procedure:
+
+```mermaid
+flowchart TD
+
+  prefer_work_together(Prefer to work together?)
+  say_yes[Say yes]
+  say_no[Say no]
+
+  prefer_work_together --> |Yes| say_yes
+  prefer_work_together --> |No| say_no
+```
+
+![How to state yes/no](zoom_yes_no.gif)
+
+You will be ruthlessly moved to a breakout room when possible.
+
+Good luck and enjoy!
+
 ## Exercise 1: login to your HPC cluster
 
 Login to your favorite HPC cluster.

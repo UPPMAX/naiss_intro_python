@@ -34,7 +34,7 @@ rooms in use, this made my jumping around way slower than usually.
 
 With the sluggish Zoom, I need help for groups of this size.
 
-- [ ] Ask help for each 20 registrations. Train the helpers,
+- [->] Ask help for each 20 registrations. Train the helpers,
   using, for example
   [my material on 'Duos in breakout rooms'](https://richelbilderbeek.github.io/teaching/exercise_procedures/duos_in_breakout_rooms/)
 
@@ -75,8 +75,8 @@ previous course iterations, my colleague Pavlin fulfilled
 this role. Today it was made clear once again how important he is
 to the smooth proceedings of this course.
 
-- [ ] Suggest to put the Zoom URL on an HPC cluster, else
-- [ ] Book a helper (e.g. Pavlin) for login problems
+- [->] Suggest to put the Zoom URL on an HPC cluster, else
+- [->] Book a helper (e.g. Pavlin) for login problems
 
 Another reason the course went sluggish:
 the documentation of some centers is incomplete.
@@ -347,7 +347,7 @@ uncomfortable. The mentioning of recording is not that prominent.
 I will suggest to send shorter emails to the learners, or
 to encourage camera usage.
 
-- [ ] Suggest to send shorter emails to the learners and/or encourage
+- [->] Suggest to send shorter emails to the learners and/or encourage
   camera usage in that email
 
 - Did the parts of the introduction flow into each other naturally?
@@ -357,14 +357,14 @@ that the Priors felt rushed. And I agree with that. My intention
 is to ask a question, wait three seconds and then prompt for an answer.
 I feel that due to Zoom uncertainty I went too quick.
 
-- [ ] Wait 3 seconds after asking a question in the Prior
+- [->] Wait 3 seconds after asking a question in the Prior
 
 We discussed the Prior a bit and she suggested to also show the question
 visually as text. I agreed with that idea; to have two types of inputs
 and I did look for captions in Zoom (and could not find it).
 However, I feel I should at least try this once, to see how this feels.
 
-- [ ] Try out two input methods for asking a question in the Prior
+- [->] Try out two input methods for asking a question in the Prior
 
 - Was there a part that had an unclear purpose?
 
@@ -375,7 +375,7 @@ She suggested to try out a soft group activity,
 e.g. list three things that all three breakout room people have in common.
 In that way, people feel less more comfortable during the Cold Calling.
 
-- [ ] Try out a soft group activity
+- [->] Try out a soft group activity
 
 Additionally, it was suggested to use the Zoom 'Yes'/'No' reactions
 instead of a 'Raise Hand' to put people into individual Breakout rooms.
