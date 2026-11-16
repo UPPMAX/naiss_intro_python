@@ -19,10 +19,11 @@ Updated all videos.
 
 ## 2026-11-16
 
-Let's see what needs to be done
+Let's see what needs to be done:
 
 - [ ] Update evaluation
 
+Checking last reflections's things to do:
 
 - [x] Ask help for each 20 registrations. Train the helpers,
   using, for example
@@ -53,4 +54,4 @@ fingers.
 - [x] Try out to use 'Yes'/'No' reaction (instead of 'Raise Hand')
   for asking for a single breakout room
 
-Yes, I already do so. Add this as an animated gif.
+Yes, I already do so and I have added this as an animated gif.

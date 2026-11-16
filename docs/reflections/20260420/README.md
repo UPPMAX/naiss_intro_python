@@ -383,7 +383,7 @@ I use 'Raise Hand' to get those people to be sorted to the top of
 the participant list. However, 'Yes'/'No' reactions forces everyone to
 respond.
 
-- [ ] Try out to use 'Yes'/'No' reaction (instead of 'Raise Hand')
+- [x] Try out to use 'Yes'/'No' reaction (instead of 'Raise Hand')
   for asking for a single breakout room
 
 Besides that we discussed some other things:
