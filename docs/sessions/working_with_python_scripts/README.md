@@ -1,5 +1,7 @@
 # Working with Python scripts
 
+![Working with Python scripts on Arrhenius](working_with_python_scripts.png)
+
 !!!- info "Learning outcomes"
 
     - Practice using the documentation of your HPC cluster
@@ -114,13 +116,13 @@ using a text editor or Linux commands
 
     HPC Cluster  |How to run `nano`
     -------------|-------------------------------------
-    Arrhenius HPC|`nano create_plot.py`
-    Bianca       |`nano create_plot.py`
-    COSMOS       |`nano create_plot.py`
-    Dardel       |`module load nano ; nano create_plot.py`
-    Kebnekaise   |`nano create_plot.py`
-    LUMI         |`nano create_plot.py`
-    Pelle        |`nano create_plot.py`
+    Arrhenius HPC|`nano hello_world.py`
+    Bianca       |`nano hello_world.py`
+    COSMOS       |`nano hello_world.py`
+    Dardel       |`module load nano ; nano hello_world.py`
+    Kebnekaise   |`nano hello_world.py`
+    LUMI         |`nano hello_world.py`
+    Pelle        |`nano hello_world.py`
 
 Copy-paste the following content into the script:
 

@@ -1,5 +1,7 @@
 # Working with graphics
 
+![The minimal plot](working_with_graphics_plot.png)
+
 !!!- info "Learning outcomes"
 
     - Practice using the documentation of your HPC cluster
@@ -52,12 +54,6 @@ plt.savefig("my_plot.png")
 ```
 
 This Python code will create a minimal plot and save it to file.
-
-??? question "How does that plot look like?"
-
-    ![The minimal plot](working_with_graphics_plot.png)
-
-    This is the minimal plot as created by the code above.
 
 Viewing graphics from a terminal may not always work.
 There are two solutions for this:
