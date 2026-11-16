@@ -113,7 +113,8 @@ is one of the most used programming languages at this day.
 
 Running Python on an HPC cluster allows scientists to
 run their code that needs either (1) massive computation,
-(2) massive storage space, and/or (3) storage of sensitive data.
+(2) massive storage space, (3) massive memory,
+and/or (4) storage of sensitive data.
 
 This course allows you to do your analysis, in one of the
 most used programming languages at this day,
