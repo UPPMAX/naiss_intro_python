@@ -16,7 +16,7 @@ No |Date      |Source                                         |Registrations|Pre
 6  |2025-11-27|[Evaluation](../evaluations/20251127/README.md)|42           |8               |8                 |3
 7  |2026-03-03|[Evaluation](../evaluations/20260303/README.md)|57           |19              |13                |11
 8  |2026-04-20|[Evaluation](../evaluations/20260420/README.md)|50           |19 (37%)        |8 (16%)           |10 (53%)
-9  |2026-11-16|[Evaluation](../evaluations/20260420/README.md)|32           |~12             |~5                |~6
+9  |2026-11-16|[Evaluation](../evaluations/20261116/README.md)|32           |15 (47%)        |~5                |~6
 
 <!-- markdownlint-enable MD013 -->
 
