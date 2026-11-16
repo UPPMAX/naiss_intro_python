@@ -16,3 +16,9 @@ I did, so preparing this course again will be easy.
 Arrhenius was down, so let's do it now.
 
 Updated all videos.
+
+## 2026-11-16
+
+Let's see what needs to be done
+
+- [ ] Update evaluation
