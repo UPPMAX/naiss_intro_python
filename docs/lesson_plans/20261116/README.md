@@ -23,7 +23,7 @@ Let's see what needs to be done:
 
 - [ ] Update evaluation
 
-Checking last reflections's things to do:
+Checking last reflections' things to do:
 
 - [x] Ask help for each 20 registrations. Train the helpers,
   using, for example

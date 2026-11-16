@@ -1,3 +1,4 @@
+gif
 boolean
 config
 Sahar
