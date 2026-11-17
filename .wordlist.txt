@@ -1,4 +1,5 @@
 gif
+Mycket
 boolean
 config
 Sahar
