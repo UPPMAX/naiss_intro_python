@@ -86,6 +86,10 @@ I am perfectly happy with that amount.
 
 ![skills afternoon](../../evaluations/20261116/skills_afternoon.svg)
 
+- 1x no
+- 59x yes
+- 59 / 60 = 98%
+
 ## [Morning feedback](../../evaluations/20261116/morning_feedback.txt)
 
 - I really like your teaching style!
