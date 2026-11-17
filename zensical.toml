@@ -22,10 +22,10 @@ nav = [
      "sessions/variables_expressions_and_statements_1.md",
      "sessions/variables_expressions_and_statements_2.md",
      "sessions/variables_expressions_and_statements_3.md",
-#     "sessions/hello_little_turtles.md",
+     "sessions/working_with_graphics.md",
      "sessions/files.md",
      "sessions/command_line_arguments.md",
-     "sessions/graphics.md",
+     "sessions/hello_little_turtles.md",
      "sessions/functions.md",
      "further_learning.md",
      "summary.md"
