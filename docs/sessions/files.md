@@ -109,6 +109,6 @@ You are done for this afternoon!
 
 You are welcome to stay, but you may also leave.
 
-- Fill in [the morning evaluation](../../evaluation.md)
+- Fill in [the morning evaluation](../evaluation.md)
 - Say bye to the teacher(s)
 - Go back to research
