@@ -14,7 +14,7 @@ I should do so: it feels helpful nowadays; it helps prevent awkward
 situations when learners want to 'just listen' or have other bad ideas.
 
 I did Priors as usual. They do take up time and I have read that this time
-is worth it, hence I feel at ease with taking that time. 
+is worth it, hence I feel at ease with taking that time.
 On the other hand, later that day, one learner shared that he/she feels
 it shows one down and I shared the same reasoning. What about opening up
 the breakout rooms earlier, for that 'just want to work'?
@@ -55,7 +55,7 @@ as I do not like the book and the content is more stable;
 the morning session needed some new material on the new Arrhenius
 cluster, so this session is always last in the queue to prepare.
 
-Also, I behave differently: I abandoned 
+Also, I behave differently: I abandoned
 the strategy to let learners come to the main room
 when done. I think explicitly stating what to do when
 done will help me to behave the same.

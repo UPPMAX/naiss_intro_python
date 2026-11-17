@@ -19,7 +19,8 @@
 
 - I really like your teaching style!
 - Good intro!
-- It may be useful to explain how to use the uppmax documentation better so that students can learn to search for answers themselves.
+- It may be useful to explain how to use the uppmax documentation better
+  so that students can learn to search for answers themselves.
 
 ## [Afternoon feedback](afternoon_feedback.txt)
 
