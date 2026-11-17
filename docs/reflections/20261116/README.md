@@ -80,9 +80,49 @@ It recommended the first book most. I agree.
 In this part of the day, I had three learners at the end of the day.
 I am perfectly happy with that amount.
 
+## Evaluation results
+
+![skills morning](../../evaluations/20261116/skills_morning.svg)
+
+![skills afternoon](../../evaluations/20261116/skills_afternoon.svg)
+
+## [Morning feedback](../../evaluations/20261116/morning_feedback.txt)
+
+- I really like your teaching style!
+
+Great!
+
+- Good intro!
+
+Great!
+
+- It may be useful to explain how to use the uppmax documentation better
+  so that students can learn to search for answers themselves.
+
+I think this is an interesting comment. I do not show how to search,
+as this differs per HPC cluster documentation.
+On the other hand, I can show an image where the search box is.
+On another hand, I can also **demonstate** how to search the documentation.
+
+- [->] Demonstrate how to search the documentation
+
+## [Afternoon feedback](../../evaluations/20261116/afternoon_feedback.txt)
+
+- Mycket bra!
+
+Great!
+
+## Reflection after evaluation
+
+There is no critical feedback, so I am done here :-)
+
+I expected the afternoon feedback to be more critical
+and was wrong.
+
 ## To do next time
 
 - [ ] Try out two input methods for asking a question in the Prior
 - [ ] Try out a soft group activity
 - [ ] Use [Think Python](https://allendowney.github.io/ThinkPython/index.html)
   as a Python book
+- [ ] Demonstrate how to search the documentation

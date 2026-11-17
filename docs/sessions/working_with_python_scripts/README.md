@@ -47,6 +47,12 @@ that run (interpreted) code are called 'scripts'.
 In this session, we practice to create and run some simple Python scripts,
 without new theory.
 
+## Demonstration
+
+Before doing the exercises,
+a teacher will speedrun through the
+exercises.
+
 ## Exercises
 
 ???- question "Enjoy a video?"

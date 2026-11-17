@@ -112,6 +112,12 @@ These exercises will ensure you are able to run a minimal Python program.
     Kebnekaise      |No       |No            |No       |Good         |Easy
     Pelle           |No       |No            |No       |Excellent    |Easy
 
+## Demonstration
+
+Before doing the exercises,
+a teacher will speedrun through the
+exercises.
+
 ### Exercise 0: be assigned a Zoom room
 
 We will use breakout rooms, as this is best for

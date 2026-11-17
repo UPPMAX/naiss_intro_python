@@ -66,6 +66,12 @@ There are two solutions for this:
 In the worst case, downloading the image to your local computer is
 a clumsy option that works too.
 
+## Demonstration
+
+Before doing the exercises,
+a teacher will speedrun through the
+exercises.
+
 ## Exercises
 
 ???- question "Enjoy a video?"
