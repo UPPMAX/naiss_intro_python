@@ -102,7 +102,7 @@ Great!
 I think this is an interesting comment. I do not show how to search,
 as this differs per HPC cluster documentation.
 On the other hand, I can show an image where the search box is.
-On another hand, I can also **demonstate** how to search the documentation.
+On another hand, I can also **demonstrate** how to search the documentation.
 
 - [->] Demonstrate how to search the documentation
 

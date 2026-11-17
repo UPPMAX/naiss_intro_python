@@ -1,5 +1,6 @@
 gif
 Mycket
+speedrun
 boolean
 config
 Sahar
