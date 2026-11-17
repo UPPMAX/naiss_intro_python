@@ -147,6 +147,9 @@ e.g. make `Svante` into `[Arrhenius] Svante`.
 You can do so by right-click on the video of yourself,
 then click 'Rename' to change your Zoom name.
 
+HPC clusters we have answers and videos for are
+Arrhenius, Bianca, COSMOS, Dardel, Kebnekaise, LUMI and Pelle.
+
 ## (optional) Exercise 2: where is what?
 
 Explore the website of the course. Where you can you find

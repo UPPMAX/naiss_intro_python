@@ -23,7 +23,7 @@ I will try this out!
 - [NO] Open breakout rooms earlier
 
 I will not. I am happy that I consider the opinion of my learners, but I
-should not overcorrect either. I think this learner did fine, by turning
+should not over-correct either. I think this learner did fine, by turning
 off his/her camera during the Prior.
 
 That went smoothly was noticed by all learners
@@ -41,9 +41,12 @@ I am happy with that. If there would be struggling beginners,
 I would have had all the
 time to help them properly.
 
-I used the strategy to let learners come to the main room.
+I used the strategy to let learners come to the main room when done.
+I feel this worked very well.
 
-HIERO
+There is also some time lost on logistic. Unsure how to do this better.
+I am sure that not taking this time would result in chaos, so I am
+fine doing so.
 
 ## Afternoon
 
@@ -52,12 +55,34 @@ as I do not like the book and the content is more stable;
 the morning session needed some new material on the new Arrhenius
 cluster, so this session is always last in the queue to prepare.
 
-Also, I behave differently. 
+Also, I behave differently: I abandoned 
+the strategy to let learners come to the main room
+when done. I think explicitly stating what to do when
+done will help me to behave the same.
 
-HIERO
+- [x] Add a 'Done?' part at the end of each session
+
+This should fix the sloppiness, but it does not help
+me love the book
+
+- [x] Search for a better Python book
+
+This is what Duck.AI gave me:
+
+Book                                                                           |Pretty|Others
+-------------------------------------------------------------------------------|------|---------------------------
+[Think Python](https://allendowney.github.io/ThinkPython/index.html)           |Yes   |Starts at very start
+[Automate The Boring Stuff With Python](https://automatetheboringstuff.com/3e/)|Very  |Uses 'Mu' editor, best beginning
+[Python For Everybody](https://www.py4e.com/book.php)                          |Meh   |Nice start
+
+It recommended the first book most. I agree.
+
+In this part of the day, I had three learners at the end of the day.
+I am perfectly happy with that amount.
 
 ## To do next time
 
 - [ ] Try out two input methods for asking a question in the Prior
 - [ ] Try out a soft group activity
-
+- [ ] Use [Think Python](https://allendowney.github.io/ThinkPython/index.html)
+  as a Python book
