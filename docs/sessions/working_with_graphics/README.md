@@ -320,3 +320,16 @@ However, it is quite practical to be able to see your plot directly.
     In a remote desktop environment, this looks like:
 
     ![The minimal plot on Arrhenius HPC](working_with_graphics_plot_on_arrhenius_console.png)
+
+## Done?
+
+You are done for this morning!
+
+You are welcome to stay, but you may also leave.
+
+- Fill in [the morning evaluation](../../evaluation.md)
+- Say bye to the teacher(s)
+- Go back to research
+
+See you today at 13:00 if you want to learn the basics of Python
+programming :+1:

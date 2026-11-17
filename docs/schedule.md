@@ -38,10 +38,11 @@ Time        |Focus |Topic                                                       
 12:00-13:00 |.     | Break                                                                                                   |.
 13:00-14:00 |Course| [Introduction](sessions/introduction_basic_python/README.md)                                            |Richèl Bilderbeek
 .           |Python| [Variables, expressions and statements: variables](sessions/variables_expressions_and_statements_1.md)  |Richèl Bilderbeek
+.           |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md)  |Richèl Bilderbeek
 14:00-14:15 |.     | Break                                                                                                   |.
-14:15-15:00 |Python| [Variables, expressions and statements: operators](sessions/variables_expressions_and_statements_2.md)  |Richèl Bilderbeek
+14:15-15:00 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md) |Richèl Bilderbeek
 15:00-15:15 |.     | Break                                                                                                   |.
-15:15-16:00 |Python| [Variables, expressions and statements: user input](sessions/variables_expressions_and_statements_3.md) |Richèl Bilderbeek
+15:15-16:00 |Python| [File IO](sessions/files.md)                                                                            |Richèl Bilderbeek
 .           |Python| [Summary](summary.md)                                                                                   |Richèl Bilderbeek
 .           |Python| [Further learning](further_learning.md)                                                                 |Richèl Bilderbeek
 .           |Course| [Evaluation](evaluation.md)                                                                             |Richèl Bilderbeek
@@ -51,7 +52,6 @@ Time        |Focus |Topic                                                       
 
 Extra sessions:
 
-- [File IO](sessions/files.md)
 - [Command line arguments](sessions/command_line_arguments.md)
 - [Functions](sessions/functions.md)
 - [Further learning](further_learning.md)

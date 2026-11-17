@@ -87,24 +87,6 @@ Read the following sections of
 
 - 3.1. Our first turtle program
 
-Then:
-
-- Log in to your favorite HPC cluster using SSH **without** X forwarding
-
-???- question "Answer"
-
-    HPC Cluster|Example SSH login command
-    -----------|-------------------------------------------------------
-    Bianca     |`ssh sven@bianca.uppmax.uu.se`
-    COSMOS     |`ssh sven@cosmos.lunarc.lu.se`
-    Dardel     |`ssh -i ~/.ssh/id-ed25519-pdc svensv@dardel.pdc.kth.se`
-    Kebnekaise |`ssh sven@kebnekaise.hpc2n.umu.se`
-    LUMI       |`ssh -i ~/.ssh/id_rsa_lumi svensson@lumi.csc.fi`
-    Pelle      |`ssh pelle@rackham.uppmax.uu.se`
-
-- Do **not** load a Python module: it is the point of this exercise
-  to see what happens if you forget to do so!
-
 - Copy-paste the first script in that section to a script
   called `my_turtle.py` on your favorite
   HPC cluster.

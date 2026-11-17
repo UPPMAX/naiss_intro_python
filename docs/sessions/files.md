@@ -102,3 +102,13 @@ with the lines in reversed order
 
     This is considered better, because on cannot forget
     to close the files anymore: this is now done automatically.
+
+## Done?
+
+You are done for this afternoon!
+
+You are welcome to stay, but you may also leave.
+
+- Fill in [the morning evaluation](../../evaluation.md)
+- Say bye to the teacher(s)
+- Go back to research

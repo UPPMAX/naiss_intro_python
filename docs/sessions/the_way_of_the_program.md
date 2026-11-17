@@ -351,3 +351,8 @@ so it is necessary to use the `print` function to make the answer show up.
 
 It is hardly ever necessary to use the `print` function
 in immediate mode at the command prompt.
+
+## Done?
+
+Go the the main room and start working on, for example, the next session.
+When around two thirds are in the main room, we move on to the next session.

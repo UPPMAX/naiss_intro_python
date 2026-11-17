@@ -80,3 +80,8 @@ on the clock when the alarm goes off.
     print("Time after that number of hours:")
     print(t_future)
     ```
+
+## Done?
+
+Go the the main room and start working on, for example, the next session.
+When around two thirds are in the main room, we move on to the next session.

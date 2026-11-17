@@ -177,3 +177,7 @@ change the 51 to 5100.)
     ```
 
     The result is `17`, i.e. 5 pm.
+
+## Done?
+
+Stay in your breakout room and continue on the next session.

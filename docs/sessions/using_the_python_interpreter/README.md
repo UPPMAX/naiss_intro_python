@@ -302,3 +302,8 @@ How does that look like?
     ```
 
 Congratulations, you've just run a 'Hello world' program :+1:
+
+## Done?
+
+Go the the main room and start working on, for example, the next session.
+When around two thirds are in the main room, we move on to the next session.
