@@ -55,5 +55,5 @@ Run useful calculations                  |[The NAISS HPC Python course 'Basic ba
 Use parallel computations                |[The NAISS HPC Python course 'Parallel computing' session](https://hpc.pages.naiss.se/training/HPC-python/day4/parallel/)
 Professional software development        |[The Programming Formalisms course](https://uppmax.github.io/programming_formalisms/)
 The software module system               |[The NAISS HPC Python course 'Using packages' session](https://hpc.pages.naiss.se/training/HPC-python/day2/use_packages/)
-Matplotlib                               |[The NAISS HPC Python course 'Matplotlib' session](https://hpc.pages.naiss.se/training/HPC-python/day3/matplotlib/)
+Matplotlib                               |[The NAISS HPC Python course 'Matplotlib' session](https://hpc.pages.naiss.se/training/HPC-python/day3/matplotlib/matplotlib)
 Transferring files to/from an HPC cluster|[The NAISS 'Connecting and File Transfer' course](https://hpc.pages.naiss.se/training/connect-transfer/)
